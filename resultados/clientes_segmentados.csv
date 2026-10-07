@@ -1,0 +1,1526 @@
+id_cliente,tipo,zona,ruta,segmento,recencia_dias,pedidos_por_mes,compra_mensual_bs,venta_anual_bs,R,F,M,accion_sugerida,prioridad_en_segmento
+C0426,Mayorista,Norte,R05,Campeones,1,10.2,62408.0,748897.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,1
+C0948,Mayorista,Sur,R08,Campeones,1,4.6,54434.0,653203.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,2
+C0176,Mayorista,Norte,R03,Campeones,2,7.1,54351.0,652214.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,3
+C0937,Mayorista,Este,R15,Campeones,0,8.6,52812.0,633742.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,4
+C0636,Mayorista,Norte,R03,Campeones,1,5.8,44998.0,539974.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,5
+C0839,Mayorista,Norte,R04,Campeones,0,6.5,39742.0,476906.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,6
+C1612,Mayorista,Norte,R06,Campeones,1,11.9,37934.0,455213.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,7
+C0173,Mayorista,Norte,R06,Campeones,0,6.0,36091.0,433092.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,8
+C1219,Mayorista,Centro,R24,Campeones,0,7.6,33233.0,398801.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,9
+C0943,Mayorista,Norte,R01,Campeones,0,6.3,31338.0,376061.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,10
+C0539,Minimercado,Oeste,R20,Campeones,0,6.4,28985.0,347824.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,11
+C1660,Mayorista,Oeste,R17,Campeones,0,6.8,25666.0,307990.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,12
+C1385,Mayorista,Centro,R22,Campeones,0,4.8,25055.0,300662.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,13
+C0310,Mayorista,Centro,R22,Campeones,0,6.8,24760.0,297123.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,14
+C0754,Minimercado,Oeste,R17,Campeones,1,7.6,22839.0,274073.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,15
+C0319,Mayorista,Este,R13,Campeones,1,10.0,22002.0,264029.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,16
+C0292,Mayorista,Sur,R11,Campeones,1,3.8,21491.0,257889.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,17
+C1676,Mayorista,Centro,R23,Campeones,0,5.8,20817.0,249803.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,18
+C0810,Mayorista,Norte,R06,Campeones,0,5.4,20619.0,247429.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,19
+C0856,Mayorista,Este,R16,Campeones,0,4.1,20255.0,243058.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,20
+C1642,Mayorista,Oeste,R19,Campeones,0,7.0,19775.0,237298.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,21
+C0859,Mayorista,Sur,R11,Campeones,0,6.2,19617.0,235409.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,22
+C1538,Mayorista,Este,R14,Campeones,1,5.2,17504.0,210048.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,23
+C1585,Mayorista,Sur,R11,Campeones,1,3.8,16928.0,203135.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,24
+C0044,Minimercado,Centro,R24,Campeones,0,6.8,13494.0,161934.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,25
+C0939,Minimercado,Este,R14,Campeones,0,9.3,13323.0,159880.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,26
+C0351,Mayorista,Norte,R03,Campeones,1,5.8,12437.0,149238.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,27
+C0033,Minimercado,Oeste,R17,Campeones,2,4.9,12335.0,148016.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,28
+C1548,Restaurante o pensión,Norte,R06,Campeones,0,5.0,12022.0,144259.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,29
+C1228,Minimercado,Centro,R24,Campeones,0,4.8,11798.0,141571.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,30
+C1671,Minimercado,Oeste,R18,Campeones,1,3.8,11335.0,136019.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,31
+C0269,Minimercado,Oeste,R19,Campeones,0,4.2,10638.0,127653.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,32
+C1628,Minimercado,Norte,R03,Campeones,1,6.0,10475.0,125695.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,33
+C1622,Minimercado,Centro,R22,Campeones,0,3.4,10016.0,120198.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,34
+C1258,Restaurante o pensión,Norte,R06,Campeones,1,5.4,9942.0,119302.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,35
+C1518,Minimercado,Sur,R11,Campeones,1,3.9,9687.0,116241.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,36
+C0865,Minimercado,Sur,R10,Campeones,1,5.5,9516.0,114192.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,37
+C0658,Minimercado,Centro,R24,Campeones,1,3.4,9050.0,108602.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,38
+C0788,Minimercado,Este,R14,Campeones,1,3.7,8988.0,107861.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,39
+C1495,Minimercado,Este,R15,Campeones,1,4.7,8669.0,104033.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,40
+C0484,Minimercado,Este,R15,Campeones,0,4.8,8485.0,101815.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,41
+C1110,Minimercado,Sur,R10,Campeones,0,3.8,8004.0,96054.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,42
+C1142,Minimercado,Este,R12,Campeones,1,6.6,8004.0,96054.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,43
+C0126,Minimercado,Centro,R23,Campeones,2,6.0,7947.0,95369.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,44
+C0475,Mayorista,Centro,R24,Campeones,0,3.7,7779.0,93352.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,45
+C1594,Minimercado,Este,R13,Campeones,0,3.6,7748.0,92975.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,46
+C0167,Tienda de barrio,Este,R16,Campeones,2,5.1,7610.0,91323.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,47
+C1412,Minimercado,Centro,R24,Campeones,0,6.3,7434.0,89209.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,48
+C1206,Minimercado,Oeste,R19,Campeones,0,3.7,7097.0,85159.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,49
+C1524,Minimercado,Norte,R06,Campeones,0,5.6,7012.0,84144.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,50
+C0035,Minimercado,Norte,R01,Campeones,1,4.3,7011.0,84133.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,51
+C0855,Minimercado,Este,R15,Campeones,1,3.6,6940.0,83277.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,52
+C1419,Minimercado,Centro,R22,Campeones,1,3.5,6731.0,80767.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,53
+C1350,Minimercado,Este,R14,Campeones,1,5.5,6341.0,76090.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,54
+C0161,Restaurante o pensión,Centro,R24,Campeones,1,5.1,6324.0,75892.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,55
+C0925,Minimercado,Norte,R01,Campeones,1,4.0,6260.0,75120.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,56
+C1291,Minimercado,Sur,R08,Campeones,0,4.1,6160.0,73923.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,57
+C0218,Minimercado,Norte,R06,Campeones,2,5.0,6132.0,73580.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,58
+C0371,Minimercado,Este,R15,Campeones,1,6.7,6075.0,72896.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,59
+C0109,Minimercado,Sur,R10,Campeones,2,4.3,5756.0,69074.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,60
+C0041,Minimercado,Oeste,R18,Campeones,2,4.7,5590.0,67078.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,61
+C1549,Minimercado,Norte,R06,Campeones,1,5.6,5476.0,65713.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,62
+C1039,Tienda de barrio,Centro,R22,Campeones,0,6.4,5269.0,63223.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,63
+C1328,Minimercado,Norte,R01,Campeones,0,4.3,5162.0,61944.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,64
+C0616,Restaurante o pensión,Norte,R06,Campeones,1,6.3,5098.0,61182.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,65
+C1679,Tienda de barrio,Norte,R01,Campeones,0,8.4,5055.0,60658.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,66
+C0526,Restaurante o pensión,Norte,R03,Campeones,1,5.0,4998.0,59981.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,67
+C0537,Restaurante o pensión,Norte,R02,Campeones,1,4.6,4878.0,58540.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,68
+C1460,Minimercado,Este,R14,Campeones,1,3.8,4774.0,57282.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,69
+C0964,Tienda de barrio,Centro,R21,Campeones,1,5.8,4708.0,56499.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,70
+C0237,Minimercado,Oeste,R19,Campeones,0,3.8,4668.0,56012.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,71
+C0824,Tienda de barrio,Oeste,R20,Campeones,0,3.9,4293.0,51515.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,72
+C0322,Tienda de barrio,Sur,R08,Campeones,0,4.8,4243.0,50915.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,73
+C0981,Tienda de barrio,Sur,R10,Campeones,0,8.3,4218.0,50615.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,74
+C1434,Tienda de barrio,Sur,R10,Campeones,0,3.5,4193.0,50314.0,5,4,5,Cuidar: abastecimiento prioritario y visita del supervisor,75
+C0828,Minimercado,Oeste,R17,Campeones,0,5.5,4159.0,49909.0,5,5,5,Cuidar: abastecimiento prioritario y visita del supervisor,76
+C1352,Restaurante o pensión,Centro,R24,Campeones,0,4.8,3943.0,47312.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,77
+C1663,Restaurante o pensión,Este,R14,Campeones,0,4.3,3926.0,47110.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,78
+C1340,Tienda de barrio,Este,R15,Campeones,1,6.8,3883.0,46592.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,79
+C0765,Tienda de barrio,Norte,R04,Campeones,1,5.4,3843.0,46112.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,80
+C0395,Tienda de barrio,Este,R14,Campeones,1,5.0,3703.0,44430.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,81
+C0187,Tienda de barrio,Este,R14,Campeones,2,5.6,3617.0,43410.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,82
+C0651,Tienda de barrio,Este,R15,Campeones,1,5.7,3562.0,42749.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,83
+C0775,Tienda de barrio,Norte,R04,Campeones,0,4.2,3542.0,42509.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,84
+C1529,Tienda de barrio,Este,R15,Campeones,0,4.3,3513.0,42161.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,85
+C0671,Tienda de barrio,Este,R16,Campeones,0,4.7,3512.0,42149.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,86
+C0569,Tienda de barrio,Sur,R10,Campeones,0,4.3,3472.0,41669.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,87
+C0270,Restaurante o pensión,Oeste,R19,Campeones,1,4.4,3442.0,41308.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,88
+C1605,Minimercado,Norte,R05,Campeones,0,3.7,3417.0,41001.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,89
+C0212,Minimercado,Centro,R24,Campeones,0,3.7,3413.0,40954.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,90
+C1609,Tienda de barrio,Oeste,R19,Campeones,1,5.6,3408.0,40893.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,91
+C0656,Tienda de barrio,Este,R13,Campeones,0,4.6,3282.0,39387.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,92
+C0794,Tienda de barrio,Oeste,R19,Campeones,0,3.9,3242.0,38907.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,93
+C0542,Tienda de barrio,Norte,R01,Campeones,0,4.1,3237.0,38847.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,94
+C1271,Tienda de barrio,Centro,R23,Campeones,0,5.0,3207.0,38486.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,95
+C0156,Minimercado,Este,R14,Campeones,2,6.1,3118.0,37418.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,96
+C1632,Tienda de barrio,Este,R16,Campeones,0,6.1,2933.0,35201.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,97
+C0043,Tienda de barrio,Este,R13,Campeones,2,5.0,2932.0,35184.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,98
+C1415,Tienda de barrio,Norte,R01,Campeones,0,4.0,2897.0,34764.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,99
+C1325,Tienda de barrio,Norte,R06,Campeones,0,4.8,2877.0,34524.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,100
+C1473,Kiosco,Sur,R07,Campeones,1,5.0,2833.0,34002.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,101
+C1651,Tienda de barrio,Oeste,R20,Campeones,0,6.1,2792.0,33499.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,102
+C0615,Tienda de barrio,Oeste,R18,Campeones,1,4.6,2762.0,33143.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,103
+C0444,Tienda de barrio,Sur,R11,Campeones,0,3.9,2752.0,33023.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,104
+C0069,Tienda de barrio,Norte,R02,Campeones,1,4.7,2627.0,31522.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,105
+C0056,Tienda de barrio,Sur,R10,Campeones,2,6.5,2587.0,31041.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,106
+C0797,Restaurante o pensión,Norte,R01,Campeones,1,3.6,2577.0,30921.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,107
+C1209,Tienda de barrio,Norte,R01,Campeones,0,6.3,2562.0,30741.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,108
+C0527,Tienda de barrio,Este,R15,Campeones,0,6.6,2547.0,30561.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,109
+C0086,Tienda de barrio,Norte,R02,Campeones,0,5.4,2527.0,30321.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,110
+C0522,Tienda de barrio,Norte,R06,Campeones,0,4.7,2497.0,29961.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,111
+C1021,Tienda de barrio,Norte,R02,Campeones,0,3.4,2492.0,29900.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,112
+C0245,Restaurante o pensión,Norte,R04,Campeones,1,3.8,2412.0,28940.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,113
+C1212,Tienda de barrio,Este,R13,Campeones,1,6.5,2367.0,28399.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,114
+C0504,Tienda de barrio,Este,R15,Campeones,0,5.3,2337.0,28039.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,115
+C0030,Tienda de barrio,Norte,R02,Campeones,0,9.1,2292.0,27499.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,116
+C1311,Tienda de barrio,Norte,R05,Campeones,1,3.9,2257.0,27079.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,117
+C0461,Tienda de barrio,Sur,R07,Campeones,1,3.5,2197.0,26358.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,118
+C0071,Tienda de barrio,Sur,R09,Campeones,2,3.6,2156.0,25878.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,119
+C0614,Tienda de barrio,Centro,R24,Campeones,0,3.5,2151.0,25818.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,120
+C0203,Tienda de barrio,Oeste,R20,Campeones,1,4.5,2141.0,25698.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,121
+C1396,Minimercado,Este,R12,Campeones,0,4.8,2129.0,25553.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,122
+C1329,Tienda de barrio,Este,R13,Campeones,0,3.8,2111.0,25337.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,123
+C0268,Tienda de barrio,Sur,R11,Campeones,0,5.2,2081.0,24977.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,124
+C0809,Tienda de barrio,Norte,R06,Campeones,1,4.3,2081.0,24977.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,125
+C1655,Tienda de barrio,Sur,R07,Campeones,1,4.1,2060.0,24716.0,5,4,4,Cuidar: abastecimiento prioritario y visita del supervisor,126
+C0025,Kiosco,Este,R13,Campeones,2,5.8,1991.0,23886.0,5,5,4,Cuidar: abastecimiento prioritario y visita del supervisor,127
+C1639,Tienda de barrio,Centro,R21,Campeones,0,4.5,1915.0,22984.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,128
+C0866,Tienda de barrio,Oeste,R18,Campeones,0,3.5,1881.0,22575.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,129
+C0230,Tienda de barrio,Centro,R23,Campeones,2,3.4,1861.0,22335.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,130
+C1384,Tienda de barrio,Centro,R24,Campeones,1,4.3,1861.0,22335.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,131
+C0064,Restaurante o pensión,Norte,R05,Campeones,1,4.3,1841.0,22095.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,132
+C1192,Tienda de barrio,Norte,R04,Campeones,0,4.3,1776.0,21315.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,133
+C0091,Kiosco,Sur,R08,Campeones,0,3.5,1629.0,19543.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,134
+C1603,Tienda de barrio,Centro,R24,Campeones,1,6.4,1612.0,19343.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,135
+C0015,Tienda de barrio,Sur,R09,Campeones,1,5.2,1566.0,18793.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,136
+C0195,Restaurante o pensión,Oeste,R20,Campeones,1,4.2,1561.0,18733.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,137
+C0168,Tienda de barrio,Oeste,R18,Campeones,0,5.2,1556.0,18673.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,138
+C1490,Kiosco,Este,R13,Campeones,0,5.0,1483.0,17793.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,139
+C0179,Tienda de barrio,Este,R12,Campeones,1,6.8,1481.0,17772.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,140
+C0347,Tienda de barrio,Norte,R01,Campeones,0,6.4,1476.0,17712.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,141
+C0511,Tienda de barrio,Este,R12,Campeones,1,5.5,1471.0,17652.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,142
+C0618,Tienda de barrio,Oeste,R20,Campeones,1,5.0,1446.0,17352.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,143
+C0295,Tienda de barrio,Sur,R11,Campeones,0,4.9,1436.0,17232.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,144
+C0508,Kiosco,Norte,R04,Campeones,1,5.5,1406.0,16876.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,145
+C1614,Tienda de barrio,Norte,R06,Campeones,0,4.6,1379.0,16550.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,146
+C1318,Tienda de barrio,Este,R14,Campeones,1,4.6,1376.0,16511.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,147
+C1157,Tienda de barrio,Sur,R09,Campeones,0,5.1,1356.0,16271.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,148
+C1146,Tienda de barrio,Este,R12,Campeones,0,3.7,1346.0,16151.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,149
+C1240,Tienda de barrio,Sur,R08,Campeones,0,3.9,1296.0,15551.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,150
+C1652,Tienda de barrio,Este,R13,Campeones,0,5.5,1250.0,15002.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,151
+C1525,Tienda de barrio,Sur,R08,Campeones,0,6.3,1248.0,14975.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,152
+C0540,Tienda de barrio,Oeste,R19,Campeones,0,5.2,1241.0,14890.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,153
+C1364,Tienda de barrio,Oeste,R20,Campeones,0,7.1,1231.0,14770.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,154
+C0457,Tienda de barrio,Norte,R02,Campeones,0,6.5,1206.0,14470.0,5,5,3,Cuidar: abastecimiento prioritario y visita del supervisor,155
+C0481,Tienda de barrio,Este,R16,Campeones,1,4.3,1156.0,13869.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,156
+C1023,Tienda de barrio,Centro,R22,Campeones,1,3.6,1146.0,13749.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,157
+C1180,Tienda de barrio,Norte,R05,Campeones,0,3.8,1141.0,13689.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,158
+C0085,Kiosco,Oeste,R20,Campeones,2,4.4,1137.0,13649.0,5,4,3,Cuidar: abastecimiento prioritario y visita del supervisor,159
+C1343,Tienda de barrio,Sur,R11,Campeones,1,3.5,1111.0,13329.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,160
+C0057,Tienda de barrio,Norte,R05,Campeones,1,3.9,996.0,11948.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,161
+C1295,Tienda de barrio,Sur,R11,Campeones,1,5.3,951.0,11408.0,5,5,2,Cuidar: abastecimiento prioritario y visita del supervisor,162
+C1657,Tienda de barrio,Norte,R05,Campeones,0,4.4,889.0,10669.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,163
+C1057,Tienda de barrio,Este,R14,Campeones,1,3.8,871.0,10447.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,164
+C1116,Tienda de barrio,Este,R13,Campeones,1,4.2,781.0,9366.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,165
+C0510,Kiosco,Norte,R01,Campeones,1,3.6,734.0,8810.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,166
+C1346,Kiosco,Este,R13,Campeones,0,3.8,734.0,8810.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,167
+C0193,Kiosco,Norte,R01,Campeones,1,3.5,646.0,7755.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,168
+C0191,Tienda de barrio,Norte,R02,Campeones,1,3.6,635.0,7625.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,169
+C0575,Tienda de barrio,Norte,R01,Campeones,1,3.6,610.0,7325.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,170
+C1290,Kiosco,Norte,R06,Campeones,0,3.4,579.0,6949.0,5,4,2,Cuidar: abastecimiento prioritario y visita del supervisor,171
+C1685,Kiosco,Sur,R07,Campeones,1,3.8,515.0,6176.0,5,4,1,Cuidar: abastecimiento prioritario y visita del supervisor,172
+C0896,Kiosco,Oeste,R20,Campeones,0,4.3,408.0,4901.0,5,4,1,Cuidar: abastecimiento prioritario y visita del supervisor,173
+C0989,Mayorista,Oeste,R18,Leales,7,8.9,136182.0,1634179.0,3,5,5,Subir el ticket: combos y familias que no compra,1
+C0988,Mayorista,Norte,R03,Leales,6,4.5,81258.0,975095.0,3,4,5,Subir el ticket: combos y familias que no compra,2
+C0711,Mayorista,Este,R15,Leales,7,5.3,76792.0,921499.0,3,5,5,Subir el ticket: combos y familias que no compra,3
+C1003,Mayorista,Centro,R22,Leales,8,5.3,54846.0,658146.0,3,5,5,Subir el ticket: combos y familias que no compra,4
+C1231,Mayorista,Norte,R06,Leales,4,7.1,51316.0,615789.0,4,5,5,Subir el ticket: combos y familias que no compra,5
+C0255,Mayorista,Oeste,R18,Leales,9,6.0,40648.0,487782.0,3,5,5,Subir el ticket: combos y familias que no compra,6
+C0287,Mayorista,Norte,R04,Leales,4,7.0,40566.0,486793.0,4,5,5,Subir el ticket: combos y familias que no compra,7
+C1556,Mayorista,Oeste,R20,Leales,2,5.3,38345.0,460138.0,4,5,5,Subir el ticket: combos y familias que no compra,8
+C1005,Mayorista,Norte,R06,Leales,6,4.6,37492.0,449900.0,3,4,5,Subir el ticket: combos y familias que no compra,9
+C1570,Mayorista,Este,R12,Leales,4,9.5,37302.0,447623.0,4,5,5,Subir el ticket: combos y familias que no compra,10
+C0443,Mayorista,Sur,R07,Leales,7,5.4,34179.0,410145.0,3,5,5,Subir el ticket: combos y familias que no compra,11
+C0629,Mayorista,Oeste,R18,Leales,6,6.3,29144.0,349731.0,3,5,5,Subir el ticket: combos y familias que no compra,12
+C1085,Minimercado,Oeste,R18,Leales,2,6.3,28624.0,343489.0,4,5,5,Subir el ticket: combos y familias que no compra,13
+C0285,Mayorista,Oeste,R20,Leales,7,7.1,26876.0,322517.0,3,5,5,Subir el ticket: combos y familias que no compra,14
+C0698,Mayorista,Norte,R01,Leales,5,4.6,23481.0,281773.0,4,4,5,Subir el ticket: combos y familias que no compra,15
+C0365,Mayorista,Sur,R09,Leales,6,4.0,21486.0,257836.0,4,4,5,Subir el ticket: combos y familias que no compra,16
+C1598,Mayorista,Este,R15,Leales,5,6.1,21153.0,253838.0,4,5,5,Subir el ticket: combos y familias que no compra,17
+C0059,Mayorista,Centro,R23,Leales,4,6.4,21087.0,253049.0,4,5,5,Subir el ticket: combos y familias que no compra,18
+C1314,Minimercado,Este,R13,Leales,6,7.3,20900.0,250801.0,3,5,5,Subir el ticket: combos y familias que no compra,19
+C0477,Mayorista,Centro,R23,Leales,8,3.6,20675.0,248106.0,3,4,5,Subir el ticket: combos y familias que no compra,20
+C1403,Mayorista,Este,R14,Leales,8,4.9,19925.0,239104.0,3,5,5,Subir el ticket: combos y familias que no compra,21
+C0544,Mayorista,Norte,R06,Leales,6,7.7,19630.0,235565.0,3,5,5,Subir el ticket: combos y familias que no compra,22
+C1027,Mayorista,Norte,R02,Leales,4,6.3,19448.0,233380.0,4,5,5,Subir el ticket: combos y familias que no compra,23
+C0870,Mayorista,Oeste,R17,Leales,4,4.0,19323.0,231871.0,4,4,5,Subir el ticket: combos y familias que no compra,24
+C0543,Minimercado,Centro,R23,Leales,4,6.3,18020.0,216235.0,4,5,5,Subir el ticket: combos y familias que no compra,25
+C0702,Mayorista,Sur,R08,Leales,7,8.3,17410.0,208923.0,3,5,5,Subir el ticket: combos y familias que no compra,26
+C0259,Mayorista,Sur,R09,Leales,6,4.8,16912.0,202939.0,4,5,5,Subir el ticket: combos y familias que no compra,27
+C1278,Mayorista,Oeste,R17,Leales,6,3.9,15819.0,189826.0,3,4,5,Subir el ticket: combos y familias que no compra,28
+C1550,Minimercado,Este,R15,Leales,7,3.7,15662.0,187940.0,3,4,5,Subir el ticket: combos y familias que no compra,29
+C0657,Mayorista,Norte,R04,Leales,5,5.1,15481.0,185767.0,4,5,5,Subir el ticket: combos y familias que no compra,30
+C0231,Mayorista,Norte,R05,Leales,5,4.8,14943.0,179315.0,4,5,5,Subir el ticket: combos y familias que no compra,31
+C0880,Mayorista,Sur,R08,Leales,9,5.7,13911.0,166930.0,3,5,5,Subir el ticket: combos y familias que no compra,32
+C1493,Minimercado,Este,R14,Leales,5,6.5,13103.0,157237.0,4,5,5,Subir el ticket: combos y familias que no compra,33
+C0719,Minimercado,Norte,R04,Leales,11,4.3,12320.0,147845.0,3,4,5,Subir el ticket: combos y familias que no compra,34
+C0099,Minimercado,Oeste,R20,Leales,5,7.8,12111.0,145335.0,4,5,5,Subir el ticket: combos y familias que no compra,35
+C0938,Mayorista,Oeste,R17,Leales,7,4.9,12025.0,144295.0,3,5,5,Subir el ticket: combos y familias que no compra,36
+C1064,Minimercado,Centro,R24,Leales,2,7.6,11774.0,141286.0,4,5,5,Subir el ticket: combos y familias que no compra,37
+C0977,Minimercado,Este,R13,Leales,5,3.6,11546.0,138548.0,4,4,5,Subir el ticket: combos y familias que no compra,38
+C1310,Minimercado,Centro,R21,Leales,7,5.6,11047.0,132559.0,3,5,5,Subir el ticket: combos y familias que no compra,39
+C0907,Minimercado,Oeste,R20,Leales,2,4.0,10890.0,130676.0,4,4,5,Subir el ticket: combos y familias que no compra,40
+C0134,Minimercado,Norte,R06,Leales,6,4.1,10557.0,126684.0,4,4,5,Subir el ticket: combos y familias que no compra,41
+C0715,Mayorista,Este,R13,Leales,7,5.1,10485.0,125822.0,3,5,5,Subir el ticket: combos y familias que no compra,42
+C1588,Mayorista,Sur,R11,Leales,5,4.1,10381.0,124572.0,4,4,5,Subir el ticket: combos y familias que no compra,43
+C1514,Restaurante o pensión,Sur,R09,Leales,2,4.2,10286.0,123436.0,4,4,5,Subir el ticket: combos y familias que no compra,44
+C0951,Minimercado,Este,R12,Leales,2,5.3,10258.0,123090.0,4,5,5,Subir el ticket: combos y familias que no compra,45
+C1235,Minimercado,Norte,R04,Leales,2,4.9,10253.0,123033.0,4,5,5,Subir el ticket: combos y familias que no compra,46
+C1017,Tienda de barrio,Norte,R01,Leales,5,6.9,9987.0,119842.0,4,5,5,Subir el ticket: combos y familias que no compra,47
+C0554,Mayorista,Sur,R08,Leales,12,4.2,9358.0,112293.0,3,4,5,Subir el ticket: combos y familias que no compra,48
+C1100,Mayorista,Sur,R11,Leales,2,4.8,9314.0,111773.0,4,5,5,Subir el ticket: combos y familias que no compra,49
+C0953,Minimercado,Centro,R23,Leales,11,4.5,9003.0,108032.0,3,4,5,Subir el ticket: combos y familias que no compra,50
+C0503,Mayorista,Norte,R04,Leales,6,4.0,8920.0,107037.0,4,4,5,Subir el ticket: combos y familias que no compra,51
+C0147,Minimercado,Norte,R04,Leales,9,6.8,8660.0,103925.0,3,5,5,Subir el ticket: combos y familias que no compra,52
+C0942,Mayorista,Oeste,R20,Leales,2,6.3,8512.0,102146.0,4,5,5,Subir el ticket: combos y familias que no compra,53
+C1492,Minimercado,Sur,R10,Leales,12,5.3,8416.0,100987.0,3,5,5,Subir el ticket: combos y familias que no compra,54
+C1650,Minimercado,Centro,R24,Leales,2,7.8,8383.0,100601.0,4,5,5,Subir el ticket: combos y familias que no compra,55
+C0492,Mayorista,Norte,R06,Leales,4,3.9,8343.0,100117.0,4,4,5,Subir el ticket: combos y familias que no compra,56
+C0120,Minimercado,Sur,R11,Leales,4,6.3,8256.0,99077.0,4,5,5,Subir el ticket: combos y familias que no compra,57
+C0157,Minimercado,Norte,R02,Leales,8,4.7,8081.0,96966.0,3,5,5,Subir el ticket: combos y familias que no compra,58
+C1527,Minimercado,Sur,R08,Leales,9,7.5,7929.0,95152.0,3,5,5,Subir el ticket: combos y familias que no compra,59
+C0516,Minimercado,Norte,R02,Leales,6,4.5,7681.0,92175.0,3,4,5,Subir el ticket: combos y familias que no compra,60
+C0909,Minimercado,Sur,R07,Leales,2,5.8,7477.0,89722.0,4,5,5,Subir el ticket: combos y familias que no compra,61
+C0552,Minimercado,Sur,R09,Leales,9,6.0,7420.0,89038.0,3,5,5,Subir el ticket: combos y familias que no compra,62
+C0936,Minimercado,Sur,R11,Leales,4,5.3,7306.0,87669.0,4,5,5,Subir el ticket: combos y familias que no compra,63
+C1205,Minimercado,Este,R14,Leales,2,7.5,7272.0,87270.0,4,5,5,Subir el ticket: combos y familias que no compra,64
+C0644,Mayorista,Este,R14,Leales,6,3.5,7233.0,86795.0,3,4,5,Subir el ticket: combos y familias que no compra,65
+C0886,Minimercado,Sur,R11,Leales,6,6.0,7215.0,86585.0,3,5,5,Subir el ticket: combos y familias que no compra,66
+C0298,Minimercado,Centro,R24,Leales,11,8.5,7073.0,84874.0,3,5,5,Subir el ticket: combos y familias que no compra,67
+C0854,Minimercado,Norte,R02,Leales,6,5.3,6892.0,82707.0,3,5,5,Subir el ticket: combos y familias que no compra,68
+C0011,Minimercado,Centro,R21,Leales,11,6.4,6883.0,82593.0,3,5,5,Subir el ticket: combos y familias que no compra,69
+C1270,Minimercado,Sur,R11,Leales,9,3.7,6845.0,82136.0,3,4,5,Subir el ticket: combos y familias que no compra,70
+C1339,Minimercado,Sur,R09,Leales,4,3.5,6664.0,79969.0,4,4,5,Subir el ticket: combos y familias que no compra,71
+C0239,Minimercado,Norte,R02,Leales,7,4.9,6412.0,76946.0,3,5,5,Subir el ticket: combos y familias que no compra,72
+C0829,Restaurante o pensión,Centro,R21,Leales,4,5.1,6159.0,73911.0,4,5,5,Subir el ticket: combos y familias que no compra,73
+C0139,Minimercado,Norte,R03,Leales,6,5.2,6070.0,72839.0,4,5,5,Subir el ticket: combos y familias que no compra,74
+C1456,Minimercado,Oeste,R17,Leales,6,4.3,6027.0,72326.0,3,4,5,Subir el ticket: combos y familias que no compra,75
+C0944,Minimercado,Este,R13,Leales,5,4.8,5847.0,70158.0,4,5,5,Subir el ticket: combos y familias que no compra,76
+C1289,Tienda de barrio,Norte,R06,Leales,7,4.0,5754.0,69047.0,3,4,5,Subir el ticket: combos y familias que no compra,77
+C0281,Tienda de barrio,Este,R16,Leales,4,5.6,5709.0,68507.0,4,5,5,Subir el ticket: combos y familias que no compra,78
+C1641,Minimercado,Este,R12,Leales,6,4.2,5662.0,67949.0,3,4,5,Subir el ticket: combos y familias que no compra,79
+C0690,Minimercado,Sur,R11,Leales,5,3.4,5647.0,67762.0,4,4,5,Subir el ticket: combos y familias que no compra,80
+C0380,Restaurante o pensión,Sur,R08,Leales,5,4.6,5634.0,67606.0,4,4,5,Subir el ticket: combos y familias que no compra,81
+C0370,Minimercado,Norte,R04,Leales,9,3.7,5585.0,67021.0,3,4,5,Subir el ticket: combos y familias que no compra,82
+C0405,Minimercado,Norte,R02,Leales,9,4.5,5580.0,66964.0,3,4,5,Subir el ticket: combos y familias que no compra,83
+C0335,Minimercado,Oeste,R17,Leales,4,5.1,5481.0,65766.0,4,5,5,Subir el ticket: combos y familias que no compra,84
+C1634,Minimercado,Centro,R22,Leales,2,5.8,5370.0,64435.0,4,5,5,Subir el ticket: combos y familias que no compra,85
+C0573,Minimercado,Norte,R03,Leales,4,5.4,5300.0,63599.0,4,5,5,Subir el ticket: combos y familias que no compra,86
+C1380,Restaurante o pensión,Centro,R24,Leales,4,3.7,5274.0,63283.0,4,4,5,Subir el ticket: combos y familias que no compra,87
+C1452,Tienda de barrio,Sur,R11,Leales,8,6.8,5209.0,62503.0,3,5,5,Subir el ticket: combos y familias que no compra,88
+C0140,Minimercado,Oeste,R17,Leales,11,4.7,5200.0,62401.0,3,5,5,Subir el ticket: combos y familias que no compra,89
+C1573,Tienda de barrio,Centro,R21,Leales,9,3.8,5174.0,62092.0,3,4,5,Subir el ticket: combos y familias que no compra,90
+C0051,Tienda de barrio,Norte,R04,Leales,4,5.8,5139.0,61662.0,4,5,5,Subir el ticket: combos y familias que no compra,91
+C1369,Restaurante o pensión,Norte,R02,Leales,6,4.5,5129.0,61542.0,3,4,5,Subir el ticket: combos y familias que no compra,92
+C1627,Tienda de barrio,Este,R16,Leales,6,8.4,5102.0,61219.0,3,5,5,Subir el ticket: combos y familias que no compra,93
+C1481,Minimercado,Norte,R03,Leales,7,3.5,5018.0,60218.0,3,4,5,Subir el ticket: combos y familias que no compra,94
+C1366,Tienda de barrio,Centro,R24,Leales,2,11.2,4978.0,59741.0,4,5,5,Subir el ticket: combos y familias que no compra,95
+C0336,Minimercado,Sur,R10,Leales,7,5.6,4848.0,58180.0,3,5,5,Subir el ticket: combos y familias que no compra,96
+C1092,Minimercado,Norte,R05,Leales,12,3.9,4768.0,57210.0,3,4,5,Subir el ticket: combos y familias que no compra,97
+C1486,Tienda de barrio,Oeste,R19,Leales,2,5.0,4640.0,55676.0,4,5,5,Subir el ticket: combos y familias que no compra,98
+C0887,Tienda de barrio,Centro,R22,Leales,8,5.1,4618.0,55418.0,3,5,5,Subir el ticket: combos y familias que no compra,99
+C1022,Tienda de barrio,Este,R12,Leales,2,4.6,4528.0,54337.0,4,4,5,Subir el ticket: combos y familias que no compra,100
+C1033,Minimercado,Sur,R09,Leales,12,3.8,4463.0,53560.0,3,4,5,Subir el ticket: combos y familias que no compra,101
+C1450,Minimercado,Norte,R04,Leales,4,3.6,4421.0,53046.0,4,4,5,Subir el ticket: combos y familias que no compra,102
+C1169,Minimercado,Norte,R03,Leales,7,3.9,4373.0,52476.0,3,4,5,Subir el ticket: combos y familias que no compra,103
+C0468,Tienda de barrio,Este,R12,Leales,6,7.3,4318.0,51815.0,4,5,5,Subir el ticket: combos y familias que no compra,104
+C0601,Restaurante o pensión,Norte,R02,Leales,12,4.8,4298.0,51575.0,3,5,5,Subir el ticket: combos y familias que no compra,105
+C0095,Restaurante o pensión,Norte,R03,Leales,7,5.5,4293.0,51515.0,3,5,5,Subir el ticket: combos y familias que no compra,106
+C1536,Minimercado,Oeste,R17,Leales,5,4.9,4190.0,50284.0,4,5,5,Subir el ticket: combos y familias que no compra,107
+C1061,Minimercado,Norte,R05,Leales,4,3.8,4145.0,49738.0,4,4,4,Subir el ticket: combos y familias que no compra,108
+C1184,Minimercado,Este,R12,Leales,12,7.1,4145.0,49738.0,3,5,5,Subir el ticket: combos y familias que no compra,109
+C0096,Tienda de barrio,Oeste,R19,Leales,6,3.8,4003.0,48033.0,4,4,4,Subir el ticket: combos y familias que no compra,110
+C0047,Restaurante o pensión,Este,R13,Leales,7,3.8,3953.0,47432.0,3,4,4,Subir el ticket: combos y familias que no compra,111
+C0605,Tienda de barrio,Oeste,R18,Leales,5,5.7,3943.0,47312.0,4,5,4,Subir el ticket: combos y familias que no compra,112
+C1465,Tienda de barrio,Sur,R07,Leales,5,4.2,3940.0,47277.0,4,4,4,Subir el ticket: combos y familias que no compra,113
+C1234,Minimercado,Este,R16,Leales,7,4.8,3936.0,47228.0,3,5,4,Subir el ticket: combos y familias que no compra,114
+C0825,Restaurante o pensión,Norte,R05,Leales,11,4.3,3858.0,46292.0,3,4,4,Subir el ticket: combos y familias que no compra,115
+C1484,Tienda de barrio,Norte,R05,Leales,2,3.6,3779.0,45344.0,4,4,4,Subir el ticket: combos y familias que no compra,116
+C0996,Restaurante o pensión,Norte,R04,Leales,11,4.4,3728.0,44731.0,3,4,4,Subir el ticket: combos y familias que no compra,117
+C1383,Tienda de barrio,Norte,R06,Leales,5,5.8,3698.0,44370.0,4,5,4,Subir el ticket: combos y familias que no compra,118
+C1195,Minimercado,Norte,R05,Leales,5,3.8,3674.0,44091.0,4,4,4,Subir el ticket: combos y familias que no compra,119
+C0374,Minimercado,Norte,R06,Leales,9,3.8,3646.0,43749.0,3,4,4,Subir el ticket: combos y familias que no compra,120
+C1244,Tienda de barrio,Este,R13,Leales,4,4.5,3622.0,43470.0,4,4,4,Subir el ticket: combos y familias que no compra,121
+C1008,Tienda de barrio,Sur,R11,Leales,8,4.7,3617.0,43410.0,3,5,4,Subir el ticket: combos y familias que no compra,122
+C0961,Tienda de barrio,Oeste,R18,Leales,6,7.3,3567.0,42809.0,3,5,4,Subir el ticket: combos y familias que no compra,123
+C0709,Tienda de barrio,Centro,R21,Leales,2,4.1,3527.0,42329.0,4,4,4,Subir el ticket: combos y familias que no compra,124
+C0276,Tienda de barrio,Norte,R06,Leales,11,6.3,3522.0,42269.0,3,5,4,Subir el ticket: combos y familias que no compra,125
+C1251,Tienda de barrio,Norte,R05,Leales,8,3.4,3487.0,41849.0,3,4,4,Subir el ticket: combos y familias que no compra,126
+C0077,Tienda de barrio,Sur,R11,Leales,5,5.1,3467.0,41608.0,4,5,4,Subir el ticket: combos y familias que no compra,127
+C0768,Restaurante o pensión,Este,R13,Leales,6,4.6,3412.0,40948.0,3,4,4,Subir el ticket: combos y familias que no compra,128
+C0249,Tienda de barrio,Norte,R04,Leales,5,5.3,3407.0,40888.0,4,5,4,Subir el ticket: combos y familias que no compra,129
+C0962,Minimercado,Sur,R07,Leales,7,3.5,3403.0,40840.0,3,4,4,Subir el ticket: combos y familias que no compra,130
+C0728,Minimercado,Sur,R09,Leales,6,4.0,3370.0,40441.0,3,4,4,Subir el ticket: combos y familias que no compra,131
+C1382,Tienda de barrio,Este,R15,Leales,9,4.3,3337.0,40047.0,3,4,4,Subir el ticket: combos y familias que no compra,132
+C0640,Tienda de barrio,Centro,R24,Leales,9,5.9,3312.0,39747.0,3,5,4,Subir el ticket: combos y familias que no compra,133
+C1132,Tienda de barrio,Sur,R07,Leales,6,5.8,3312.0,39747.0,3,5,4,Subir el ticket: combos y familias que no compra,134
+C1248,Tienda de barrio,Sur,R11,Leales,4,5.5,3312.0,39747.0,4,5,4,Subir el ticket: combos y familias que no compra,135
+C1336,Minimercado,Norte,R02,Leales,4,5.6,3308.0,39699.0,4,5,4,Subir el ticket: combos y familias que no compra,136
+C1006,Tienda de barrio,Centro,R23,Leales,2,3.6,3277.0,39327.0,4,4,4,Subir el ticket: combos y familias que no compra,137
+C0236,Tienda de barrio,Norte,R06,Leales,5,3.8,3187.0,38246.0,4,4,4,Subir el ticket: combos y familias que no compra,138
+C0845,Tienda de barrio,Oeste,R17,Leales,2,5.0,3152.0,37826.0,4,5,4,Subir el ticket: combos y familias que no compra,139
+C0714,Minimercado,Norte,R04,Leales,4,5.9,3137.0,37646.0,4,5,4,Subir el ticket: combos y familias que no compra,140
+C1654,Tienda de barrio,Norte,R02,Leales,2,4.4,3133.0,37591.0,4,4,4,Subir el ticket: combos y familias que no compra,141
+C0688,Tienda de barrio,Este,R14,Leales,2,7.8,3097.0,37165.0,4,5,4,Subir el ticket: combos y familias que no compra,142
+C0920,Tienda de barrio,Norte,R01,Leales,5,6.3,3097.0,37165.0,4,5,4,Subir el ticket: combos y familias que no compra,143
+C1512,Restaurante o pensión,Sur,R07,Leales,6,4.8,2976.0,35711.0,3,5,4,Subir el ticket: combos y familias que no compra,144
+C0029,Tienda de barrio,Norte,R01,Leales,12,4.9,2907.0,34884.0,3,5,4,Subir el ticket: combos y familias que no compra,145
+C0304,Restaurante o pensión,Centro,R24,Leales,5,4.5,2907.0,34884.0,4,4,4,Subir el ticket: combos y familias que no compra,146
+C0602,Tienda de barrio,Sur,R09,Leales,7,6.3,2907.0,34884.0,3,5,4,Subir el ticket: combos y familias que no compra,147
+C0223,Tienda de barrio,Norte,R04,Leales,8,3.4,2887.0,34644.0,3,4,4,Subir el ticket: combos y familias que no compra,148
+C1686,Tienda de barrio,Centro,R22,Leales,4,4.7,2856.0,34267.0,4,5,4,Subir el ticket: combos y familias que no compra,149
+C0072,Tienda de barrio,Este,R16,Leales,9,4.8,2842.0,34103.0,3,5,4,Subir el ticket: combos y familias que no compra,150
+C0136,Restaurante o pensión,Este,R14,Leales,12,3.5,2827.0,33923.0,3,4,4,Subir el ticket: combos y familias que no compra,151
+C1063,Tienda de barrio,Centro,R24,Leales,5,3.9,2797.0,33563.0,4,4,4,Subir el ticket: combos y familias que no compra,152
+C1007,Tienda de barrio,Centro,R23,Leales,2,7.3,2747.0,32963.0,4,5,4,Subir el ticket: combos y familias que no compra,153
+C1256,Minimercado,Norte,R04,Leales,6,3.8,2738.0,32854.0,3,4,4,Subir el ticket: combos y familias que no compra,154
+C0910,Tienda de barrio,Centro,R23,Leales,4,4.0,2652.0,31822.0,4,4,4,Subir el ticket: combos y familias que no compra,155
+C0738,Tienda de barrio,Norte,R01,Leales,8,6.2,2627.0,31522.0,3,5,4,Subir el ticket: combos y familias que no compra,156
+C1053,Tienda de barrio,Centro,R24,Leales,11,5.5,2617.0,31401.0,3,5,4,Subir el ticket: combos y familias que no compra,157
+C1593,Restaurante o pensión,Oeste,R18,Leales,7,3.8,2613.0,31360.0,3,4,4,Subir el ticket: combos y familias que no compra,158
+C0112,Tienda de barrio,Oeste,R18,Leales,12,4.4,2592.0,31101.0,3,4,4,Subir el ticket: combos y familias que no compra,159
+C1153,Tienda de barrio,Norte,R05,Leales,2,4.8,2592.0,31101.0,4,5,4,Subir el ticket: combos y familias que no compra,160
+C1285,Restaurante o pensión,Oeste,R17,Leales,4,6.0,2592.0,31101.0,4,5,4,Subir el ticket: combos y familias que no compra,161
+C1535,Tienda de barrio,Centro,R24,Leales,8,3.8,2579.0,30948.0,3,4,4,Subir el ticket: combos y familias que no compra,162
+C0498,Tienda de barrio,Oeste,R18,Leales,6,4.5,2557.0,30681.0,4,4,4,Subir el ticket: combos y familias que no compra,163
+C0732,Tienda de barrio,Este,R16,Leales,2,4.7,2522.0,30261.0,4,5,4,Subir el ticket: combos y familias que no compra,164
+C1437,Minimercado,Centro,R24,Leales,4,4.7,2505.0,30060.0,4,5,4,Subir el ticket: combos y familias que no compra,165
+C0038,Tienda de barrio,Norte,R01,Leales,4,4.3,2502.0,30021.0,4,4,4,Subir el ticket: combos y familias que no compra,166
+C0074,Tienda de barrio,Oeste,R19,Leales,9,4.8,2497.0,29961.0,3,5,4,Subir el ticket: combos y familias que no compra,167
+C1332,Kiosco,Oeste,R18,Leales,9,6.3,2487.0,29842.0,3,5,4,Subir el ticket: combos y familias que no compra,168
+C1171,Tienda de barrio,Norte,R02,Leales,6,3.7,2477.0,29720.0,3,4,4,Subir el ticket: combos y familias que no compra,169
+C0020,Tienda de barrio,Este,R16,Leales,7,4.3,2472.0,29660.0,3,4,4,Subir el ticket: combos y familias que no compra,170
+C0751,Tienda de barrio,Sur,R11,Leales,5,5.5,2467.0,29600.0,4,5,4,Subir el ticket: combos y familias que no compra,171
+C0899,Restaurante o pensión,Norte,R02,Leales,6,3.4,2452.0,29420.0,3,4,4,Subir el ticket: combos y familias que no compra,172
+C1217,Tienda de barrio,Este,R16,Leales,2,4.3,2447.0,29360.0,4,4,4,Subir el ticket: combos y familias que no compra,173
+C1066,Tienda de barrio,Norte,R03,Leales,12,4.8,2352.0,28219.0,3,5,4,Subir el ticket: combos y familias que no compra,174
+C0267,Restaurante o pensión,Norte,R05,Leales,4,4.8,2347.0,28159.0,4,5,4,Subir el ticket: combos y familias que no compra,175
+C1365,Tienda de barrio,Este,R13,Leales,4,4.2,2347.0,28159.0,4,4,4,Subir el ticket: combos y familias que no compra,176
+C0764,Minimercado,Oeste,R19,Leales,4,4.2,2334.0,28006.0,4,4,4,Subir el ticket: combos y familias que no compra,177
+C0971,Restaurante o pensión,Norte,R02,Leales,9,5.7,2307.0,27679.0,3,5,4,Subir el ticket: combos y familias que no compra,178
+C0773,Tienda de barrio,Norte,R04,Leales,4,3.8,2292.0,27499.0,4,4,4,Subir el ticket: combos y familias que no compra,179
+C1267,Restaurante o pensión,Norte,R05,Leales,5,3.7,2217.0,26598.0,4,4,4,Subir el ticket: combos y familias que no compra,180
+C1601,Tienda de barrio,Norte,R01,Leales,4,5.7,2187.0,26242.0,4,5,4,Subir el ticket: combos y familias que no compra,181
+C1476,Tienda de barrio,Este,R14,Leales,4,6.6,2181.0,26171.0,4,5,4,Subir el ticket: combos y familias que no compra,182
+C1201,Tienda de barrio,Este,R13,Leales,7,4.2,2171.0,26058.0,3,4,4,Subir el ticket: combos y familias que no compra,183
+C0901,Tienda de barrio,Este,R13,Leales,6,4.7,2161.0,25938.0,3,5,4,Subir el ticket: combos y familias que no compra,184
+C0643,Tienda de barrio,Este,R16,Leales,2,3.4,2131.0,25578.0,4,4,4,Subir el ticket: combos y familias que no compra,185
+C1667,Tienda de barrio,Este,R16,Leales,6,3.6,2089.0,25074.0,3,4,4,Subir el ticket: combos y familias que no compra,186
+C0911,Tienda de barrio,Oeste,R18,Leales,2,6.9,2086.0,25037.0,4,5,4,Subir el ticket: combos y familias que no compra,187
+C0560,Kiosco,Oeste,R17,Leales,4,5.3,2084.0,25003.0,4,5,4,Subir el ticket: combos y familias que no compra,188
+C0460,Tienda de barrio,Sur,R10,Leales,11,3.8,2066.0,24797.0,3,4,4,Subir el ticket: combos y familias que no compra,189
+C0066,Tienda de barrio,Centro,R21,Leales,12,6.5,2031.0,24377.0,3,5,4,Subir el ticket: combos y familias que no compra,190
+C0367,Tienda de barrio,Este,R12,Leales,4,5.1,2016.0,24197.0,4,5,4,Subir el ticket: combos y familias que no compra,191
+C0683,Tienda de barrio,Sur,R10,Leales,4,5.3,2006.0,24076.0,4,5,4,Subir el ticket: combos y familias que no compra,192
+C1363,Tienda de barrio,Norte,R03,Leales,4,3.4,2006.0,24076.0,4,4,4,Subir el ticket: combos y familias que no compra,193
+C0893,Tienda de barrio,Sur,R09,Leales,2,5.3,2001.0,24016.0,4,5,4,Subir el ticket: combos y familias que no compra,194
+C0453,Tienda de barrio,Norte,R01,Leales,6,4.9,1966.0,23596.0,4,5,3,Subir el ticket: combos y familias que no compra,195
+C0701,Tienda de barrio,Oeste,R18,Leales,5,5.3,1941.0,23296.0,4,5,3,Subir el ticket: combos y familias que no compra,196
+C0678,Tienda de barrio,Sur,R08,Leales,4,4.8,1931.0,23176.0,4,5,3,Subir el ticket: combos y familias que no compra,197
+C1074,Tienda de barrio,Norte,R01,Leales,8,6.1,1931.0,23176.0,3,5,3,Subir el ticket: combos y familias que no compra,198
+C0343,Tienda de barrio,Norte,R05,Leales,7,4.1,1911.0,22936.0,3,4,3,Subir el ticket: combos y familias que no compra,199
+C0832,Tienda de barrio,Este,R15,Leales,5,3.7,1911.0,22936.0,4,4,3,Subir el ticket: combos y familias que no compra,200
+C1561,Tienda de barrio,Centro,R24,Leales,11,4.1,1889.0,22674.0,3,4,3,Subir el ticket: combos y familias que no compra,201
+C1610,Tienda de barrio,Norte,R03,Leales,11,4.3,1853.0,22237.0,3,4,3,Subir el ticket: combos y familias que no compra,202
+C0027,Tienda de barrio,Oeste,R17,Leales,11,3.6,1831.0,21975.0,3,4,3,Subir el ticket: combos y familias que no compra,203
+C0034,Tienda de barrio,Norte,R02,Leales,4,4.5,1786.0,21435.0,4,4,3,Subir el ticket: combos y familias que no compra,204
+C1357,Tienda de barrio,Oeste,R20,Leales,9,5.7,1786.0,21435.0,3,5,3,Subir el ticket: combos y familias que no compra,205
+C1432,Tienda de barrio,Oeste,R17,Leales,5,5.5,1786.0,21435.0,4,5,3,Subir el ticket: combos y familias que no compra,206
+C0005,Tienda de barrio,Este,R12,Leales,4,6.2,1781.0,21375.0,4,5,3,Subir el ticket: combos y familias que no compra,207
+C1435,Tienda de barrio,Este,R13,Leales,4,6.3,1766.0,21195.0,4,5,3,Subir el ticket: combos y familias que no compra,208
+C1569,Tienda de barrio,Norte,R02,Leales,11,4.4,1736.0,20829.0,3,4,3,Subir el ticket: combos y familias que no compra,209
+C0898,Tienda de barrio,Norte,R06,Leales,4,3.8,1711.0,20534.0,4,4,3,Subir el ticket: combos y familias que no compra,210
+C1555,Restaurante o pensión,Este,R14,Leales,4,3.4,1710.0,20525.0,4,4,3,Subir el ticket: combos y familias que no compra,211
+C0774,Tienda de barrio,Centro,R24,Leales,7,4.7,1706.0,20474.0,3,5,3,Subir el ticket: combos y familias que no compra,212
+C0330,Restaurante o pensión,Sur,R07,Leales,6,3.4,1676.0,20114.0,4,4,3,Subir el ticket: combos y familias que no compra,213
+C0089,Tienda de barrio,Sur,R09,Leales,7,5.4,1671.0,20054.0,3,5,3,Subir el ticket: combos y familias que no compra,214
+C0474,Tienda de barrio,Sur,R08,Leales,4,3.8,1671.0,20054.0,4,4,3,Subir el ticket: combos y familias que no compra,215
+C1349,Tienda de barrio,Oeste,R20,Leales,5,4.3,1671.0,20054.0,4,4,3,Subir el ticket: combos y familias que no compra,216
+C1139,Tienda de barrio,Sur,R10,Leales,4,4.3,1666.0,19994.0,4,4,3,Subir el ticket: combos y familias que no compra,217
+C0049,Tienda de barrio,Oeste,R17,Leales,7,3.4,1656.0,19874.0,3,4,3,Subir el ticket: combos y familias que no compra,218
+C0363,Restaurante o pensión,Norte,R04,Leales,4,4.3,1616.0,19393.0,4,4,3,Subir el ticket: combos y familias que no compra,219
+C0890,Restaurante o pensión,Este,R12,Leales,11,4.3,1616.0,19393.0,3,4,3,Subir el ticket: combos y familias que no compra,220
+C0778,Kiosco,Oeste,R17,Leales,5,4.7,1608.0,19295.0,4,5,3,Subir el ticket: combos y familias que no compra,221
+C0225,Tienda de barrio,Norte,R02,Leales,8,4.2,1601.0,19213.0,3,4,3,Subir el ticket: combos y familias que no compra,222
+C1647,Tienda de barrio,Sur,R09,Leales,5,4.1,1557.0,18679.0,4,4,3,Subir el ticket: combos y familias que no compra,223
+C0703,Kiosco,Este,R15,Leales,4,3.6,1536.0,18427.0,4,4,3,Subir el ticket: combos y familias que no compra,224
+C0424,Restaurante o pensión,Centro,R21,Leales,4,4.0,1516.0,18192.0,4,4,3,Subir el ticket: combos y familias que no compra,225
+C1677,Tienda de barrio,Centro,R21,Leales,5,4.5,1467.0,17604.0,4,4,3,Subir el ticket: combos y familias que no compra,226
+C0667,Tienda de barrio,Oeste,R19,Leales,8,4.9,1466.0,17592.0,3,5,3,Subir el ticket: combos y familias que no compra,227
+C0672,Tienda de barrio,Centro,R23,Leales,8,4.7,1446.0,17352.0,3,5,3,Subir el ticket: combos y familias que no compra,228
+C1224,Tienda de barrio,Centro,R23,Leales,2,6.0,1426.0,17112.0,4,5,3,Subir el ticket: combos y familias que no compra,229
+C0806,Tienda de barrio,Oeste,R17,Leales,4,4.7,1421.0,17052.0,4,5,3,Subir el ticket: combos y familias que no compra,230
+C1653,Tienda de barrio,Este,R15,Leales,6,4.3,1416.0,16995.0,3,4,3,Subir el ticket: combos y familias que no compra,231
+C1581,Tienda de barrio,Este,R12,Leales,6,4.6,1408.0,16895.0,3,4,3,Subir el ticket: combos y familias que no compra,232
+C1451,Kiosco,Sur,R10,Leales,7,3.8,1396.0,16751.0,3,4,3,Subir el ticket: combos y familias que no compra,233
+C0686,Tienda de barrio,Centro,R24,Leales,2,4.3,1391.0,16691.0,4,4,3,Subir el ticket: combos y familias que no compra,234
+C1560,Tienda de barrio,Este,R15,Leales,6,5.1,1381.0,16568.0,3,5,3,Subir el ticket: combos y familias que no compra,235
+C0054,Tienda de barrio,Sur,R08,Leales,6,3.9,1371.0,16451.0,4,4,3,Subir el ticket: combos y familias que no compra,236
+C0843,Tienda de barrio,Centro,R24,Leales,2,3.8,1371.0,16451.0,4,4,3,Subir el ticket: combos y familias que no compra,237
+C0969,Tienda de barrio,Sur,R10,Leales,8,5.4,1361.0,16331.0,3,5,3,Subir el ticket: combos y familias que no compra,238
+C1133,Tienda de barrio,Este,R12,Leales,4,3.7,1361.0,16331.0,4,4,3,Subir el ticket: combos y familias que no compra,239
+C1619,Tienda de barrio,Este,R13,Leales,4,5.0,1350.0,16198.0,4,5,3,Subir el ticket: combos y familias que no compra,240
+C0299,Tienda de barrio,Centro,R24,Leales,8,5.1,1316.0,15791.0,3,5,3,Subir el ticket: combos y familias que no compra,241
+C1453,Kiosco,Este,R14,Leales,2,3.5,1313.0,15759.0,4,4,3,Subir el ticket: combos y familias que no compra,242
+C0737,Kiosco,Este,R13,Leales,2,4.7,1308.0,15697.0,4,5,3,Subir el ticket: combos y familias que no compra,243
+C0885,Tienda de barrio,Centro,R22,Leales,5,3.6,1276.0,15310.0,4,4,3,Subir el ticket: combos y familias que no compra,244
+C1426,Kiosco,Sur,R08,Leales,6,4.1,1262.0,15138.0,3,4,3,Subir el ticket: combos y familias que no compra,245
+C1002,Tienda de barrio,Sur,R11,Leales,4,3.5,1251.0,15010.0,4,4,3,Subir el ticket: combos y familias que no compra,246
+C0485,Tienda de barrio,Centro,R21,Leales,7,4.6,1246.0,14950.0,3,4,3,Subir el ticket: combos y familias que no compra,247
+C1351,Tienda de barrio,Norte,R05,Leales,4,3.3,1236.0,14830.0,4,4,3,Subir el ticket: combos y familias que no compra,248
+C0296,Tienda de barrio,Este,R15,Leales,6,4.2,1221.0,14650.0,4,4,3,Subir el ticket: combos y familias que no compra,249
+C0466,Tienda de barrio,Norte,R03,Leales,4,4.3,1186.0,14230.0,4,4,3,Subir el ticket: combos y familias que no compra,250
+C0947,Restaurante o pensión,Sur,R10,Leales,5,3.9,1186.0,14230.0,4,4,3,Subir el ticket: combos y familias que no compra,251
+C0294,Kiosco,Este,R14,Leales,5,3.6,1184.0,14208.0,4,4,3,Subir el ticket: combos y familias que no compra,252
+C0065,Tienda de barrio,Centro,R23,Leales,11,4.9,1161.0,13930.0,3,5,3,Subir el ticket: combos y familias que no compra,253
+C1406,Kiosco,Norte,R03,Leales,7,4.4,1158.0,13898.0,3,4,3,Subir el ticket: combos y familias que no compra,254
+C0148,Kiosco,Centro,R22,Leales,11,4.1,1153.0,13835.0,3,4,3,Subir el ticket: combos y familias que no compra,255
+C0807,Tienda de barrio,Norte,R02,Leales,4,3.6,1141.0,13689.0,4,4,3,Subir el ticket: combos y familias que no compra,256
+C1165,Kiosco,Norte,R04,Leales,11,3.5,1132.0,13587.0,3,4,2,Subir el ticket: combos y familias que no compra,257
+C0001,Kiosco,Sur,R09,Leales,11,3.8,1106.0,13277.0,3,4,2,Subir el ticket: combos y familias que no compra,258
+C0026,Tienda de barrio,Sur,R10,Leales,7,5.5,1076.0,12909.0,3,5,2,Subir el ticket: combos y familias que no compra,259
+C0116,Tienda de barrio,Este,R13,Leales,8,4.2,1056.0,12669.0,3,4,2,Subir el ticket: combos y familias que no compra,260
+C0233,Tienda de barrio,Centro,R22,Leales,4,4.3,1056.0,12669.0,4,4,2,Subir el ticket: combos y familias que no compra,261
+C0985,Tienda de barrio,Oeste,R20,Leales,5,4.1,1051.0,12609.0,4,4,2,Subir el ticket: combos y familias que no compra,262
+C1504,Tienda de barrio,Norte,R01,Leales,2,3.7,1040.0,12475.0,4,4,2,Subir el ticket: combos y familias que no compra,263
+C0708,Tienda de barrio,Este,R16,Leales,4,4.1,1001.0,12008.0,4,4,2,Subir el ticket: combos y familias que no compra,264
+C0606,Tienda de barrio,Este,R13,Leales,4,4.4,991.0,11888.0,4,4,2,Subir el ticket: combos y familias que no compra,265
+C0621,Kiosco,Sur,R11,Leales,4,4.7,972.0,11664.0,4,5,2,Subir el ticket: combos y familias que no compra,266
+C0755,Tienda de barrio,Centro,R21,Leales,8,4.0,971.0,11648.0,3,4,2,Subir el ticket: combos y familias que no compra,267
+C1117,Tienda de barrio,Centro,R21,Leales,6,5.1,956.0,11468.0,3,5,2,Subir el ticket: combos y familias que no compra,268
+C0182,Tienda de barrio,Centro,R21,Leales,7,4.1,916.0,10988.0,3,4,2,Subir el ticket: combos y familias que no compra,269
+C1386,Tienda de barrio,Este,R14,Leales,12,3.7,916.0,10988.0,3,4,2,Subir el ticket: combos y familias que no compra,270
+C1449,Kiosco,Este,R16,Leales,2,3.7,910.0,10919.0,4,4,2,Subir el ticket: combos y familias que no compra,271
+C0666,Kiosco,Norte,R06,Leales,6,4.8,894.0,10733.0,3,5,2,Subir el ticket: combos y familias que no compra,272
+C0721,Kiosco,Centro,R21,Leales,2,4.3,848.0,10175.0,4,4,2,Subir el ticket: combos y familias que no compra,273
+C0402,Restaurante o pensión,Norte,R03,Leales,2,4.8,841.0,10087.0,4,5,2,Subir el ticket: combos y familias que no compra,274
+C1019,Kiosco,Norte,R04,Leales,4,3.8,827.0,9927.0,4,4,2,Subir el ticket: combos y familias que no compra,275
+C1502,Tienda de barrio,Oeste,R19,Leales,7,4.0,825.0,9899.0,3,4,2,Subir el ticket: combos y familias que no compra,276
+C0401,Tienda de barrio,Oeste,R19,Leales,6,6.1,811.0,9727.0,4,5,2,Subir el ticket: combos y familias que no compra,277
+C1119,Tienda de barrio,Sur,R07,Leales,2,3.9,811.0,9727.0,4,4,2,Subir el ticket: combos y familias que no compra,278
+C0531,Kiosco,Centro,R22,Leales,2,4.7,807.0,9679.0,4,5,2,Subir el ticket: combos y familias que no compra,279
+C0767,Kiosco,Norte,R01,Leales,2,4.8,776.0,9306.0,4,5,2,Subir el ticket: combos y familias que no compra,280
+C0078,Tienda de barrio,Oeste,R17,Leales,8,3.4,741.0,8886.0,3,4,2,Subir el ticket: combos y familias que no compra,281
+C0908,Tienda de barrio,Oeste,R20,Leales,6,3.4,650.0,7805.0,3,4,2,Subir el ticket: combos y familias que no compra,282
+C0164,Tienda de barrio,Norte,R05,Leales,4,3.5,525.0,6304.0,4,4,1,Subir el ticket: combos y familias que no compra,283
+C0470,Kiosco,Norte,R01,Leales,12,3.4,481.0,5770.0,3,4,1,Subir el ticket: combos y familias que no compra,284
+C0265,Kiosco,Este,R14,Leales,8,3.4,445.0,5336.0,3,4,1,Subir el ticket: combos y familias que no compra,285
+C1444,Kiosco,Este,R14,Leales,4,3.5,445.0,5336.0,4,4,1,Subir el ticket: combos y familias que no compra,286
+C1600,Tienda de barrio,Este,R16,Leales,2,4.0,332.0,3985.0,4,4,1,Subir el ticket: combos y familias que no compra,287
+C1012,Mayorista,Oeste,R20,Potenciales,1,2.9,30267.0,363209.0,5,3,5,Subir la frecuencia: día fijo de visita,1
+C0467,Mayorista,Oeste,R19,Potenciales,5,3.0,15086.0,181032.0,4,3,5,Subir la frecuencia: día fijo de visita,2
+C1377,Mayorista,Centro,R24,Potenciales,0,3.1,11556.0,138675.0,5,3,5,Subir la frecuencia: día fijo de visita,3
+C1589,Mayorista,Centro,R24,Potenciales,0,2.8,9717.0,116608.0,5,3,5,Subir la frecuencia: día fijo de visita,4
+C0321,Minimercado,Centro,R22,Potenciales,2,2.9,8741.0,104895.0,4,3,5,Subir la frecuencia: día fijo de visita,5
+C1221,Minimercado,Sur,R09,Potenciales,2,3.0,8104.0,97252.0,4,3,5,Subir la frecuencia: día fijo de visita,6
+C1045,Mayorista,Norte,R05,Potenciales,2,2.9,7610.0,91323.0,4,3,5,Subir la frecuencia: día fijo de visita,7
+C0613,Minimercado,Sur,R09,Potenciales,1,2.2,6664.0,79969.0,5,2,5,Subir la frecuencia: día fijo de visita,8
+C1138,Minimercado,Oeste,R17,Potenciales,5,3.2,6298.0,75577.0,4,3,5,Subir la frecuencia: día fijo de visita,9
+C1158,Mayorista,Centro,R24,Potenciales,2,2.8,6019.0,72225.0,4,3,5,Subir la frecuencia: día fijo de visita,10
+C0622,Minimercado,Este,R12,Potenciales,2,3.2,5766.0,69188.0,4,3,5,Subir la frecuencia: día fijo de visita,11
+C0032,Minimercado,Centro,R21,Potenciales,5,2.2,5552.0,66622.0,4,2,5,Subir la frecuencia: día fijo de visita,12
+C0834,Restaurante o pensión,Sur,R07,Potenciales,5,3.2,5474.0,65685.0,4,3,5,Subir la frecuencia: día fijo de visita,13
+C1568,Restaurante o pensión,Oeste,R19,Potenciales,4,2.9,5422.0,65065.0,4,3,5,Subir la frecuencia: día fijo de visita,14
+C0198,Minimercado,Norte,R05,Potenciales,0,2.9,5395.0,64739.0,5,3,5,Subir la frecuencia: día fijo de visita,15
+C0028,Minimercado,Oeste,R17,Potenciales,5,2.4,5262.0,63142.0,4,2,5,Subir la frecuencia: día fijo de visita,16
+C1194,Minimercado,Norte,R06,Potenciales,1,2.3,5248.0,62971.0,5,2,5,Subir la frecuencia: día fijo de visita,17
+C0695,Minimercado,Sur,R08,Potenciales,2,3.2,4463.0,53560.0,4,3,5,Subir la frecuencia: día fijo de visita,18
+C1333,Minimercado,Oeste,R17,Potenciales,2,2.8,4435.0,53217.0,4,3,5,Subir la frecuencia: día fijo de visita,19
+C1461,Minimercado,Sur,R10,Potenciales,5,3.3,4408.0,52895.0,4,3,5,Subir la frecuencia: día fijo de visita,20
+C0375,Restaurante o pensión,Centro,R22,Potenciales,0,2.3,3963.0,47553.0,5,2,4,Subir la frecuencia: día fijo de visita,21
+C0589,Restaurante o pensión,Sur,R10,Potenciales,2,2.8,3953.0,47432.0,4,3,4,Subir la frecuencia: día fijo de visita,22
+C1617,Minimercado,Oeste,R19,Potenciales,0,2.8,3766.0,45196.0,5,3,4,Subir la frecuencia: día fijo de visita,23
+C0574,Restaurante o pensión,Sur,R10,Potenciales,0,3.0,3698.0,44370.0,5,3,4,Subir la frecuencia: día fijo de visita,24
+C0063,Minimercado,Norte,R06,Potenciales,5,3.3,3641.0,43692.0,4,3,4,Subir la frecuencia: día fijo de visita,25
+C1595,Minimercado,Centro,R22,Potenciales,5,3.2,3636.0,43630.0,4,3,4,Subir la frecuencia: día fijo de visita,26
+C1058,Minimercado,Este,R12,Potenciales,2,2.3,3456.0,41467.0,4,2,4,Subir la frecuencia: día fijo de visita,27
+C1245,Minimercado,Oeste,R17,Potenciales,2,3.3,3441.0,41296.0,4,3,4,Subir la frecuencia: día fijo de visita,28
+C0413,Tienda de barrio,Norte,R05,Potenciales,5,3.3,3422.0,41068.0,4,3,4,Subir la frecuencia: día fijo de visita,29
+C0897,Restaurante o pensión,Sur,R09,Potenciales,1,2.6,3402.0,40828.0,5,2,4,Subir la frecuencia: día fijo de visita,30
+C1391,Restaurante o pensión,Oeste,R19,Potenciales,5,3.1,3277.0,39327.0,4,3,4,Subir la frecuencia: día fijo de visita,31
+C1487,Minimercado,Este,R14,Potenciales,0,2.8,3272.0,39268.0,5,3,4,Subir la frecuencia: día fijo de visita,32
+C1246,Minimercado,Sur,R08,Potenciales,0,3.0,3227.0,38730.0,5,3,4,Subir la frecuencia: día fijo de visita,33
+C0777,Restaurante o pensión,Sur,R08,Potenciales,1,3.1,3212.0,38546.0,5,3,4,Subir la frecuencia: día fijo de visita,34
+C0928,Restaurante o pensión,Centro,R24,Potenciales,0,3.3,3152.0,37826.0,5,3,4,Subir la frecuencia: día fijo de visita,35
+C0873,Minimercado,Oeste,R19,Potenciales,4,3.0,3090.0,37075.0,4,3,4,Subir la frecuencia: día fijo de visita,36
+C0867,Restaurante o pensión,Este,R15,Potenciales,5,2.9,3087.0,37045.0,4,3,4,Subir la frecuencia: día fijo de visita,37
+C0309,Minimercado,Norte,R05,Potenciales,4,2.5,3080.0,36961.0,4,2,4,Subir la frecuencia: día fijo de visita,38
+C1056,Minimercado,Norte,R01,Potenciales,4,3.2,3042.0,36505.0,4,3,4,Subir la frecuencia: día fijo de visita,39
+C1013,Tienda de barrio,Este,R12,Potenciales,0,2.8,3032.0,36385.0,5,3,4,Subir la frecuencia: día fijo de visita,40
+C0877,Restaurante o pensión,Norte,R06,Potenciales,4,2.9,2937.0,35244.0,4,3,4,Subir la frecuencia: día fijo de visita,41
+C0229,Restaurante o pensión,Este,R14,Potenciales,4,3.0,2917.0,35004.0,4,3,4,Subir la frecuencia: día fijo de visita,42
+C0930,Minimercado,Este,R14,Potenciales,0,2.9,2781.0,33368.0,5,3,4,Subir la frecuencia: día fijo de visita,43
+C0493,Minimercado,Este,R13,Potenciales,6,3.3,2700.0,32398.0,4,3,4,Subir la frecuencia: día fijo de visita,44
+C1572,Minimercado,Este,R16,Potenciales,2,2.9,2661.0,31935.0,4,3,4,Subir la frecuencia: día fijo de visita,45
+C0785,Restaurante o pensión,Oeste,R17,Potenciales,2,3.2,2592.0,31101.0,4,3,4,Subir la frecuencia: día fijo de visita,46
+C0313,Restaurante o pensión,Norte,R06,Potenciales,4,1.8,2542.0,30501.0,4,2,4,Subir la frecuencia: día fijo de visita,47
+C0201,Minimercado,Sur,R10,Potenciales,2,2.1,2514.0,30174.0,5,2,4,Subir la frecuencia: día fijo de visita,48
+C1566,Minimercado,Centro,R23,Potenciales,4,1.7,2492.0,29898.0,4,1,4,Subir la frecuencia: día fijo de visita,49
+C0320,Tienda de barrio,Centro,R23,Potenciales,1,3.3,2462.0,29540.0,5,3,4,Subir la frecuencia: día fijo de visita,50
+C1411,Tienda de barrio,Oeste,R19,Potenciales,1,3.1,2397.0,28760.0,5,3,4,Subir la frecuencia: día fijo de visita,51
+C0718,Tienda de barrio,Norte,R01,Potenciales,5,2.1,2387.0,28640.0,4,2,4,Subir la frecuencia: día fijo de visita,52
+C0727,Restaurante o pensión,Este,R16,Potenciales,0,3.2,2382.0,28580.0,5,3,4,Subir la frecuencia: día fijo de visita,53
+C1640,Tienda de barrio,Sur,R08,Potenciales,4,2.6,2376.0,28514.0,4,3,4,Subir la frecuencia: día fijo de visita,54
+C0465,Tienda de barrio,Oeste,R17,Potenciales,5,3.3,2372.0,28459.0,4,3,4,Subir la frecuencia: día fijo de visita,55
+C1242,Restaurante o pensión,Norte,R06,Potenciales,5,3.0,2347.0,28159.0,4,3,4,Subir la frecuencia: día fijo de visita,56
+C1188,Minimercado,Oeste,R19,Potenciales,0,2.3,2324.0,27892.0,5,2,4,Subir la frecuencia: día fijo de visita,57
+C0368,Tienda de barrio,Norte,R01,Potenciales,0,3.2,2277.0,27319.0,5,3,4,Subir la frecuencia: día fijo de visita,58
+C0142,Restaurante o pensión,Centro,R24,Potenciales,1,1.8,2237.0,26838.0,5,2,4,Subir la frecuencia: día fijo de visita,59
+C1073,Tienda de barrio,Centro,R24,Potenciales,0,3.0,2227.0,26718.0,5,3,4,Subir la frecuencia: día fijo de visita,60
+C0822,Tienda de barrio,Sur,R10,Potenciales,0,3.3,2212.0,26538.0,5,3,4,Subir la frecuencia: día fijo de visita,61
+C1080,Restaurante o pensión,Sur,R11,Potenciales,4,1.9,2192.0,26298.0,4,2,4,Subir la frecuencia: día fijo de visita,62
+C1094,Restaurante o pensión,Oeste,R19,Potenciales,5,2.3,2192.0,26298.0,4,2,4,Subir la frecuencia: día fijo de visita,63
+C1000,Tienda de barrio,Este,R16,Potenciales,4,3.3,2151.0,25818.0,4,3,4,Subir la frecuencia: día fijo de visita,64
+C1348,Restaurante o pensión,Este,R16,Potenciales,2,1.5,2126.0,25517.0,4,1,4,Subir la frecuencia: día fijo de visita,65
+C0209,Tienda de barrio,Sur,R09,Potenciales,5,3.1,2101.0,25217.0,4,3,4,Subir la frecuencia: día fijo de visita,66
+C0252,Restaurante o pensión,Oeste,R17,Potenciales,0,2.4,1996.0,23956.0,5,2,4,Subir la frecuencia: día fijo de visita,67
+C0697,Tienda de barrio,Centro,R24,Potenciales,0,3.2,1991.0,23896.0,5,3,4,Subir la frecuencia: día fijo de visita,68
+C0663,Restaurante o pensión,Sur,R08,Potenciales,0,3.3,1866.0,22395.0,5,3,3,Subir la frecuencia: día fijo de visita,69
+C0902,Tienda de barrio,Oeste,R20,Potenciales,2,3.3,1866.0,22395.0,4,3,3,Subir la frecuencia: día fijo de visita,70
+C0369,Tienda de barrio,Norte,R03,Potenciales,5,2.5,1841.0,22095.0,4,2,3,Subir la frecuencia: día fijo de visita,71
+C0803,Tienda de barrio,Sur,R08,Potenciales,1,3.3,1836.0,22035.0,5,3,3,Subir la frecuencia: día fijo de visita,72
+C0132,Restaurante o pensión,Norte,R03,Potenciales,4,3.3,1806.0,21675.0,4,3,3,Subir la frecuencia: día fijo de visita,73
+C0513,Tienda de barrio,Norte,R01,Potenciales,6,2.3,1801.0,21615.0,4,2,3,Subir la frecuencia: día fijo de visita,74
+C1370,Restaurante o pensión,Este,R13,Potenciales,1,2.6,1781.0,21375.0,5,3,3,Subir la frecuencia: día fijo de visita,75
+C0742,Tienda de barrio,Oeste,R17,Potenciales,4,3.1,1776.0,21315.0,4,3,3,Subir la frecuencia: día fijo de visita,76
+C0159,Tienda de barrio,Este,R16,Potenciales,2,3.2,1771.0,21255.0,5,3,3,Subir la frecuencia: día fijo de visita,77
+C0013,Minimercado,Este,R13,Potenciales,1,2.7,1721.0,20648.0,5,3,3,Subir la frecuencia: día fijo de visita,78
+C0289,Minimercado,Oeste,R17,Potenciales,0,2.9,1711.0,20534.0,5,3,3,Subir la frecuencia: día fijo de visita,79
+C1592,Tienda de barrio,Norte,R06,Potenciales,4,2.8,1688.0,20259.0,4,3,3,Subir la frecuencia: día fijo de visita,80
+C1621,Tienda de barrio,Oeste,R18,Potenciales,5,2.3,1664.0,19962.0,4,2,3,Subir la frecuencia: día fijo de visita,81
+C0403,Tienda de barrio,Centro,R24,Potenciales,6,2.3,1661.0,19934.0,4,2,3,Subir la frecuencia: día fijo de visita,82
+C0300,Tienda de barrio,Norte,R05,Potenciales,6,3.1,1656.0,19874.0,4,3,3,Subir la frecuencia: día fijo de visita,83
+C1337,Tienda de barrio,Norte,R05,Potenciales,5,2.3,1621.0,19453.0,4,2,3,Subir la frecuencia: día fijo de visita,84
+C1441,Restaurante o pensión,Este,R14,Potenciales,2,2.5,1591.0,19093.0,4,2,3,Subir la frecuencia: día fijo de visita,85
+C0744,Tienda de barrio,Sur,R07,Potenciales,5,2.8,1576.0,18913.0,4,3,3,Subir la frecuencia: día fijo de visita,86
+C1423,Tienda de barrio,Norte,R02,Potenciales,0,2.5,1576.0,18913.0,5,2,3,Subir la frecuencia: día fijo de visita,87
+C0145,Tienda de barrio,Sur,R10,Potenciales,6,2.3,1556.0,18673.0,4,2,3,Subir la frecuencia: día fijo de visita,88
+C1037,Restaurante o pensión,Centro,R21,Potenciales,4,2.2,1536.0,18433.0,4,2,3,Subir la frecuencia: día fijo de visita,89
+C1268,Tienda de barrio,Centro,R24,Potenciales,0,2.6,1536.0,18433.0,5,3,3,Subir la frecuencia: día fijo de visita,90
+C0878,Minimercado,Oeste,R19,Potenciales,1,3.3,1478.0,17739.0,5,3,3,Subir la frecuencia: día fijo de visita,91
+C1356,Tienda de barrio,Este,R16,Potenciales,5,2.9,1426.0,17112.0,4,3,3,Subir la frecuencia: día fijo de visita,92
+C1084,Restaurante o pensión,Norte,R03,Potenciales,5,3.3,1411.0,16932.0,4,3,3,Subir la frecuencia: día fijo de visita,93
+C1447,Tienda de barrio,Oeste,R18,Potenciales,0,2.8,1411.0,16932.0,5,3,3,Subir la frecuencia: día fijo de visita,94
+C0275,Tienda de barrio,Norte,R05,Potenciales,2,3.2,1391.0,16691.0,5,3,3,Subir la frecuencia: día fijo de visita,95
+C0415,Tienda de barrio,Centro,R24,Potenciales,2,3.2,1381.0,16571.0,4,3,3,Subir la frecuencia: día fijo de visita,96
+C1127,Restaurante o pensión,Este,R16,Potenciales,1,1.9,1376.0,16511.0,5,2,3,Subir la frecuencia: día fijo de visita,97
+C0559,Tienda de barrio,Norte,R06,Potenciales,0,3.1,1371.0,16451.0,5,3,3,Subir la frecuencia: día fijo de visita,98
+C0257,Restaurante o pensión,Sur,R11,Potenciales,4,2.3,1366.0,16391.0,4,2,3,Subir la frecuencia: día fijo de visita,99
+C0687,Restaurante o pensión,Norte,R03,Potenciales,2,3.1,1366.0,16391.0,4,3,3,Subir la frecuencia: día fijo de visita,100
+C0409,Tienda de barrio,Norte,R06,Potenciales,0,3.3,1361.0,16331.0,5,3,3,Subir la frecuencia: día fijo de visita,101
+C1018,Tienda de barrio,Norte,R03,Potenciales,0,2.3,1351.0,16211.0,5,2,3,Subir la frecuencia: día fijo de visita,102
+C0358,Restaurante o pensión,Norte,R04,Potenciales,4,2.3,1346.0,16151.0,4,2,3,Subir la frecuencia: día fijo de visita,103
+C0476,Tienda de barrio,Sur,R08,Potenciales,4,2.9,1336.0,16031.0,4,3,3,Subir la frecuencia: día fijo de visita,104
+C0110,Tienda de barrio,Oeste,R18,Potenciales,1,3.2,1316.0,15791.0,5,3,3,Subir la frecuencia: día fijo de visita,105
+C1055,Tienda de barrio,Oeste,R20,Potenciales,1,3.2,1276.0,15310.0,5,3,3,Subir la frecuencia: día fijo de visita,106
+C0123,Tienda de barrio,Centro,R24,Potenciales,1,2.3,1271.0,15250.0,5,2,3,Subir la frecuencia: día fijo de visita,107
+C0957,Restaurante o pensión,Norte,R03,Potenciales,0,2.9,1266.0,15190.0,5,3,3,Subir la frecuencia: día fijo de visita,108
+C0915,Tienda de barrio,Norte,R03,Potenciales,0,2.7,1261.0,15130.0,5,3,3,Subir la frecuencia: día fijo de visita,109
+C0162,Kiosco,Centro,R22,Potenciales,5,3.0,1251.0,15014.0,4,3,3,Subir la frecuencia: día fijo de visita,110
+C1159,Tienda de barrio,Norte,R06,Potenciales,4,3.1,1251.0,15010.0,4,3,3,Subir la frecuencia: día fijo de visita,111
+C1567,Kiosco,Centro,R22,Potenciales,2,2.0,1233.0,14791.0,4,2,3,Subir la frecuencia: día fijo de visita,112
+C1121,Tienda de barrio,Norte,R01,Potenciales,0,2.5,1231.0,14770.0,5,2,3,Subir la frecuencia: día fijo de visita,113
+C0279,Tienda de barrio,Oeste,R19,Potenciales,5,3.0,1226.0,14710.0,4,3,3,Subir la frecuencia: día fijo de visita,114
+C0992,Tienda de barrio,Centro,R23,Potenciales,5,3.0,1221.0,14650.0,4,3,3,Subir la frecuencia: día fijo de visita,115
+C0763,Tienda de barrio,Sur,R08,Potenciales,5,3.3,1216.0,14590.0,4,3,3,Subir la frecuencia: día fijo de visita,116
+C0850,Restaurante o pensión,Centro,R24,Potenciales,1,2.3,1206.0,14470.0,5,2,3,Subir la frecuencia: día fijo de visita,117
+C1445,Tienda de barrio,Centro,R21,Potenciales,4,3.3,1201.0,14410.0,4,3,3,Subir la frecuencia: día fijo de visita,118
+C1097,Tienda de barrio,Centro,R21,Potenciales,0,2.7,1196.0,14350.0,5,3,3,Subir la frecuencia: día fijo de visita,119
+C1060,Tienda de barrio,Este,R14,Potenciales,4,3.0,1176.0,14110.0,4,3,3,Subir la frecuencia: día fijo de visita,120
+C0753,Tienda de barrio,Sur,R09,Potenciales,0,3.3,1161.0,13930.0,5,3,3,Subir la frecuencia: día fijo de visita,121
+C0024,Minimercado,Centro,R24,Potenciales,2,2.3,1155.0,13860.0,5,2,3,Subir la frecuencia: día fijo de visita,122
+C1579,Tienda de barrio,Norte,R02,Potenciales,0,2.1,1152.0,13822.0,5,2,3,Subir la frecuencia: día fijo de visita,123
+C0061,Minimercado,Oeste,R19,Potenciales,5,1.8,1150.0,13803.0,4,2,3,Subir la frecuencia: día fijo de visita,124
+C0879,Tienda de barrio,Centro,R24,Potenciales,4,1.9,1131.0,13569.0,4,2,2,Subir la frecuencia: día fijo de visita,125
+C1075,Kiosco,Norte,R02,Potenciales,5,2.7,1127.0,13525.0,4,3,2,Subir la frecuencia: día fijo de visita,126
+C0650,Kiosco,Oeste,R19,Potenciales,0,3.0,1117.0,13401.0,5,3,2,Subir la frecuencia: día fijo de visita,127
+C1338,Kiosco,Oeste,R19,Potenciales,2,3.0,1106.0,13277.0,4,3,2,Subir la frecuencia: día fijo de visita,128
+C0630,Tienda de barrio,Centro,R24,Potenciales,0,3.3,1086.0,13029.0,5,3,2,Subir la frecuencia: día fijo de visita,129
+C0731,Tienda de barrio,Este,R12,Potenciales,4,2.1,1076.0,12909.0,4,2,2,Subir la frecuencia: día fijo de visita,130
+C1162,Kiosco,Oeste,R18,Potenciales,0,3.2,1075.0,12905.0,5,3,2,Subir la frecuencia: día fijo de visita,131
+C0478,Tienda de barrio,Oeste,R19,Potenciales,1,2.4,1036.0,12429.0,5,2,2,Subir la frecuencia: día fijo de visita,132
+C0860,Tienda de barrio,Norte,R01,Potenciales,4,2.3,1031.0,12368.0,4,2,2,Subir la frecuencia: día fijo de visita,133
+C0392,Tienda de barrio,Este,R14,Potenciales,1,3.0,1016.0,12188.0,5,3,2,Subir la frecuencia: día fijo de visita,134
+C0053,Tienda de barrio,Sur,R07,Potenciales,5,2.2,996.0,11948.0,4,2,2,Subir la frecuencia: día fijo de visita,135
+C1462,Kiosco,Este,R13,Potenciales,2,2.9,988.0,11856.0,4,3,2,Subir la frecuencia: día fijo de visita,136
+C0302,Restaurante o pensión,Centro,R22,Potenciales,1,1.8,981.0,11768.0,5,1,2,Subir la frecuencia: día fijo de visita,137
+C1544,Kiosco,Norte,R02,Potenciales,0,3.1,979.0,11752.0,5,3,2,Subir la frecuencia: día fijo de visita,138
+C0998,Tienda de barrio,Sur,R09,Potenciales,5,2.4,971.0,11648.0,4,2,2,Subir la frecuencia: día fijo de visita,139
+C1341,Tienda de barrio,Norte,R02,Potenciales,2,1.9,971.0,11648.0,4,2,2,Subir la frecuencia: día fijo de visita,140
+C1381,Tienda de barrio,Este,R13,Potenciales,5,2.3,971.0,11648.0,4,2,2,Subir la frecuencia: día fijo de visita,141
+C1303,Tienda de barrio,Centro,R21,Potenciales,1,3.2,966.0,11588.0,5,3,2,Subir la frecuencia: día fijo de visita,142
+C1430,Tienda de barrio,Este,R15,Potenciales,1,2.5,951.0,11408.0,5,2,2,Subir la frecuencia: día fijo de visita,143
+C1507,Tienda de barrio,Sur,R11,Potenciales,4,3.3,948.0,11376.0,4,3,2,Subir la frecuencia: día fijo de visita,144
+C0717,Tienda de barrio,Sur,R10,Potenciales,4,2.5,936.0,11228.0,4,2,2,Subir la frecuencia: día fijo de visita,145
+C1508,Tienda de barrio,Norte,R05,Potenciales,2,3.0,934.0,11207.0,4,3,2,Subir la frecuencia: día fijo de visita,146
+C1625,Kiosco,Oeste,R20,Potenciales,5,3.3,924.0,11092.0,4,3,2,Subir la frecuencia: día fijo de visita,147
+C0555,Tienda de barrio,Norte,R02,Potenciales,1,3.3,921.0,11048.0,5,3,2,Subir la frecuencia: día fijo de visita,148
+C1004,Tienda de barrio,Norte,R04,Potenciales,4,2.1,911.0,10927.0,4,2,2,Subir la frecuencia: día fijo de visita,149
+C0344,Tienda de barrio,Este,R12,Potenciales,4,3.3,891.0,10687.0,4,3,2,Subir la frecuencia: día fijo de visita,150
+C1077,Tienda de barrio,Centro,R23,Potenciales,5,2.2,881.0,10567.0,4,2,2,Subir la frecuencia: día fijo de visita,151
+C0002,Tienda de barrio,Este,R12,Potenciales,1,2.5,876.0,10507.0,5,2,2,Subir la frecuencia: día fijo de visita,152
+C1359,Tienda de barrio,Norte,R01,Potenciales,4,1.9,876.0,10507.0,4,2,2,Subir la frecuencia: día fijo de visita,153
+C1471,Restaurante o pensión,Oeste,R20,Potenciales,1,2.2,868.0,10411.0,5,2,2,Subir la frecuencia: día fijo de visita,154
+C0779,Tienda de barrio,Oeste,R20,Potenciales,2,1.9,866.0,10387.0,4,2,2,Subir la frecuencia: día fijo de visita,155
+C1534,Tienda de barrio,Centro,R23,Potenciales,4,1.5,865.0,10385.0,4,1,2,Subir la frecuencia: día fijo de visita,156
+C0548,Kiosco,Este,R16,Potenciales,0,2.8,863.0,10361.0,5,3,2,Subir la frecuencia: día fijo de visita,157
+C1636,Restaurante o pensión,Centro,R21,Potenciales,0,2.7,850.0,10199.0,5,3,2,Subir la frecuencia: día fijo de visita,158
+C0472,Kiosco,Sur,R10,Potenciales,4,2.8,838.0,10051.0,4,3,2,Subir la frecuencia: día fijo de visita,159
+C0488,Kiosco,Este,R16,Potenciales,2,2.5,822.0,9865.0,4,2,2,Subir la frecuencia: día fijo de visita,160
+C1584,Restaurante o pensión,Centro,R22,Potenciales,4,1.9,809.0,9708.0,4,2,2,Subir la frecuencia: día fijo de visita,161
+C1624,Tienda de barrio,Norte,R05,Potenciales,0,3.0,807.0,9689.0,5,3,2,Subir la frecuencia: día fijo de visita,162
+C0757,Kiosco,Oeste,R20,Potenciales,0,3.0,801.0,9617.0,5,3,2,Subir la frecuencia: día fijo de visita,163
+C0107,Tienda de barrio,Este,R15,Potenciales,0,3.3,796.0,9547.0,5,3,2,Subir la frecuencia: día fijo de visita,164
+C1028,Tienda de barrio,Norte,R03,Potenciales,2,2.6,796.0,9547.0,4,2,2,Subir la frecuencia: día fijo de visita,165
+C0204,Tienda de barrio,Norte,R06,Potenciales,4,1.8,781.0,9366.0,4,2,2,Subir la frecuencia: día fijo de visita,166
+C0261,Tienda de barrio,Norte,R05,Potenciales,1,2.6,781.0,9366.0,5,2,2,Subir la frecuencia: día fijo de visita,167
+C1198,Tienda de barrio,Sur,R09,Potenciales,4,3.2,766.0,9186.0,4,3,2,Subir la frecuencia: día fijo de visita,168
+C0681,Tienda de barrio,Este,R13,Potenciales,1,1.8,756.0,9066.0,5,2,2,Subir la frecuencia: día fijo de visita,169
+C1682,Tienda de barrio,Norte,R05,Potenciales,5,2.6,752.0,9024.0,4,2,2,Subir la frecuencia: día fijo de visita,170
+C0040,Restaurante o pensión,Sur,R08,Potenciales,5,1.8,751.0,9006.0,4,2,2,Subir la frecuencia: día fijo de visita,171
+C1587,Kiosco,Este,R13,Potenciales,1,2.5,750.0,8996.0,5,2,2,Subir la frecuencia: día fijo de visita,172
+C0174,Tienda de barrio,Este,R16,Potenciales,0,2.0,746.0,8946.0,5,2,2,Subir la frecuencia: día fijo de visita,173
+C0956,Kiosco,Centro,R23,Potenciales,0,1.9,739.0,8872.0,5,2,2,Subir la frecuencia: día fijo de visita,174
+C0800,Tienda de barrio,Oeste,R20,Potenciales,5,2.2,725.0,8706.0,4,2,2,Subir la frecuencia: día fijo de visita,175
+C0463,Tienda de barrio,Norte,R04,Potenciales,1,2.4,695.0,8346.0,5,2,2,Subir la frecuencia: día fijo de visita,176
+C1395,Tienda de barrio,Centro,R22,Potenciales,1,2.4,690.0,8286.0,5,2,2,Subir la frecuencia: día fijo de visita,177
+C1020,Tienda de barrio,Este,R14,Potenciales,1,2.4,675.0,8106.0,5,2,2,Subir la frecuencia: día fijo de visita,178
+C0169,Kiosco,Sur,R11,Potenciales,0,2.9,672.0,8066.0,5,3,2,Subir la frecuencia: día fijo de visita,179
+C0213,Kiosco,Centro,R23,Potenciales,0,2.8,672.0,8066.0,5,3,2,Subir la frecuencia: día fijo de visita,180
+C0266,Tienda de barrio,Este,R12,Potenciales,4,2.7,660.0,7925.0,4,3,2,Subir la frecuencia: día fijo de visita,181
+C1480,Tienda de barrio,Sur,R08,Potenciales,2,3.0,659.0,7912.0,4,3,2,Subir la frecuencia: día fijo de visita,182
+C1218,Kiosco,Este,R16,Potenciales,4,2.7,657.0,7879.0,4,3,2,Subir la frecuencia: día fijo de visita,183
+C0652,Tienda de barrio,Este,R12,Potenciales,0,3.3,645.0,7745.0,5,3,2,Subir la frecuencia: día fijo de visita,184
+C1099,Tienda de barrio,Norte,R01,Potenciales,4,2.3,640.0,7685.0,4,2,2,Subir la frecuencia: día fijo de visita,185
+C0290,Kiosco,Este,R13,Potenciales,6,3.1,620.0,7445.0,4,3,2,Subir la frecuencia: día fijo de visita,186
+C0050,Kiosco,Oeste,R17,Potenciales,1,2.8,610.0,7321.0,5,3,2,Subir la frecuencia: día fijo de visita,187
+C0018,Kiosco,Centro,R23,Potenciales,2,2.3,605.0,7259.0,5,2,2,Subir la frecuencia: día fijo de visita,188
+C1470,Tienda de barrio,Oeste,R17,Potenciales,0,2.8,597.0,7163.0,5,3,2,Subir la frecuencia: día fijo de visita,189
+C0094,Kiosco,Sur,R07,Potenciales,2,2.3,595.0,7135.0,5,2,2,Subir la frecuencia: día fijo de visita,190
+C1646,Tienda de barrio,Centro,R23,Potenciales,1,2.0,593.0,7111.0,5,2,2,Subir la frecuencia: día fijo de visita,191
+C1309,Kiosco,Norte,R05,Potenciales,4,3.3,589.0,7073.0,4,3,2,Subir la frecuencia: día fijo de visita,192
+C1620,Kiosco,Este,R13,Potenciales,4,1.0,576.0,6913.0,4,1,2,Subir la frecuencia: día fijo de visita,193
+C0545,Tienda de barrio,Centro,R21,Potenciales,5,2.7,575.0,6905.0,4,3,2,Subir la frecuencia: día fijo de visita,194
+C0016,Tienda de barrio,Norte,R01,Potenciales,4,1.8,550.0,6605.0,4,1,2,Subir la frecuencia: día fijo de visita,195
+C1233,Kiosco,Este,R13,Potenciales,2,2.8,548.0,6577.0,4,3,2,Subir la frecuencia: día fijo de visita,196
+C1067,Tienda de barrio,Norte,R01,Potenciales,2,1.9,545.0,6544.0,4,2,2,Subir la frecuencia: día fijo de visita,197
+C0661,Kiosco,Centro,R22,Potenciales,5,1.7,538.0,6452.0,4,1,2,Subir la frecuencia: día fijo de visita,198
+C0323,Kiosco,Centro,R24,Potenciales,6,3.1,527.0,6328.0,4,3,1,Subir la frecuencia: día fijo de visita,199
+C1491,Tienda de barrio,Norte,R05,Potenciales,0,1.9,521.0,6251.0,5,2,1,Subir la frecuencia: día fijo de visita,200
+C1615,Tienda de barrio,Sur,R08,Potenciales,5,3.1,514.0,6167.0,4,3,1,Subir la frecuencia: día fijo de visita,201
+C0247,Restaurante o pensión,Centro,R23,Potenciales,4,3.3,495.0,5944.0,4,3,1,Subir la frecuencia: día fijo de visita,202
+C1631,Tienda de barrio,Sur,R09,Potenciales,4,3.3,480.0,5760.0,4,3,1,Subir la frecuencia: día fijo de visita,203
+C0381,Kiosco,Este,R15,Potenciales,4,3.1,470.0,5646.0,4,3,1,Subir la frecuencia: día fijo de visita,204
+C1148,Tienda de barrio,Oeste,R18,Potenciales,0,2.5,460.0,5524.0,5,2,1,Subir la frecuencia: día fijo de visita,205
+C0696,Kiosco,Oeste,R20,Potenciales,2,1.4,455.0,5460.0,4,1,1,Subir la frecuencia: día fijo de visita,206
+C1250,Tienda de barrio,Norte,R02,Potenciales,1,1.8,445.0,5344.0,5,2,1,Subir la frecuencia: día fijo de visita,207
+C1243,Kiosco,Oeste,R19,Potenciales,2,1.4,434.0,5212.0,4,1,1,Subir la frecuencia: día fijo de visita,208
+C1011,Restaurante o pensión,Norte,R04,Potenciales,5,2.0,430.0,5164.0,4,2,1,Subir la frecuencia: día fijo de visita,209
+C0146,Kiosco,Norte,R02,Potenciales,1,2.8,419.0,5025.0,5,3,1,Subir la frecuencia: día fijo de visita,210
+C1239,Kiosco,Norte,R02,Potenciales,0,1.8,408.0,4901.0,5,1,1,Subir la frecuencia: día fijo de visita,211
+C1199,Tienda de barrio,Norte,R02,Potenciales,1,1.9,380.0,4563.0,5,2,1,Subir la frecuencia: día fijo de visita,212
+C1305,Tienda de barrio,Centro,R23,Potenciales,0,2.7,375.0,4503.0,5,3,1,Subir la frecuencia: día fijo de visita,213
+C1672,Kiosco,Sur,R10,Potenciales,0,1.5,374.0,4484.0,5,1,1,Subir la frecuencia: día fijo de visita,214
+C1104,Tienda de barrio,Norte,R06,Potenciales,4,1.9,370.0,4443.0,4,2,1,Subir la frecuencia: día fijo de visita,215
+C0501,Tienda de barrio,Sur,R09,Potenciales,0,1.3,335.0,4023.0,5,1,1,Subir la frecuencia: día fijo de visita,216
+C0454,Kiosco,Oeste,R18,Potenciales,6,1.7,326.0,3909.0,4,1,1,Subir la frecuencia: día fijo de visita,217
+C1675,Kiosco,Centro,R21,Potenciales,2,2.5,324.0,3889.0,4,2,1,Subir la frecuencia: día fijo de visita,218
+C0273,Kiosco,Sur,R10,Potenciales,6,2.4,315.0,3785.0,4,2,1,Subir la frecuencia: día fijo de visita,219
+C0456,Kiosco,Este,R12,Potenciales,4,1.2,315.0,3785.0,4,1,1,Subir la frecuencia: día fijo de visita,220
+C1393,Kiosco,Centro,R24,Potenciales,2,1.3,315.0,3785.0,4,1,1,Subir la frecuencia: día fijo de visita,221
+C0864,Kiosco,Norte,R03,Potenciales,0,1.8,290.0,3474.0,5,2,1,Subir la frecuencia: día fijo de visita,222
+C1213,Kiosco,Norte,R04,Potenciales,5,2.3,264.0,3164.0,4,2,1,Subir la frecuencia: día fijo de visita,223
+C0264,Tienda de barrio,Este,R12,Potenciales,0,2.4,260.0,3122.0,5,2,1,Subir la frecuencia: día fijo de visita,224
+C0150,Kiosco,Centro,R22,Potenciales,2,1.7,259.0,3102.0,5,1,1,Subir la frecuencia: día fijo de visita,225
+C0725,Tienda de barrio,Norte,R06,Potenciales,0,1.9,250.0,3002.0,5,2,1,Subir la frecuencia: día fijo de visita,226
+C1591,Kiosco,Sur,R10,Potenciales,1,2.3,242.0,2903.0,5,2,1,Subir la frecuencia: día fijo de visita,227
+C0117,Kiosco,Oeste,R18,Potenciales,1,2.4,227.0,2730.0,5,2,1,Subir la frecuencia: día fijo de visita,228
+C1342,Kiosco,Norte,R01,Potenciales,1,3.1,217.0,2606.0,5,3,1,Subir la frecuencia: día fijo de visita,229
+C1124,Kiosco,Norte,R03,Potenciales,1,2.6,212.0,2544.0,5,2,1,Subir la frecuencia: día fijo de visita,230
+C1664,Kiosco,Sur,R11,Potenciales,4,1.2,187.0,2242.0,4,1,1,Subir la frecuencia: día fijo de visita,231
+C0820,Kiosco,Oeste,R19,Potenciales,4,1.9,186.0,2234.0,4,2,1,Subir la frecuencia: día fijo de visita,232
+C1756,Mayorista,Norte,R02,Nuevos,0,9.0,35256.0,423072.0,5,5,5,Asegurar la segunda y tercera compra,1
+C1709,Mayorista,Norte,R03,Nuevos,1,7.7,33728.0,404738.0,5,5,5,Asegurar la segunda y tercera compra,2
+C1755,Mayorista,Este,R14,Nuevos,0,6.0,16536.0,198432.0,5,5,5,Asegurar la segunda y tercera compra,3
+C1765,Mayorista,Norte,R06,Nuevos,0,5.0,15912.0,190944.0,5,5,5,Asegurar la segunda y tercera compra,4
+C1745,Restaurante o pensión,Norte,R02,Nuevos,1,9.5,14153.0,169841.0,5,5,5,Asegurar la segunda y tercera compra,5
+C1744,Minimercado,Este,R14,Nuevos,0,7.8,13235.0,158821.0,5,5,5,Asegurar la segunda y tercera compra,6
+C1781,Minimercado,Oeste,R20,Nuevos,2,4.0,10146.0,121752.0,4,4,5,Asegurar la segunda y tercera compra,7
+C1758,Minimercado,Sur,R08,Nuevos,1,6.0,8208.0,98496.0,5,5,5,Asegurar la segunda y tercera compra,8
+C1701,Minimercado,Norte,R03,Nuevos,18,4.6,7525.0,90303.0,2,4,5,Asegurar la segunda y tercera compra,9
+C1776,Minimercado,Este,R16,Nuevos,2,3.0,7410.0,88920.0,4,3,5,Asegurar la segunda y tercera compra,10
+C1774,Minimercado,Este,R12,Nuevos,6,7.0,7353.0,88236.0,3,5,5,Asegurar la segunda y tercera compra,11
+C1728,Minimercado,Centro,R22,Nuevos,2,3.1,7293.0,87511.0,4,3,5,Asegurar la segunda y tercera compra,12
+C1688,Restaurante o pensión,Sur,R09,Nuevos,9,5.7,6985.0,83825.0,3,5,5,Asegurar la segunda y tercera compra,13
+C1768,Minimercado,Este,R12,Nuevos,5,6.0,6954.0,83448.0,4,5,5,Asegurar la segunda y tercera compra,14
+C1751,Minimercado,Oeste,R19,Nuevos,2,4.0,6726.0,80712.0,4,4,5,Asegurar la segunda y tercera compra,15
+C1741,Tienda de barrio,Sur,R10,Nuevos,7,8.2,6417.0,76999.0,3,5,5,Asegurar la segunda y tercera compra,16
+C1754,Minimercado,Norte,R05,Nuevos,2,4.0,6042.0,72504.0,4,4,5,Asegurar la segunda y tercera compra,17
+C1691,Restaurante o pensión,Norte,R02,Nuevos,4,6.3,4638.0,55657.0,4,5,5,Asegurar la segunda y tercera compra,18
+C1767,Minimercado,Norte,R06,Nuevos,0,3.0,4104.0,49248.0,5,3,4,Asegurar la segunda y tercera compra,19
+C1730,Minimercado,Norte,R03,Nuevos,1,3.4,4092.0,49102.0,5,4,4,Asegurar la segunda y tercera compra,20
+C1710,Minimercado,Centro,R22,Nuevos,4,7.6,4022.0,48263.0,4,5,4,Asegurar la segunda y tercera compra,21
+C1721,Restaurante o pensión,Oeste,R19,Nuevos,0,4.0,3970.0,47641.0,5,4,4,Asegurar la segunda y tercera compra,22
+C1761,Minimercado,Este,R13,Nuevos,0,2.0,3933.0,47196.0,5,2,4,Asegurar la segunda y tercera compra,23
+C1694,Minimercado,Sur,R09,Nuevos,1,2.3,3781.0,45375.0,5,2,4,Asegurar la segunda y tercera compra,24
+C1759,Tienda de barrio,Centro,R23,Nuevos,0,4.0,3780.0,45360.0,5,4,4,Asegurar la segunda y tercera compra,25
+C1697,Tienda de barrio,Sur,R10,Nuevos,1,5.6,3725.0,44695.0,5,5,4,Asegurar la segunda y tercera compra,26
+C1760,Tienda de barrio,Norte,R06,Nuevos,0,6.0,3720.0,44640.0,5,5,4,Asegurar la segunda y tercera compra,27
+C1731,Tienda de barrio,Centro,R24,Nuevos,18,9.8,3438.0,41252.0,2,5,4,Asegurar la segunda y tercera compra,28
+C1729,Tienda de barrio,Oeste,R19,Nuevos,11,5.9,3299.0,39588.0,3,5,4,Asegurar la segunda y tercera compra,29
+C1695,Restaurante o pensión,Este,R12,Nuevos,5,5.9,3272.0,39264.0,4,5,4,Asegurar la segunda y tercera compra,30
+C1764,Restaurante o pensión,Sur,R08,Nuevos,4,7.0,3240.0,38880.0,4,5,4,Asegurar la segunda y tercera compra,31
+C1746,Tienda de barrio,Oeste,R20,Nuevos,4,3.9,3221.0,38650.0,4,4,4,Asegurar la segunda y tercera compra,32
+C1771,Restaurante o pensión,Este,R15,Nuevos,4,3.0,3180.0,38160.0,4,3,4,Asegurar la segunda y tercera compra,33
+C1737,Tienda de barrio,Oeste,R18,Nuevos,1,5.3,3059.0,36708.0,5,5,4,Asegurar la segunda y tercera compra,34
+C1766,Minimercado,Sur,R07,Nuevos,1,4.0,2964.0,35568.0,5,4,4,Asegurar la segunda y tercera compra,35
+C1769,Tienda de barrio,Norte,R03,Nuevos,1,4.0,2460.0,29520.0,5,4,4,Asegurar la segunda y tercera compra,36
+C1722,Tienda de barrio,Sur,R07,Nuevos,12,7.0,2400.0,28803.0,2,5,4,Asegurar la segunda y tercera compra,37
+C1714,Tienda de barrio,Sur,R09,Nuevos,0,5.5,2365.0,28377.0,5,5,4,Asegurar la segunda y tercera compra,38
+C1713,Restaurante o pensión,Norte,R01,Nuevos,9,6.3,2283.0,27394.0,3,5,4,Asegurar la segunda y tercera compra,39
+C1704,Kiosco,Centro,R21,Nuevos,6,6.2,2224.0,26689.0,3,5,4,Asegurar la segunda y tercera compra,40
+C1698,Restaurante o pensión,Norte,R06,Nuevos,14,2.4,2197.0,26366.0,2,2,4,Asegurar la segunda y tercera compra,41
+C1749,Tienda de barrio,Este,R12,Nuevos,5,4.9,2172.0,26061.0,4,5,4,Asegurar la segunda y tercera compra,42
+C1778,Tienda de barrio,Este,R16,Nuevos,2,5.0,2160.0,25920.0,4,5,4,Asegurar la segunda y tercera compra,43
+C1708,Tienda de barrio,Este,R12,Nuevos,4,5.5,2055.0,24654.0,4,5,4,Asegurar la segunda y tercera compra,44
+C1777,Kiosco,Centro,R24,Nuevos,2,6.0,1984.0,23808.0,4,5,4,Asegurar la segunda y tercera compra,45
+C1738,Minimercado,Este,R12,Nuevos,30,3.0,1904.0,22850.0,2,3,3,Asegurar la segunda y tercera compra,46
+C1752,Tienda de barrio,Centro,R21,Nuevos,0,8.0,1800.0,21600.0,5,5,3,Asegurar la segunda y tercera compra,47
+C1747,Tienda de barrio,Centro,R22,Nuevos,7,3.0,1796.0,21556.0,3,3,3,Asegurar la segunda y tercera compra,48
+C1711,Kiosco,Sur,R10,Nuevos,5,4.5,1692.0,20303.0,4,4,3,Asegurar la segunda y tercera compra,49
+C1723,Restaurante o pensión,Oeste,R18,Nuevos,19,2.0,1664.0,19967.0,2,2,3,Asegurar la segunda y tercera compra,50
+C1707,Tienda de barrio,Norte,R06,Nuevos,1,2.9,1609.0,19306.0,5,3,3,Asegurar la segunda y tercera compra,51
+C1699,Restaurante o pensión,Este,R12,Nuevos,28,5.2,1442.0,17301.0,2,5,3,Asegurar la segunda y tercera compra,52
+C1705,Tienda de barrio,Centro,R22,Nuevos,0,4.2,1420.0,17045.0,5,4,3,Asegurar la segunda y tercera compra,53
+C1736,Tienda de barrio,Sur,R09,Nuevos,9,2.0,1227.0,14730.0,3,2,3,Asegurar la segunda y tercera compra,54
+C1734,Tienda de barrio,Este,R13,Nuevos,2,2.7,1136.0,13636.0,4,3,2,Asegurar la segunda y tercera compra,55
+C1735,Tienda de barrio,Centro,R22,Nuevos,5,2.2,1131.0,13566.0,4,2,2,Asegurar la segunda y tercera compra,56
+C1740,Kiosco,Norte,R02,Nuevos,15,2.2,1059.0,12704.0,2,2,2,Asegurar la segunda y tercera compra,57
+C1720,Tienda de barrio,Oeste,R19,Nuevos,32,5.0,1036.0,12429.0,2,5,2,Asegurar la segunda y tercera compra,58
+C1693,Tienda de barrio,Oeste,R19,Nuevos,15,3.4,721.0,8658.0,2,4,2,Asegurar la segunda y tercera compra,59
+C1770,Tienda de barrio,Este,R13,Nuevos,6,1.0,720.0,8640.0,3,1,2,Asegurar la segunda y tercera compra,60
+C1726,Kiosco,Este,R12,Nuevos,8,3.2,708.0,8492.0,3,3,2,Asegurar la segunda y tercera compra,61
+C1739,Tienda de barrio,Centro,R22,Nuevos,30,1.4,637.0,7645.0,2,1,2,Asegurar la segunda y tercera compra,62
+C1715,Tienda de barrio,Norte,R04,Nuevos,9,1.6,609.0,7305.0,3,1,2,Asegurar la segunda y tercera compra,63
+C1762,Kiosco,Este,R15,Nuevos,0,2.0,558.0,6696.0,5,2,2,Asegurar la segunda y tercera compra,64
+C1763,Kiosco,Oeste,R18,Nuevos,0,3.0,558.0,6696.0,5,3,2,Asegurar la segunda y tercera compra,65
+C1727,Kiosco,Centro,R22,Nuevos,22,4.8,546.0,6555.0,2,5,2,Asegurar la segunda y tercera compra,66
+C1753,Kiosco,Centro,R24,Nuevos,8,1.0,496.0,5952.0,3,1,1,Asegurar la segunda y tercera compra,67
+C1706,Restaurante o pensión,Este,R13,Nuevos,69,0.4,485.0,5826.0,1,1,1,Asegurar la segunda y tercera compra,68
+C1772,Minimercado,Este,R12,Nuevos,9,1.0,456.0,5472.0,3,1,1,Asegurar la segunda y tercera compra,69
+C1742,Tienda de barrio,Norte,R06,Nuevos,1,3.4,440.0,5276.0,5,4,1,Asegurar la segunda y tercera compra,70
+C1724,Restaurante o pensión,Oeste,R18,Nuevos,30,1.7,417.0,5009.0,2,1,1,Asegurar la segunda y tercera compra,71
+C1703,Tienda de barrio,Sur,R07,Nuevos,19,2.2,397.0,4764.0,2,2,1,Asegurar la segunda y tercera compra,72
+C1690,Tienda de barrio,Norte,R06,Nuevos,0,1.6,384.0,4614.0,5,1,1,Asegurar la segunda y tercera compra,73
+C1750,Kiosco,Norte,R01,Nuevos,35,1.2,377.0,4529.0,2,1,1,Asegurar la segunda y tercera compra,74
+C1779,Tienda de barrio,Norte,R06,Nuevos,0,3.0,360.0,4320.0,5,3,1,Asegurar la segunda y tercera compra,75
+C1773,Restaurante o pensión,Oeste,R19,Nuevos,5,1.0,300.0,3600.0,4,1,1,Asegurar la segunda y tercera compra,76
+C1717,Kiosco,Centro,R23,Nuevos,8,2.6,297.0,3559.0,3,3,1,Asegurar la segunda y tercera compra,77
+C1718,Restaurante o pensión,Este,R16,Nuevos,12,2.4,288.0,3460.0,2,2,1,Asegurar la segunda y tercera compra,78
+C1748,Tienda de barrio,Sur,R09,Nuevos,6,1.1,288.0,3460.0,3,1,1,Asegurar la segunda y tercera compra,79
+C1702,Kiosco,Este,R15,Nuevos,4,1.7,288.0,3460.0,4,1,1,Asegurar la segunda y tercera compra,80
+C1775,Tienda de barrio,Este,R16,Nuevos,0,1.0,240.0,2880.0,5,1,1,Asegurar la segunda y tercera compra,81
+C1712,Kiosco,Este,R12,Nuevos,15,2.5,230.0,2754.0,2,2,1,Asegurar la segunda y tercera compra,82
+C1743,Tienda de barrio,Este,R16,Nuevos,9,2.0,213.0,2557.0,3,2,1,Asegurar la segunda y tercera compra,83
+C1689,Kiosco,Sur,R09,Nuevos,20,0.8,210.0,2516.0,2,1,1,Asegurar la segunda y tercera compra,84
+C1733,Restaurante o pensión,Este,R13,Nuevos,15,0.6,203.0,2435.0,2,1,1,Asegurar la segunda y tercera compra,85
+C1719,Kiosco,Sur,R11,Nuevos,1,2.9,183.0,2192.0,5,3,1,Asegurar la segunda y tercera compra,86
+C1780,Tienda de barrio,Este,R16,Nuevos,16,1.0,180.0,2160.0,2,1,1,Asegurar la segunda y tercera compra,87
+C1732,Kiosco,Norte,R06,Nuevos,4,2.7,166.0,1986.0,4,3,1,Asegurar la segunda y tercera compra,88
+C1725,Kiosco,Norte,R06,Nuevos,25,0.8,51.0,612.0,2,1,1,Asegurar la segunda y tercera compra,89
+C0158,Mayorista,Este,R16,Necesitan atención,8,3.1,20051.0,240613.0,3,3,5,Preguntar qué cambió en la próxima visita,1
+C1649,Mayorista,Oeste,R19,Necesitan atención,6,2.3,14590.0,175078.0,3,2,5,Preguntar qué cambió en la próxima visita,2
+C0388,Minimercado,Sur,R07,Necesitan atención,7,3.3,8485.0,101815.0,3,3,5,Preguntar qué cambió en la próxima visita,3
+C0884,Minimercado,Centro,R23,Necesitan atención,7,3.2,6930.0,83163.0,3,3,5,Preguntar qué cambió en la próxima visita,4
+C1597,Mayorista,Centro,R24,Necesitan atención,7,2.8,6823.0,81881.0,3,3,5,Preguntar qué cambió en la próxima visita,5
+C0620,Minimercado,Oeste,R17,Necesitan atención,11,3.0,6327.0,75919.0,3,3,5,Preguntar qué cambió en la próxima visita,6
+C0432,Minimercado,Oeste,R20,Necesitan atención,11,2.8,6089.0,73067.0,3,3,5,Preguntar qué cambió en la próxima visita,7
+C1262,Restaurante o pensión,Sur,R09,Necesitan atención,8,2.8,6039.0,72470.0,3,3,5,Preguntar qué cambió en la próxima visita,8
+C1051,Minimercado,Este,R14,Necesitan atención,6,3.2,5438.0,65253.0,3,3,5,Preguntar qué cambió en la próxima visita,9
+C0435,Minimercado,Este,R14,Necesitan atención,8,2.8,5248.0,62971.0,3,3,5,Preguntar qué cambió en la próxima visita,10
+C0722,Minimercado,Norte,R06,Necesitan atención,6,2.6,5248.0,62971.0,3,2,5,Preguntar qué cambió en la próxima visita,11
+C1283,Minimercado,Este,R13,Necesitan atención,11,3.0,5115.0,61374.0,3,3,5,Preguntar qué cambió en la próxima visita,12
+C1554,Minimercado,Este,R14,Necesitan atención,7,1.7,4953.0,59437.0,3,1,5,Preguntar qué cambió en la próxima visita,13
+C1272,Minimercado,Este,R13,Necesitan atención,6,3.2,4297.0,51563.0,3,3,5,Preguntar qué cambió en la próxima visita,14
+C0626,Minimercado,Sur,R11,Necesitan atención,8,3.3,4135.0,49624.0,3,3,4,Preguntar qué cambió en la próxima visita,15
+C1150,Minimercado,Sur,R11,Necesitan atención,8,3.3,4083.0,48997.0,3,3,4,Preguntar qué cambió en la próxima visita,16
+C1140,Tienda de barrio,Centro,R23,Necesitan atención,9,2.5,3522.0,42269.0,3,2,4,Preguntar qué cambió en la próxima visita,17
+C1263,Minimercado,Este,R13,Necesitan atención,11,3.0,3056.0,36676.0,3,3,4,Preguntar qué cambió en la próxima visita,18
+C0151,Minimercado,Centro,R22,Necesitan atención,12,3.3,3052.0,36619.0,3,3,4,Preguntar qué cambió en la próxima visita,19
+C0835,Minimercado,Oeste,R19,Necesitan atención,6,2.7,2823.0,33881.0,3,3,4,Preguntar qué cambió en la próxima visita,20
+C0058,Minimercado,Centro,R22,Necesitan atención,8,1.9,2719.0,32626.0,3,2,4,Preguntar qué cambió en la próxima visita,21
+C1131,Restaurante o pensión,Sur,R08,Necesitan atención,12,1.9,2682.0,32182.0,3,2,4,Preguntar qué cambió en la próxima visita,22
+C1335,Tienda de barrio,Norte,R04,Necesitan atención,6,3.3,2367.0,28399.0,3,3,4,Preguntar qué cambió en la próxima visita,23
+C0965,Restaurante o pensión,Norte,R01,Necesitan atención,7,2.5,2337.0,28039.0,3,2,4,Preguntar qué cambió en la próxima visita,24
+C0119,Restaurante o pensión,Norte,R01,Necesitan atención,8,2.1,2287.0,27439.0,3,2,4,Preguntar qué cambió en la próxima visita,25
+C0108,Minimercado,Oeste,R20,Necesitan atención,8,3.1,2267.0,27208.0,3,3,4,Preguntar qué cambió en la próxima visita,26
+C0811,Tienda de barrio,Sur,R09,Necesitan atención,7,2.9,2262.0,27139.0,3,3,4,Preguntar qué cambió en la próxima visita,27
+C0892,Minimercado,Oeste,R20,Necesitan atención,11,2.1,2229.0,26751.0,3,2,4,Preguntar qué cambió en la próxima visita,28
+C1442,Minimercado,Oeste,R18,Necesitan atención,6,2.7,2196.0,26352.0,3,3,4,Preguntar qué cambió en la próxima visita,29
+C0974,Tienda de barrio,Sur,R09,Necesitan atención,12,2.9,2161.0,25938.0,3,3,4,Preguntar qué cambió en la próxima visita,30
+C0682,Tienda de barrio,Sur,R10,Necesitan atención,7,3.2,2121.0,25457.0,3,3,4,Preguntar qué cambió en la próxima visita,31
+C0515,Restaurante o pensión,Este,R14,Necesitan atención,6,3.1,2116.0,25397.0,3,3,4,Preguntar qué cambió en la próxima visita,32
+C0155,Minimercado,Este,R14,Necesitan atención,9,2.3,2115.0,25382.0,3,2,4,Preguntar qué cambió en la próxima visita,33
+C0197,Restaurante o pensión,Este,R13,Necesitan atención,12,1.6,2091.0,25097.0,3,1,4,Preguntar qué cambió en la próxima visita,34
+C0272,Tienda de barrio,Sur,R07,Necesitan atención,8,3.1,2016.0,24197.0,3,3,4,Preguntar qué cambió en la próxima visita,35
+C0595,Minimercado,Centro,R23,Necesitan atención,6,2.1,1944.0,23329.0,3,2,3,Preguntar qué cambió en la próxima visita,36
+C1540,Restaurante o pensión,Norte,R04,Necesitan atención,6,2.6,1905.0,22858.0,3,3,3,Preguntar qué cambió en la próxima visita,37
+C1547,Minimercado,Sur,R11,Necesitan atención,6,2.6,1835.0,22016.0,3,2,3,Preguntar qué cambió en la próxima visita,38
+C0495,Tienda de barrio,Oeste,R20,Necesitan atención,12,2.6,1821.0,21855.0,3,2,3,Preguntar qué cambió en la próxima visita,39
+C0733,Tienda de barrio,Norte,R05,Necesitan atención,11,2.7,1721.0,20654.0,3,3,3,Preguntar qué cambió en la próxima visita,40
+C0607,Tienda de barrio,Este,R12,Necesitan atención,11,3.2,1701.0,20414.0,3,3,3,Preguntar qué cambió en la próxima visita,41
+C1143,Tienda de barrio,Centro,R21,Necesitan atención,12,2.8,1696.0,20354.0,3,3,3,Preguntar qué cambió en la próxima visita,42
+C0462,Minimercado,Norte,R06,Necesitan atención,8,2.1,1687.0,20249.0,3,2,3,Preguntar qué cambió en la próxima visita,43
+C1611,Tienda de barrio,Este,R16,Necesitan atención,9,2.9,1674.0,20089.0,3,3,3,Preguntar qué cambió en la próxima visita,44
+C0580,Kiosco,Este,R13,Necesitan atención,8,2.9,1660.0,19916.0,3,3,3,Preguntar qué cambió en la próxima visita,45
+C0491,Restaurante o pensión,Sur,R08,Necesitan atención,8,3.0,1621.0,19453.0,3,3,3,Preguntar qué cambió en la próxima visita,46
+C0627,Restaurante o pensión,Norte,R03,Necesitan atención,12,2.4,1601.0,19213.0,3,2,3,Preguntar qué cambió en la próxima visita,47
+C0950,Tienda de barrio,Norte,R06,Necesitan atención,6,3.1,1596.0,19153.0,3,3,3,Preguntar qué cambió en la próxima visita,48
+C1577,Tienda de barrio,Centro,R21,Necesitan atención,8,3.1,1558.0,18701.0,3,3,3,Preguntar qué cambió en la próxima visita,49
+C0177,Tienda de barrio,Norte,R04,Necesitan atención,9,3.2,1546.0,18553.0,3,3,3,Preguntar qué cambió en la próxima visita,50
+C0036,Tienda de barrio,Norte,R05,Necesitan atención,12,3.3,1526.0,18313.0,3,3,3,Preguntar qué cambió en la próxima visita,51
+C1259,Tienda de barrio,Sur,R08,Necesitan atención,8,3.2,1516.0,18192.0,3,3,3,Preguntar qué cambió en la próxima visita,52
+C0668,Restaurante o pensión,Este,R12,Necesitan atención,8,2.6,1506.0,18072.0,3,2,3,Preguntar qué cambió en la próxima visita,53
+C0970,Restaurante o pensión,Centro,R23,Necesitan atención,6,1.9,1476.0,17712.0,3,2,3,Preguntar qué cambió en la próxima visita,54
+C1696,Minimercado,Norte,R04,Necesitan atención,7,2.0,1471.0,17651.0,3,2,3,Preguntar qué cambió en la próxima visita,55
+C1635,Tienda de barrio,Este,R13,Necesitan atención,8,2.3,1466.0,17586.0,3,2,3,Preguntar qué cambió en la próxima visita,56
+C0334,Tienda de barrio,Este,R15,Necesitan atención,7,3.0,1461.0,17532.0,3,3,3,Preguntar qué cambió en la próxima visita,57
+C0662,Tienda de barrio,Este,R16,Necesitan atención,6,2.3,1441.0,17292.0,3,2,3,Preguntar qué cambió en la próxima visita,58
+C0804,Restaurante o pensión,Sur,R08,Necesitan atención,6,2.1,1441.0,17292.0,3,2,3,Preguntar qué cambió en la próxima visita,59
+C0274,Tienda de barrio,Oeste,R20,Necesitan atención,7,3.0,1431.0,17172.0,3,3,3,Preguntar qué cambió en la próxima visita,60
+C0364,Tienda de barrio,Centro,R21,Necesitan atención,9,3.2,1426.0,17112.0,3,3,3,Preguntar qué cambió en la próxima visita,61
+C1103,Minimercado,Centro,R22,Necesitan atención,9,2.1,1416.0,16998.0,3,2,3,Preguntar qué cambió en la próxima visita,62
+C0576,Minimercado,Norte,R02,Necesitan atención,9,2.3,1388.0,16655.0,3,2,3,Preguntar qué cambió en la próxima visita,63
+C0200,Tienda de barrio,Centro,R24,Necesitan atención,12,3.1,1366.0,16391.0,3,3,3,Preguntar qué cambió en la próxima visita,64
+C0645,Tienda de barrio,Norte,R06,Necesitan atención,6,3.3,1366.0,16391.0,3,3,3,Preguntar qué cambió en la próxima visita,65
+C0997,Tienda de barrio,Centro,R22,Necesitan atención,6,2.8,1361.0,16331.0,3,3,3,Preguntar qué cambió en la próxima visita,66
+C0329,Tienda de barrio,Sur,R07,Necesitan atención,8,2.3,1341.0,16091.0,3,2,3,Preguntar qué cambió en la próxima visita,67
+C0851,Tienda de barrio,Oeste,R19,Necesitan atención,11,2.8,1331.0,15971.0,3,3,3,Preguntar qué cambió en la próxima visita,68
+C1413,Restaurante o pensión,Sur,R11,Necesitan atención,9,2.5,1326.0,15911.0,3,2,3,Preguntar qué cambió en la próxima visita,69
+C1658,Restaurante o pensión,Este,R15,Necesitan atención,6,3.3,1308.0,15696.0,3,3,3,Preguntar qué cambió en la próxima visita,70
+C0759,Tienda de barrio,Sur,R10,Necesitan atención,9,1.5,1291.0,15491.0,3,1,3,Preguntar qué cambió en la próxima visita,71
+C1659,Tienda de barrio,Este,R13,Necesitan atención,6,2.6,1290.0,15478.0,3,2,3,Preguntar qué cambió en la próxima visita,72
+C1151,Restaurante o pensión,Sur,R09,Necesitan atención,9,1.5,1151.0,13809.0,3,1,3,Preguntar qué cambió en la próxima visita,73
+C0183,Restaurante o pensión,Sur,R08,Necesitan atención,12,2.3,1141.0,13689.0,3,2,3,Preguntar qué cambió en la próxima visita,74
+C1645,Tienda de barrio,Este,R12,Necesitan atención,6,1.8,1128.0,13532.0,3,2,2,Preguntar qué cambió en la próxima visita,75
+C0080,Restaurante o pensión,Norte,R03,Necesitan atención,8,2.3,1121.0,13449.0,3,2,2,Preguntar qué cambió en la próxima visita,76
+C0746,Restaurante o pensión,Norte,R02,Necesitan atención,9,2.3,1111.0,13329.0,3,2,2,Preguntar qué cambió en la próxima visita,77
+C1319,Minimercado,Sur,R10,Necesitan atención,11,2.0,1103.0,13233.0,3,2,2,Preguntar qué cambió en la próxima visita,78
+C1030,Kiosco,Oeste,R19,Necesitan atención,9,3.3,1081.0,12967.0,3,3,2,Preguntar qué cambió en la próxima visita,79
+C0611,Tienda de barrio,Norte,R02,Necesitan atención,11,3.1,1076.0,12909.0,3,3,2,Preguntar qué cambió en la próxima visita,80
+C0547,Tienda de barrio,Este,R12,Necesitan atención,6,2.8,1046.0,12549.0,3,3,2,Preguntar qué cambió en la próxima visita,81
+C1427,Kiosco,Oeste,R18,Necesitan atención,8,2.5,1039.0,12471.0,3,2,2,Preguntar qué cambió en la próxima visita,82
+C0464,Tienda de barrio,Sur,R08,Necesitan atención,11,2.6,1011.0,12128.0,3,2,2,Preguntar qué cambió en la próxima visita,83
+C0735,Tienda de barrio,Oeste,R19,Necesitan atención,7,2.8,1011.0,12128.0,3,3,2,Preguntar qué cambió en la próxima visita,84
+C0384,Tienda de barrio,Este,R14,Necesitan atención,8,2.9,986.0,11828.0,3,3,2,Preguntar qué cambió en la próxima visita,85
+C1387,Kiosco,Sur,R09,Necesitan atención,9,2.0,982.0,11788.0,3,2,2,Preguntar qué cambió en la próxima visita,86
+C0104,Tienda de barrio,Sur,R07,Necesitan atención,12,2.6,971.0,11648.0,3,2,2,Preguntar qué cambió en la próxima visita,87
+C0039,Tienda de barrio,Sur,R10,Necesitan atención,11,2.3,966.0,11588.0,3,2,2,Preguntar qué cambió en la próxima visita,88
+C1668,Tienda de barrio,Oeste,R19,Necesitan atención,7,3.3,944.0,11323.0,3,3,2,Preguntar qué cambió en la próxima visita,89
+C1014,Kiosco,Sur,R10,Necesitan atención,12,2.4,936.0,11230.0,3,2,2,Preguntar qué cambió en la próxima visita,90
+C1261,Kiosco,Este,R14,Necesitan atención,7,2.3,915.0,10982.0,3,2,2,Preguntar qué cambió en la próxima visita,91
+C1633,Tienda de barrio,Este,R15,Necesitan atención,7,2.4,902.0,10827.0,3,2,2,Preguntar qué cambió en la próxima visita,92
+C0048,Tienda de barrio,Centro,R24,Necesitan atención,9,1.5,871.0,10447.0,3,1,2,Preguntar qué cambió en la próxima visita,93
+C0593,Kiosco,Este,R14,Necesitan atención,11,1.8,869.0,10423.0,3,2,2,Preguntar qué cambió en la próxima visita,94
+C0385,Tienda de barrio,Sur,R08,Necesitan atención,7,2.7,861.0,10327.0,3,3,2,Preguntar qué cambió en la próxima visita,95
+C1130,Restaurante o pensión,Norte,R05,Necesitan atención,9,2.3,851.0,10207.0,3,2,2,Preguntar qué cambió en la próxima visita,96
+C1526,Tienda de barrio,Este,R14,Necesitan atención,9,2.7,839.0,10069.0,3,3,2,Preguntar qué cambió en la próxima visita,97
+C0756,Tienda de barrio,Este,R14,Necesitan atención,8,1.7,826.0,9907.0,3,1,2,Preguntar qué cambió en la próxima visita,98
+C0551,Tienda de barrio,Este,R12,Necesitan atención,12,2.8,811.0,9727.0,3,3,2,Preguntar qué cambió en la próxima visita,99
+C0749,Tienda de barrio,Este,R15,Necesitan atención,8,2.2,791.0,9486.0,3,2,2,Preguntar qué cambió en la próxima visita,100
+C0378,Restaurante o pensión,Norte,R05,Necesitan atención,7,1.9,771.0,9246.0,3,2,2,Preguntar qué cambió en la próxima visita,101
+C1474,Tienda de barrio,Sur,R10,Necesitan atención,9,3.0,767.0,9198.0,3,3,2,Preguntar qué cambió en la próxima visita,102
+C0608,Tienda de barrio,Centro,R24,Necesitan atención,7,3.0,756.0,9066.0,3,3,2,Preguntar qué cambió en la próxima visita,103
+C1040,Tienda de barrio,Norte,R02,Necesitan atención,11,1.6,756.0,9066.0,3,1,2,Preguntar qué cambió en la próxima visita,104
+C0224,Tienda de barrio,Oeste,R20,Necesitan atención,7,2.5,736.0,8826.0,3,2,2,Preguntar qué cambió en la próxima visita,105
+C1417,Tienda de barrio,Oeste,R19,Necesitan atención,9,2.4,725.0,8706.0,3,2,2,Preguntar qué cambió en la próxima visita,106
+C1656,Tienda de barrio,Centro,R22,Necesitan atención,8,3.1,691.0,8292.0,3,3,2,Preguntar qué cambió en la próxima visita,107
+C1429,Kiosco,Centro,R23,Necesitan atención,8,2.2,688.0,8252.0,3,2,2,Preguntar qué cambió en la próxima visita,108
+C0999,Tienda de barrio,Centro,R22,Necesitan atención,7,2.8,685.0,8226.0,3,3,2,Preguntar qué cambió en la próxima visita,109
+C1025,Tienda de barrio,Centro,R24,Necesitan atención,6,2.8,685.0,8226.0,3,3,2,Preguntar qué cambió en la próxima visita,110
+C0118,Kiosco,Sur,R10,Necesitan atención,12,2.7,682.0,8190.0,3,3,2,Preguntar qué cambió en la próxima visita,111
+C1551,Tienda de barrio,Centro,R23,Necesitan atención,7,2.7,668.0,8014.0,3,3,2,Preguntar qué cambió en la próxima visita,112
+C0372,Kiosco,Este,R13,Necesitan atención,8,1.8,667.0,8003.0,3,2,2,Preguntar qué cambió en la próxima visita,113
+C0254,Tienda de barrio,Norte,R03,Necesitan atención,9,1.8,660.0,7925.0,3,1,2,Preguntar qué cambió en la próxima visita,114
+C1545,Tienda de barrio,Este,R12,Necesitan atención,8,2.3,649.0,7792.0,3,2,2,Preguntar qué cambió en la próxima visita,115
+C0178,Tienda de barrio,Sur,R10,Necesitan atención,8,2.0,635.0,7625.0,3,2,2,Preguntar qué cambió en la próxima visita,116
+C0518,Tienda de barrio,Centro,R22,Necesitan atención,8,1.0,620.0,7445.0,3,1,2,Preguntar qué cambió en la próxima visita,117
+C0819,Kiosco,Este,R13,Necesitan atención,9,2.2,610.0,7321.0,3,2,2,Preguntar qué cambió en la próxima visita,118
+C0541,Tienda de barrio,Norte,R06,Necesitan atención,6,2.1,605.0,7265.0,3,2,2,Preguntar qué cambió en la próxima visita,119
+C0222,Tienda de barrio,Sur,R09,Necesitan atención,9,1.9,565.0,6785.0,3,2,2,Preguntar qué cambió en la próxima visita,120
+C1602,Tienda de barrio,Centro,R23,Necesitan atención,11,2.2,546.0,6552.0,3,2,2,Preguntar qué cambió en la próxima visita,121
+C1499,Tienda de barrio,Centro,R22,Necesitan atención,9,2.9,539.0,6462.0,3,3,2,Preguntar qué cambió en la próxima visita,122
+C1166,Kiosco,Centro,R23,Necesitan atención,12,2.3,527.0,6328.0,3,2,1,Preguntar qué cambió en la próxima visita,123
+C0532,Tienda de barrio,Centro,R23,Necesitan atención,8,1.6,525.0,6304.0,3,1,1,Preguntar qué cambió en la próxima visita,124
+C0952,Kiosco,Norte,R02,Necesitan atención,7,1.8,522.0,6266.0,3,2,1,Preguntar qué cambió en la próxima visita,125
+C0796,Kiosco,Sur,R11,Necesitan atención,11,1.5,502.0,6018.0,3,1,1,Preguntar qué cambió en la próxima visita,126
+C0489,Tienda de barrio,Este,R12,Necesitan atención,8,2.6,495.0,5944.0,3,2,1,Preguntar qué cambió en la próxima visita,127
+C0408,Kiosco,Oeste,R18,Necesitan atención,12,2.9,486.0,5832.0,3,3,1,Preguntar qué cambió en la próxima visita,128
+C1353,Kiosco,Centro,R22,Necesitan atención,7,2.0,476.0,5708.0,3,2,1,Preguntar qué cambió en la próxima visita,129
+C1571,Tienda de barrio,Este,R13,Necesitan atención,11,2.2,474.0,5692.0,3,2,1,Preguntar qué cambió en la próxima visita,130
+C0391,Tienda de barrio,Este,R16,Necesitan atención,8,1.5,460.0,5524.0,3,1,1,Preguntar qué cambió en la próxima visita,131
+C1716,Kiosco,Este,R13,Necesitan atención,8,2.3,431.0,5169.0,3,2,1,Preguntar qué cambió en la próxima visita,132
+C0533,Tienda de barrio,Centro,R23,Necesitan atención,6,2.4,425.0,5103.0,3,2,1,Preguntar qué cambió en la próxima visita,133
+C1517,Kiosco,Sur,R09,Necesitan atención,8,2.1,423.0,5076.0,3,2,1,Preguntar qué cambió en la próxima visita,134
+C0301,Tienda de barrio,Sur,R09,Necesitan atención,8,2.0,410.0,4923.0,3,2,1,Preguntar qué cambió en la próxima visita,135
+C1681,Kiosco,Centro,R24,Necesitan atención,6,2.1,407.0,4884.0,3,2,1,Preguntar qué cambió en la próxima visita,136
+C1105,Kiosco,Centro,R23,Necesitan atención,11,3.0,398.0,4777.0,3,3,1,Preguntar qué cambió en la próxima visita,137
+C1167,Tienda de barrio,Centro,R21,Necesitan atención,11,1.8,360.0,4323.0,3,2,1,Preguntar qué cambió en la próxima visita,138
+C0458,Kiosco,Este,R16,Necesitan atención,9,2.3,321.0,3847.0,3,2,1,Preguntar qué cambió en la próxima visita,139
+C1185,Restaurante o pensión,Este,R16,Necesitan atención,8,1.3,310.0,3723.0,3,1,1,Preguntar qué cambió en la próxima visita,140
+C0003,Kiosco,Este,R15,Necesitan atención,12,1.9,305.0,3661.0,3,2,1,Preguntar qué cambió en la próxima visita,141
+C0429,Tienda de barrio,Este,R14,Necesitan atención,7,2.1,290.0,3482.0,3,2,1,Preguntar qué cambió en la próxima visita,142
+C0782,Kiosco,Sur,R09,Necesitan atención,7,2.7,284.0,3412.0,3,3,1,Preguntar qué cambió en la próxima visita,143
+C0314,Tienda de barrio,Este,R12,Necesitan atención,12,2.5,275.0,3302.0,3,2,1,Preguntar qué cambió en la próxima visita,144
+C1505,Tienda de barrio,Sur,R07,Necesitan atención,8,3.0,275.0,3300.0,3,3,1,Preguntar qué cambió en la próxima visita,145
+C0838,Kiosco,Oeste,R20,Necesitan atención,7,0.8,264.0,3164.0,3,1,1,Preguntar qué cambió en la próxima visita,146
+C1294,Kiosco,Norte,R04,Necesitan atención,6,2.2,259.0,3102.0,3,2,1,Preguntar qué cambió en la próxima visita,147
+C1436,Kiosco,Oeste,R18,Necesitan atención,11,2.2,238.0,2854.0,3,2,1,Preguntar qué cambió en la próxima visita,148
+C1637,Kiosco,Norte,R05,Necesitan atención,7,2.7,228.0,2741.0,3,3,1,Preguntar qué cambió en la próxima visita,149
+C1292,Tienda de barrio,Centro,R21,Necesitan atención,6,1.2,205.0,2462.0,3,1,1,Preguntar qué cambió en la próxima visita,150
+C1202,Kiosco,Norte,R06,Necesitan atención,9,1.5,202.0,2420.0,3,1,1,Preguntar qué cambió en la próxima visita,151
+C1472,Kiosco,Este,R12,Necesitan atención,7,1.0,199.0,2387.0,3,1,1,Preguntar qué cambió en la próxima visita,152
+C0699,Kiosco,Este,R14,Necesitan atención,6,2.0,191.0,2296.0,3,2,1,Preguntar qué cambió en la próxima visita,153
+C0633,Kiosco,Este,R12,Necesitan atención,12,1.7,181.0,2171.0,3,1,1,Preguntar qué cambió en la próxima visita,154
+C1044,Kiosco,Centro,R24,Necesitan atención,8,1.0,150.0,1799.0,3,1,1,Preguntar qué cambió en la próxima visita,155
+C1069,Kiosco,Centro,R22,Necesitan atención,7,0.8,88.0,1055.0,3,1,1,Preguntar qué cambió en la próxima visita,156
+C0963,Mayorista,Oeste,R18,En riesgo,14,5.8,42730.0,512759.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,1
+C0872,Mayorista,Norte,R05,En riesgo,126,6.0,36260.0,435122.0,1,5,5,Recuperar: visita del supervisor y oferta de reactivación,2
+C0180,Mayorista,Este,R14,En riesgo,30,5.7,28685.0,344216.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,3
+C0585,Mayorista,Este,R12,En riesgo,30,6.8,21781.0,261375.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,4
+C0128,Mayorista,Norte,R01,En riesgo,102,3.3,20042.0,240509.0,1,3,5,Recuperar: visita del supervisor y oferta de reactivación,5
+C1458,Mayorista,Norte,R02,En riesgo,20,6.0,17117.0,205402.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,6
+C0079,Mayorista,Sur,R07,En riesgo,14,3.3,17037.0,204448.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,7
+C0045,Mayorista,Centro,R21,En riesgo,22,3.3,12887.0,154650.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,8
+C0135,Minimercado,Centro,R24,En riesgo,14,3.7,12701.0,152408.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,9
+C0459,Mayorista,Norte,R03,En riesgo,13,4.6,10711.0,128528.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,10
+C0418,Minimercado,Este,R12,En riesgo,29,3.6,10196.0,122349.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,11
+C1389,Mayorista,Oeste,R19,En riesgo,27,3.1,10052.0,120619.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,12
+C0691,Minimercado,Este,R14,En riesgo,16,3.3,9678.0,116131.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,13
+C0780,Minimercado,Oeste,R18,En riesgo,14,4.6,8717.0,104610.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,14
+C1120,Minimercado,Sur,R11,En riesgo,19,3.4,8442.0,101301.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,15
+C0624,Minimercado,Sur,R11,En riesgo,29,4.8,7805.0,93658.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,16
+C1482,Minimercado,Sur,R09,En riesgo,50,3.1,7655.0,91861.0,1,3,5,Recuperar: visita del supervisor y oferta de reactivación,17
+C0124,Minimercado,Centro,R24,En riesgo,71,2.9,7648.0,91776.0,1,3,5,Recuperar: visita del supervisor y oferta de reactivación,18
+C0771,Minimercado,Este,R16,En riesgo,49,3.8,7472.0,89665.0,1,4,5,Recuperar: visita del supervisor y oferta de reactivación,19
+C1211,Minimercado,Norte,R04,En riesgo,47,3.7,7406.0,88867.0,1,4,5,Recuperar: visita del supervisor y oferta de reactivación,20
+C0308,Minimercado,Sur,R11,En riesgo,22,3.4,7087.0,85045.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,21
+C1136,Minimercado,Norte,R04,En riesgo,13,7.0,6978.0,83733.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,22
+C1372,Minimercado,Norte,R04,En riesgo,13,4.1,6878.0,82535.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,23
+C1665,Restaurante o pensión,Oeste,R19,En riesgo,15,4.4,6848.0,82181.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,24
+C1475,Minimercado,Sur,R07,En riesgo,64,2.8,6682.0,80188.0,1,3,5,Recuperar: visita del supervisor y oferta de reactivación,25
+C1680,Minimercado,Sur,R11,En riesgo,16,4.1,6378.0,76536.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,26
+C0163,Restaurante o pensión,Sur,R10,En riesgo,13,3.8,5889.0,70668.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,27
+C1553,Minimercado,Sur,R07,En riesgo,48,5.3,5884.0,70608.0,1,5,5,Recuperar: visita del supervisor y oferta de reactivación,28
+C1320,Restaurante o pensión,Norte,R02,En riesgo,14,3.3,5874.0,70488.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,29
+C1431,Minimercado,Sur,R11,En riesgo,25,3.2,5851.0,70215.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,30
+C0979,Minimercado,Oeste,R20,En riesgo,61,3.2,5713.0,68561.0,1,3,5,Recuperar: visita del supervisor y oferta de reactivación,31
+C0588,Restaurante o pensión,Sur,R08,En riesgo,16,2.7,5664.0,67967.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,32
+C0406,Tienda de barrio,Oeste,R20,En riesgo,14,3.4,5539.0,66465.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,33
+C0181,Minimercado,Centro,R22,En riesgo,25,3.8,5538.0,66450.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,34
+C1558,Tienda de barrio,Sur,R11,En riesgo,12,5.5,5494.0,65925.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,35
+C0144,Restaurante o pensión,Oeste,R19,En riesgo,14,4.6,5474.0,65685.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,36
+C1648,Restaurante o pensión,Oeste,R18,En riesgo,14,3.7,5308.0,63700.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,37
+C0082,Minimercado,Centro,R23,En riesgo,19,3.5,5034.0,60404.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,38
+C1083,Tienda de barrio,Sur,R11,En riesgo,16,4.6,4973.0,59681.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,39
+C1015,Tienda de barrio,Norte,R03,En riesgo,49,4.5,4918.0,59020.0,1,4,5,Recuperar: visita del supervisor y oferta de reactivación,40
+C0422,Minimercado,Oeste,R20,En riesgo,21,4.4,4796.0,57552.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,41
+C1542,Tienda de barrio,Norte,R01,En riesgo,15,4.3,4692.0,56306.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,42
+C0846,Minimercado,Este,R12,En riesgo,14,4.5,4691.0,56298.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,43
+C0226,Minimercado,Este,R16,En riesgo,16,5.8,4677.0,56126.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,44
+C1454,Tienda de barrio,Este,R12,En riesgo,16,3.8,4668.0,56018.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,45
+C1147,Minimercado,Oeste,R20,En riesgo,20,3.3,4620.0,55442.0,2,3,5,Recuperar: visita del supervisor y oferta de reactivación,46
+C1564,Minimercado,Centro,R23,En riesgo,12,3.4,4515.0,54176.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,47
+C0994,Minimercado,Oeste,R18,En riesgo,15,5.6,4473.0,53674.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,48
+C1035,Tienda de barrio,Norte,R02,En riesgo,20,6.3,4223.0,50675.0,2,5,5,Recuperar: visita del supervisor y oferta de reactivación,49
+C1010,Minimercado,Centro,R22,En riesgo,23,3.8,4164.0,49966.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,50
+C1485,Minimercado,Norte,R04,En riesgo,23,4.1,4163.0,49954.0,2,4,5,Recuperar: visita del supervisor y oferta de reactivación,51
+C0060,Minimercado,Centro,R23,En riesgo,16,3.8,4069.0,48825.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,52
+C0761,Minimercado,Este,R12,En riesgo,13,4.5,4069.0,48825.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,53
+C0100,Minimercado,Sur,R11,En riesgo,34,2.8,3917.0,47000.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,54
+C0653,Minimercado,Centro,R21,En riesgo,14,2.8,3902.0,46829.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,55
+C0649,Tienda de barrio,Sur,R08,En riesgo,15,4.7,3833.0,45991.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,56
+C1674,Minimercado,Oeste,R18,En riesgo,39,3.2,3599.0,43189.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,57
+C1187,Restaurante o pensión,Norte,R06,En riesgo,13,3.4,3452.0,41428.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,58
+C1145,Minimercado,Centro,R24,En riesgo,93,2.8,3432.0,41182.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,59
+C0594,Restaurante o pensión,Sur,R10,En riesgo,36,3.1,3377.0,40528.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,60
+C0891,Tienda de barrio,Norte,R04,En riesgo,15,3.3,3337.0,40047.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,61
+C0084,Tienda de barrio,Centro,R22,En riesgo,33,2.8,3287.0,39447.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,62
+C0494,Restaurante o pensión,Sur,R11,En riesgo,13,6.6,3277.0,39327.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,63
+C1586,Tienda de barrio,Oeste,R17,En riesgo,12,4.7,3157.0,37889.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,64
+C0113,Restaurante o pensión,Oeste,R18,En riesgo,21,3.9,3022.0,36265.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,65
+C1050,Minimercado,Centro,R24,En riesgo,28,3.3,2928.0,35136.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,66
+C0088,Restaurante o pensión,Oeste,R20,En riesgo,62,3.4,2822.0,33863.0,1,4,4,Recuperar: visita del supervisor y oferta de reactivación,67
+C0366,Tienda de barrio,Oeste,R18,En riesgo,14,4.8,2767.0,33203.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,68
+C0507,Tienda de barrio,Norte,R04,En riesgo,20,5.2,2737.0,32842.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,69
+C0617,Tienda de barrio,Oeste,R17,En riesgo,14,5.4,2707.0,32482.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,70
+C1222,Minimercado,Centro,R21,En riesgo,70,2.8,2690.0,32284.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,71
+C0188,Tienda de barrio,Norte,R02,En riesgo,19,3.6,2637.0,31642.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,72
+C1626,Tienda de barrio,Centro,R22,En riesgo,14,4.4,2630.0,31562.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,73
+C1457,Minimercado,Norte,R06,En riesgo,27,2.6,2553.0,30638.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,74
+C1422,Minimercado,Este,R16,En riesgo,21,2.6,2529.0,30345.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,75
+C1510,Tienda de barrio,Centro,R23,En riesgo,15,3.6,2527.0,30323.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,76
+C1241,Minimercado,Sur,R11,En riesgo,21,2.7,2495.0,29945.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,77
+C1078,Tienda de barrio,Norte,R06,En riesgo,50,6.0,2467.0,29600.0,1,5,4,Recuperar: visita del supervisor y oferta de reactivación,78
+C1193,Tienda de barrio,Oeste,R18,En riesgo,97,2.7,2452.0,29420.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,79
+C1327,Tienda de barrio,Este,R14,En riesgo,22,3.8,2392.0,28700.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,80
+C1118,Minimercado,Norte,R04,En riesgo,14,4.8,2372.0,28462.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,81
+C0647,Tienda de barrio,Oeste,R17,En riesgo,15,4.5,2357.0,28279.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,82
+C1334,Tienda de barrio,Oeste,R19,En riesgo,16,4.5,2347.0,28159.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,83
+C0704,Kiosco,Sur,R09,En riesgo,50,2.8,2239.0,26864.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,84
+C1113,Tienda de barrio,Oeste,R19,En riesgo,14,3.3,2207.0,26478.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,85
+C0655,Tienda de barrio,Sur,R11,En riesgo,13,4.0,2186.0,26238.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,86
+C1344,Tienda de barrio,Centro,R21,En riesgo,65,2.8,2171.0,26058.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,87
+C1638,Minimercado,Este,R16,En riesgo,13,2.7,2057.0,24689.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,88
+C1489,Restaurante o pensión,Oeste,R18,En riesgo,14,4.0,2038.0,24457.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,89
+C1360,Tienda de barrio,Norte,R02,En riesgo,20,3.2,2031.0,24377.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,90
+C1141,Tienda de barrio,Sur,R07,En riesgo,23,5.3,2011.0,24137.0,2,5,4,Recuperar: visita del supervisor y oferta de reactivación,91
+C0747,Tienda de barrio,Norte,R03,En riesgo,22,3.8,1981.0,23776.0,2,4,4,Recuperar: visita del supervisor y oferta de reactivación,92
+C0836,Tienda de barrio,Oeste,R18,En riesgo,42,3.3,1976.0,23716.0,1,3,4,Recuperar: visita del supervisor y oferta de reactivación,93
+C1257,Tienda de barrio,Centro,R24,En riesgo,13,2.8,1971.0,23656.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,94
+C0875,Tienda de barrio,Centro,R22,En riesgo,14,3.3,1966.0,23596.0,2,3,4,Recuperar: visita del supervisor y oferta de reactivación,95
+C0190,Tienda de barrio,Norte,R05,En riesgo,13,2.7,1951.0,23416.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,96
+C0793,Minimercado,Centro,R22,En riesgo,36,3.6,1939.0,23272.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,97
+C1552,Restaurante o pensión,Centro,R22,En riesgo,15,3.0,1880.0,22560.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,98
+C1191,Tienda de barrio,Este,R15,En riesgo,133,5.0,1876.0,22515.0,1,5,3,Recuperar: visita del supervisor y oferta de reactivación,99
+C0425,Tienda de barrio,Sur,R11,En riesgo,56,3.4,1851.0,22215.0,1,4,3,Recuperar: visita del supervisor y oferta de reactivación,100
+C0215,Tienda de barrio,Norte,R06,En riesgo,13,5.1,1831.0,21975.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,101
+C0858,Tienda de barrio,Este,R14,En riesgo,18,4.7,1816.0,21795.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,102
+C0087,Restaurante o pensión,Norte,R03,En riesgo,41,3.7,1811.0,21735.0,1,4,3,Recuperar: visita del supervisor y oferta de reactivación,103
+C0014,Tienda de barrio,Centro,R24,En riesgo,42,3.5,1796.0,21555.0,1,4,3,Recuperar: visita del supervisor y oferta de reactivación,104
+C1488,Tienda de barrio,Este,R13,En riesgo,26,3.0,1786.0,21436.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,105
+C1607,Minimercado,Este,R12,En riesgo,19,3.1,1778.0,21332.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,106
+C1562,Minimercado,Sur,R07,En riesgo,19,3.3,1767.0,21205.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,107
+C0918,Restaurante o pensión,Sur,R08,En riesgo,27,3.0,1766.0,21195.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,108
+C0427,Tienda de barrio,Norte,R02,En riesgo,22,4.2,1736.0,20834.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,109
+C0534,Tienda de barrio,Centro,R22,En riesgo,15,3.1,1736.0,20834.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,110
+C0814,Tienda de barrio,Sur,R11,En riesgo,15,3.1,1731.0,20774.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,111
+C1511,Tienda de barrio,Centro,R23,En riesgo,41,3.8,1731.0,20769.0,1,4,3,Recuperar: visita del supervisor y oferta de reactivación,112
+C0546,Tienda de barrio,Centro,R24,En riesgo,14,3.1,1726.0,20714.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,113
+C0973,Tienda de barrio,Oeste,R17,En riesgo,19,2.7,1726.0,20714.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,114
+C0752,Tienda de barrio,Norte,R01,En riesgo,14,3.3,1716.0,20594.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,115
+C0557,Minimercado,Este,R13,En riesgo,14,4.1,1711.0,20534.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,116
+C0170,Restaurante o pensión,Norte,R04,En riesgo,19,2.8,1706.0,20474.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,117
+C0450,Tienda de barrio,Norte,R04,En riesgo,15,4.3,1676.0,20114.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,118
+C0798,Tienda de barrio,Oeste,R19,En riesgo,20,4.7,1661.0,19934.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,119
+C1125,Tienda de barrio,Sur,R08,En riesgo,15,3.3,1641.0,19693.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,120
+C1059,Kiosco,Norte,R02,En riesgo,13,3.5,1634.0,19605.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,121
+C1590,Tienda de barrio,Centro,R24,En riesgo,14,2.7,1610.0,19326.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,122
+C0021,Tienda de barrio,Centro,R23,En riesgo,32,3.2,1591.0,19093.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,123
+C0568,Kiosco,Norte,R06,En riesgo,21,3.3,1582.0,18985.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,124
+C1331,Tienda de barrio,Centro,R23,En riesgo,22,3.6,1551.0,18613.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,125
+C0861,Tienda de barrio,Centro,R24,En riesgo,15,4.4,1531.0,18373.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,126
+C0211,Tienda de barrio,Este,R15,En riesgo,18,2.7,1516.0,18192.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,127
+C0496,Tienda de barrio,Sur,R08,En riesgo,13,4.5,1501.0,18012.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,128
+C1034,Tienda de barrio,Sur,R07,En riesgo,30,2.8,1496.0,17952.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,129
+C0710,Kiosco,Sur,R09,En riesgo,13,6.1,1489.0,17868.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,130
+C1678,Tienda de barrio,Sur,R07,En riesgo,25,2.7,1484.0,17806.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,131
+C1404,Tienda de barrio,Norte,R03,En riesgo,47,2.8,1481.0,17772.0,1,3,3,Recuperar: visita del supervisor y oferta de reactivación,132
+C1576,Tienda de barrio,Oeste,R18,En riesgo,19,2.8,1478.0,17741.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,133
+C0111,Restaurante o pensión,Este,R13,En riesgo,14,2.8,1476.0,17712.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,134
+C0438,Tienda de barrio,Este,R15,En riesgo,16,3.2,1431.0,17172.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,135
+C0067,Tienda de barrio,Norte,R04,En riesgo,19,2.8,1426.0,17112.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,136
+C0968,Tienda de barrio,Norte,R03,En riesgo,19,3.3,1406.0,16872.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,137
+C0919,Tienda de barrio,Este,R13,En riesgo,18,3.7,1371.0,16451.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,138
+C0736,Tienda de barrio,Oeste,R19,En riesgo,34,3.3,1356.0,16271.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,139
+C0830,Tienda de barrio,Centro,R24,En riesgo,14,6.8,1341.0,16091.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,140
+C1546,Tienda de barrio,Sur,R08,En riesgo,15,4.3,1337.0,16042.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,141
+C0604,Tienda de barrio,Oeste,R20,En riesgo,19,3.2,1326.0,15911.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,142
+C0586,Tienda de barrio,Centro,R22,En riesgo,18,3.2,1311.0,15731.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,143
+C1539,Tienda de barrio,Norte,R02,En riesgo,13,4.6,1300.0,15601.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,144
+C1421,Tienda de barrio,Sur,R09,En riesgo,23,4.2,1296.0,15551.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,145
+C0876,Tienda de barrio,Oeste,R18,En riesgo,58,2.7,1291.0,15491.0,1,3,3,Recuperar: visita del supervisor y oferta de reactivación,146
+C1582,Tienda de barrio,Sur,R08,En riesgo,18,3.3,1284.0,15407.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,147
+C1469,Kiosco,Oeste,R20,En riesgo,15,5.3,1258.0,15097.0,2,5,3,Recuperar: visita del supervisor y oferta de reactivación,148
+C0328,Tienda de barrio,Este,R16,En riesgo,23,2.8,1256.0,15070.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,149
+C1478,Tienda de barrio,Centro,R23,En riesgo,21,3.9,1242.0,14900.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,150
+C0277,Tienda de barrio,Norte,R06,En riesgo,37,3.3,1231.0,14770.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,151
+C0023,Kiosco,Norte,R05,En riesgo,22,3.0,1231.0,14766.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,152
+C1644,Tienda de barrio,Oeste,R17,En riesgo,13,3.4,1210.0,14524.0,2,4,3,Recuperar: visita del supervisor y oferta de reactivación,153
+C0288,Tienda de barrio,Este,R15,En riesgo,153,5.3,1206.0,14470.0,1,5,3,Recuperar: visita del supervisor y oferta de reactivación,154
+C0166,Tienda de barrio,Norte,R06,En riesgo,14,3.1,1196.0,14350.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,155
+C0248,Tienda de barrio,Oeste,R17,En riesgo,13,3.0,1166.0,13990.0,2,3,3,Recuperar: visita del supervisor y oferta de reactivación,156
+C1666,Tienda de barrio,Este,R15,En riesgo,12,3.4,1124.0,13486.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,157
+C1043,Tienda de barrio,Centro,R21,En riesgo,48,3.3,1091.0,13089.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,158
+C0847,Tienda de barrio,Oeste,R20,En riesgo,14,4.0,1056.0,12669.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,159
+C0192,Tienda de barrio,Oeste,R19,En riesgo,26,4.3,1051.0,12609.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,160
+C0881,Tienda de barrio,Centro,R21,En riesgo,22,3.2,1031.0,12368.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,161
+C1313,Kiosco,Norte,R04,En riesgo,21,2.7,1019.0,12222.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,162
+C1407,Tienda de barrio,Sur,R09,En riesgo,14,3.7,1011.0,12128.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,163
+C0171,Tienda de barrio,Centro,R24,En riesgo,34,2.8,1001.0,12008.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,164
+C1065,Kiosco,Oeste,R18,En riesgo,26,4.8,977.0,11726.0,2,5,2,Recuperar: visita del supervisor y oferta de reactivación,165
+C1317,Kiosco,Sur,R10,En riesgo,76,3.3,972.0,11664.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,166
+C0758,Restaurante o pensión,Oeste,R20,En riesgo,16,2.9,956.0,11468.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,167
+C1128,Tienda de barrio,Norte,R02,En riesgo,98,3.7,951.0,11408.0,1,4,2,Recuperar: visita del supervisor y oferta de reactivación,168
+C0227,Tienda de barrio,Norte,R02,En riesgo,18,2.8,936.0,11228.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,169
+C0597,Kiosco,Norte,R02,En riesgo,55,3.3,931.0,11168.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,170
+C1414,Tienda de barrio,Este,R15,En riesgo,27,3.3,911.0,10927.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,171
+C0083,Tienda de barrio,Oeste,R17,En riesgo,14,4.8,906.0,10867.0,2,5,2,Recuperar: visita del supervisor y oferta de reactivación,172
+C0138,Tienda de barrio,Norte,R01,En riesgo,39,3.3,906.0,10867.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,173
+C0720,Tienda de barrio,Centro,R22,En riesgo,27,2.7,906.0,10867.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,174
+C0436,Tienda de barrio,Este,R13,En riesgo,26,3.3,896.0,10747.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,175
+C0340,Restaurante o pensión,Centro,R22,En riesgo,23,2.7,886.0,10627.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,176
+C1079,Tienda de barrio,Norte,R03,En riesgo,18,4.8,846.0,10147.0,2,5,2,Recuperar: visita del supervisor y oferta de reactivación,177
+C0172,Tienda de barrio,Sur,R08,En riesgo,13,2.9,821.0,9847.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,178
+C0283,Tienda de barrio,Centro,R24,En riesgo,16,3.7,801.0,9607.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,179
+C0599,Tienda de barrio,Norte,R04,En riesgo,34,2.9,791.0,9486.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,180
+C0812,Tienda de barrio,Oeste,R17,En riesgo,15,2.8,791.0,9486.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,181
+C1170,Tienda de barrio,Sur,R11,En riesgo,39,3.0,776.0,9306.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,182
+C0743,Tienda de barrio,Norte,R05,En riesgo,21,3.0,771.0,9246.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,183
+C0241,Tienda de barrio,Oeste,R20,En riesgo,25,2.8,730.0,8766.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,184
+C1091,Tienda de barrio,Este,R13,En riesgo,18,4.0,725.0,8706.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,185
+C1179,Tienda de barrio,Sur,R09,En riesgo,14,3.3,710.0,8526.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,186
+C0175,Restaurante o pensión,Sur,R07,En riesgo,131,2.9,700.0,8406.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,187
+C0563,Tienda de barrio,Norte,R01,En riesgo,34,4.8,695.0,8346.0,2,5,2,Recuperar: visita del supervisor y oferta de reactivación,188
+C0706,Tienda de barrio,Este,R12,En riesgo,14,2.8,695.0,8346.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,189
+C1448,Tienda de barrio,Centro,R24,En riesgo,74,2.6,695.0,8346.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,190
+C0665,Kiosco,Norte,R02,En riesgo,18,3.9,667.0,8003.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,191
+C1501,Tienda de barrio,Este,R13,En riesgo,13,3.7,662.0,7950.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,192
+C0524,Kiosco,Centro,R24,En riesgo,55,2.8,646.0,7755.0,1,3,2,Recuperar: visita del supervisor y oferta de reactivación,193
+C0242,Tienda de barrio,Norte,R03,En riesgo,13,3.1,640.0,7685.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,194
+C1152,Kiosco,Norte,R02,En riesgo,20,2.8,610.0,7321.0,2,3,2,Recuperar: visita del supervisor y oferta de reactivación,195
+C1264,Kiosco,Centro,R23,En riesgo,16,3.3,553.0,6639.0,2,4,2,Recuperar: visita del supervisor y oferta de reactivación,196
+C0926,Tienda de barrio,Este,R15,En riesgo,13,2.8,510.0,6124.0,2,3,1,Recuperar: visita del supervisor y oferta de reactivación,197
+C1149,Kiosco,Sur,R07,En riesgo,95,2.8,450.0,5398.0,1,3,1,Recuperar: visita del supervisor y oferta de reactivación,198
+C1575,Kiosco,Norte,R01,En riesgo,25,4.4,439.0,5266.0,2,4,1,Recuperar: visita del supervisor y oferta de reactivación,199
+C1506,Kiosco,Sur,R08,En riesgo,14,2.6,357.0,4282.0,2,3,1,Recuperar: visita del supervisor y oferta de reactivación,200
+C0240,Kiosco,Sur,R09,En riesgo,15,2.8,279.0,3350.0,2,3,1,Recuperar: visita del supervisor y oferta de reactivación,201
+C1001,Kiosco,Oeste,R19,En riesgo,25,2.7,233.0,2792.0,2,3,1,Recuperar: visita del supervisor y oferta de reactivación,202
+C0684,Mayorista,Sur,R08,Dormidos,273,1.3,9696.0,116352.0,1,1,5,Recuperar barato: llamada o mensaje,1
+C1322,Mayorista,Sur,R07,Dormidos,20,1.8,9219.0,110628.0,2,1,5,Recuperar barato: llamada o mensaje,2
+C1541,Restaurante o pensión,Norte,R01,Dormidos,23,2.6,7521.0,90253.0,2,2,5,Recuperar barato: llamada o mensaje,3
+C1362,Mayorista,Centro,R23,Dormidos,205,1.3,7424.0,89085.0,1,1,5,Recuperar barato: llamada o mensaje,4
+C0941,Minimercado,Norte,R02,Dormidos,22,2.6,6179.0,74151.0,2,2,5,Recuperar barato: llamada o mensaje,5
+C1307,Minimercado,Sur,R11,Dormidos,20,2.2,6136.0,73637.0,2,2,5,Recuperar barato: llamada o mensaje,6
+C1286,Minimercado,Sur,R11,Dormidos,19,2.5,5366.0,64397.0,2,2,5,Recuperar barato: llamada o mensaje,7
+C1042,Minimercado,Norte,R02,Dormidos,29,2.0,5210.0,62515.0,2,2,5,Recuperar barato: llamada o mensaje,8
+C0121,Minimercado,Sur,R07,Dormidos,138,1.9,5000.0,60005.0,1,2,5,Recuperar barato: llamada o mensaje,9
+C0863,Mayorista,Este,R15,Dormidos,244,1.3,4952.0,59425.0,1,1,5,Recuperar barato: llamada o mensaje,10
+C0153,Minimercado,Este,R13,Dormidos,193,2.4,4801.0,57609.0,1,2,5,Recuperar barato: llamada o mensaje,11
+C1494,Minimercado,Centro,R24,Dormidos,14,2.4,4725.0,56701.0,2,2,5,Recuperar barato: llamada o mensaje,12
+C0502,Minimercado,Oeste,R20,Dormidos,170,1.9,4554.0,54643.0,1,2,5,Recuperar barato: llamada o mensaje,13
+C1397,Minimercado,Norte,R05,Dormidos,68,2.2,4397.0,52761.0,1,2,5,Recuperar barato: llamada o mensaje,14
+C0634,Minimercado,Este,R15,Dormidos,18,2.2,4349.0,52191.0,2,2,5,Recuperar barato: llamada o mensaje,15
+C0783,Minimercado,Norte,R04,Dormidos,128,2.6,4302.0,51620.0,1,2,5,Recuperar barato: llamada o mensaje,16
+C1604,Minimercado,Sur,R07,Dormidos,26,2.4,4260.0,51122.0,2,2,5,Recuperar barato: llamada o mensaje,17
+C1498,Minimercado,Sur,R11,Dormidos,13,2.4,4200.0,50401.0,2,2,5,Recuperar barato: llamada o mensaje,18
+C0398,Restaurante o pensión,Centro,R23,Dormidos,65,2.1,4013.0,48153.0,1,2,4,Recuperar barato: llamada o mensaje,19
+C0482,Restaurante o pensión,Este,R13,Dormidos,223,1.7,3763.0,45151.0,1,1,4,Recuperar barato: llamada o mensaje,20
+C1420,Minimercado,Este,R15,Dormidos,13,2.5,3636.0,43635.0,2,2,4,Recuperar barato: llamada o mensaje,21
+C1123,Restaurante o pensión,Oeste,R19,Dormidos,30,1.8,3497.0,41969.0,2,2,4,Recuperar barato: llamada o mensaje,22
+C0487,Restaurante o pensión,Oeste,R20,Dormidos,35,2.3,3387.0,40648.0,2,2,4,Recuperar barato: llamada o mensaje,23
+C0440,Minimercado,Centro,R21,Dormidos,19,1.9,3294.0,39528.0,2,2,4,Recuperar barato: llamada o mensaje,24
+C1513,Minimercado,Sur,R11,Dormidos,111,2.5,3264.0,39170.0,1,2,4,Recuperar barato: llamada o mensaje,25
+C1082,Tienda de barrio,Centro,R24,Dormidos,19,2.3,3237.0,38847.0,2,2,4,Recuperar barato: llamada o mensaje,26
+C1107,Restaurante o pensión,Sur,R07,Dormidos,54,2.3,3217.0,38606.0,1,2,4,Recuperar barato: llamada o mensaje,27
+C0935,Restaurante o pensión,Este,R16,Dormidos,22,2.2,3207.0,38486.0,2,2,4,Recuperar barato: llamada o mensaje,28
+C0258,Tienda de barrio,Sur,R11,Dormidos,165,2.6,3027.0,36325.0,1,2,4,Recuperar barato: llamada o mensaje,29
+C1297,Restaurante o pensión,Este,R16,Dormidos,54,1.6,2992.0,35905.0,1,1,4,Recuperar barato: llamada o mensaje,30
+C0638,Minimercado,Oeste,R20,Dormidos,127,1.8,2952.0,35421.0,1,2,4,Recuperar barato: llamada o mensaje,31
+C0131,Tienda de barrio,Centro,R23,Dormidos,15,2.3,2942.0,35304.0,2,2,4,Recuperar barato: llamada o mensaje,32
+C0927,Mayorista,Centro,R21,Dormidos,344,0.5,2853.0,34239.0,1,1,4,Recuperar barato: llamada o mensaje,33
+C1613,Minimercado,Norte,R04,Dormidos,34,2.3,2833.0,33991.0,2,2,4,Recuperar barato: llamada o mensaje,34
+C0664,Minimercado,Este,R15,Dormidos,124,2.1,2633.0,31600.0,1,2,4,Recuperar barato: llamada o mensaje,35
+C0990,Minimercado,Centro,R22,Dormidos,141,1.5,2543.0,30516.0,1,1,4,Recuperar barato: llamada o mensaje,36
+C0813,Restaurante o pensión,Centro,R23,Dormidos,109,2.0,2452.0,29420.0,1,2,4,Recuperar barato: llamada o mensaje,37
+C0862,Minimercado,Centro,R22,Dormidos,26,1.9,2424.0,29090.0,2,2,4,Recuperar barato: llamada o mensaje,38
+C0500,Restaurante o pensión,Centro,R21,Dormidos,23,2.5,2302.0,27619.0,2,2,4,Recuperar barato: llamada o mensaje,39
+C0818,Restaurante o pensión,Este,R14,Dormidos,79,1.8,2292.0,27499.0,1,1,4,Recuperar barato: llamada o mensaje,40
+C1306,Minimercado,Oeste,R18,Dormidos,33,1.9,2286.0,27436.0,2,2,4,Recuperar barato: llamada o mensaje,41
+C0748,Minimercado,Centro,R23,Dormidos,40,2.6,2253.0,27037.0,1,2,4,Recuperar barato: llamada o mensaje,42
+C1016,Restaurante o pensión,Norte,R02,Dormidos,49,2.3,2081.0,24977.0,1,2,4,Recuperar barato: llamada o mensaje,43
+C1503,Tienda de barrio,Oeste,R17,Dormidos,18,2.1,2065.0,24779.0,2,2,4,Recuperar barato: llamada o mensaje,44
+C0520,Restaurante o pensión,Sur,R10,Dormidos,76,1.8,2036.0,24437.0,1,1,4,Recuperar barato: llamada o mensaje,45
+C0361,Minimercado,Sur,R11,Dormidos,21,1.5,2006.0,24070.0,2,1,4,Recuperar barato: llamada o mensaje,46
+C0694,Restaurante o pensión,Norte,R04,Dormidos,14,1.8,1956.0,23476.0,2,2,3,Recuperar barato: llamada o mensaje,47
+C1565,Restaurante o pensión,Norte,R05,Dormidos,39,2.3,1927.0,23124.0,1,2,3,Recuperar barato: llamada o mensaje,48
+C0916,Restaurante o pensión,Este,R12,Dormidos,14,2.0,1926.0,23116.0,2,2,3,Recuperar barato: llamada o mensaje,49
+C1376,Restaurante o pensión,Norte,R06,Dormidos,190,2.0,1916.0,22996.0,1,2,3,Recuperar barato: llamada o mensaje,50
+C1089,Restaurante o pensión,Norte,R03,Dormidos,65,1.8,1901.0,22816.0,1,1,3,Recuperar barato: llamada o mensaje,51
+C0284,Tienda de barrio,Centro,R23,Dormidos,21,2.3,1851.0,22215.0,2,2,3,Recuperar barato: llamada o mensaje,52
+C0499,Tienda de barrio,Sur,R08,Dormidos,30,2.1,1851.0,22215.0,2,2,3,Recuperar barato: llamada o mensaje,53
+C0332,Tienda de barrio,Oeste,R19,Dormidos,21,2.3,1841.0,22095.0,2,2,3,Recuperar barato: llamada o mensaje,54
+C0635,Tienda de barrio,Centro,R21,Dormidos,102,2.2,1801.0,21615.0,1,2,3,Recuperar barato: llamada o mensaje,55
+C1324,Tienda de barrio,Sur,R11,Dormidos,81,2.1,1801.0,21615.0,1,2,3,Recuperar barato: llamada o mensaje,56
+C1296,Tienda de barrio,Este,R14,Dormidos,194,1.8,1751.0,21014.0,1,1,3,Recuperar barato: llamada o mensaje,57
+C0770,Minimercado,Oeste,R20,Dormidos,281,1.2,1744.0,20933.0,1,1,3,Recuperar barato: llamada o mensaje,58
+C0394,Restaurante o pensión,Oeste,R19,Dormidos,13,1.8,1741.0,20894.0,2,1,3,Recuperar barato: llamada o mensaje,59
+C1466,Kiosco,Norte,R01,Dormidos,71,2.4,1741.0,20893.0,1,2,3,Recuperar barato: llamada o mensaje,60
+C0214,Restaurante o pensión,Norte,R02,Dormidos,41,2.5,1716.0,20594.0,1,2,3,Recuperar barato: llamada o mensaje,61
+C1428,Tienda de barrio,Este,R12,Dormidos,26,2.1,1711.0,20534.0,2,2,3,Recuperar barato: llamada o mensaje,62
+C1537,Tienda de barrio,Sur,R11,Dormidos,15,2.2,1695.0,20338.0,2,2,3,Recuperar barato: llamada o mensaje,63
+C0556,Tienda de barrio,Oeste,R18,Dormidos,93,1.5,1661.0,19934.0,1,1,3,Recuperar barato: llamada o mensaje,64
+C0921,Tienda de barrio,Norte,R01,Dormidos,48,2.6,1646.0,19754.0,1,2,3,Recuperar barato: llamada o mensaje,65
+C1155,Restaurante o pensión,Oeste,R17,Dormidos,155,1.4,1636.0,19633.0,1,1,3,Recuperar barato: llamada o mensaje,66
+C1574,Tienda de barrio,Norte,R02,Dormidos,56,2.1,1623.0,19480.0,1,2,3,Recuperar barato: llamada o mensaje,67
+C0216,Tienda de barrio,Este,R13,Dormidos,56,1.5,1611.0,19333.0,1,1,3,Recuperar barato: llamada o mensaje,68
+C1629,Restaurante o pensión,Norte,R03,Dormidos,23,2.0,1581.0,18975.0,2,2,3,Recuperar barato: llamada o mensaje,69
+C1618,Restaurante o pensión,Sur,R08,Dormidos,65,1.6,1575.0,18900.0,1,1,3,Recuperar barato: llamada o mensaje,70
+C0396,Restaurante o pensión,Sur,R08,Dormidos,196,1.5,1571.0,18853.0,1,1,3,Recuperar barato: llamada o mensaje,71
+C0949,Minimercado,Este,R14,Dormidos,222,1.3,1535.0,18424.0,1,1,3,Recuperar barato: llamada o mensaje,72
+C0206,Restaurante o pensión,Centro,R23,Dormidos,34,1.6,1511.0,18132.0,2,1,3,Recuperar barato: llamada o mensaje,73
+C0628,Tienda de barrio,Norte,R01,Dormidos,19,2.3,1466.0,17592.0,2,2,3,Recuperar barato: llamada o mensaje,74
+C0976,Minimercado,Norte,R02,Dormidos,74,2.1,1464.0,17568.0,1,2,3,Recuperar barato: llamada o mensaje,75
+C1293,Restaurante o pensión,Norte,R06,Dormidos,28,2.0,1416.0,16992.0,2,2,3,Recuperar barato: llamada o mensaje,76
+C0356,Restaurante o pensión,Centro,R23,Dormidos,30,2.3,1341.0,16091.0,2,2,3,Recuperar barato: llamada o mensaje,77
+C0853,Tienda de barrio,Sur,R11,Dormidos,83,2.1,1321.0,15851.0,1,2,3,Recuperar barato: llamada o mensaje,78
+C0991,Restaurante o pensión,Centro,R23,Dormidos,76,2.0,1246.0,14950.0,1,2,3,Recuperar barato: llamada o mensaje,79
+C1477,Tienda de barrio,Este,R15,Dormidos,21,1.9,1234.0,14811.0,2,2,3,Recuperar barato: llamada o mensaje,80
+C1326,Tienda de barrio,Este,R13,Dormidos,18,2.3,1226.0,14710.0,2,2,3,Recuperar barato: llamada o mensaje,81
+C0317,Tienda de barrio,Este,R13,Dormidos,47,1.8,1216.0,14590.0,1,2,3,Recuperar barato: llamada o mensaje,82
+C1375,Restaurante o pensión,Norte,R03,Dormidos,118,0.9,1206.0,14470.0,1,1,3,Recuperar barato: llamada o mensaje,83
+C0917,Mayorista,Centro,R24,Dormidos,344,0.4,1205.0,14466.0,1,1,3,Recuperar barato: llamada o mensaje,84
+C1274,Minimercado,Norte,R05,Dormidos,191,0.8,1198.0,14374.0,1,1,3,Recuperar barato: llamada o mensaje,85
+C1108,Tienda de barrio,Oeste,R20,Dormidos,22,2.3,1181.0,14170.0,2,2,3,Recuperar barato: llamada o mensaje,86
+C1623,Minimercado,Centro,R21,Dormidos,138,1.0,1172.0,14067.0,1,1,3,Recuperar barato: llamada o mensaje,87
+C0642,Restaurante o pensión,Sur,R07,Dormidos,20,2.6,1171.0,14050.0,2,2,3,Recuperar barato: llamada o mensaje,88
+C1204,Minimercado,Sur,R08,Dormidos,233,1.4,1155.0,13860.0,1,1,3,Recuperar barato: llamada o mensaje,89
+C0646,Tienda de barrio,Este,R13,Dormidos,15,2.4,1151.0,13809.0,2,2,3,Recuperar barato: llamada o mensaje,90
+C0115,Restaurante o pensión,Oeste,R17,Dormidos,134,1.5,1141.0,13689.0,1,1,3,Recuperar barato: llamada o mensaje,91
+C1528,Tienda de barrio,Oeste,R17,Dormidos,14,1.5,1137.0,13642.0,2,1,3,Recuperar barato: llamada o mensaje,92
+C0196,Tienda de barrio,Este,R12,Dormidos,212,1.6,1116.0,13389.0,1,1,2,Recuperar barato: llamada o mensaje,93
+C0987,Tienda de barrio,Sur,R10,Dormidos,123,1.9,1091.0,13089.0,1,2,2,Recuperar barato: llamada o mensaje,94
+C1497,Restaurante o pensión,Oeste,R17,Dormidos,50,2.4,1088.0,13054.0,1,2,2,Recuperar barato: llamada o mensaje,95
+C1134,Restaurante o pensión,Oeste,R20,Dormidos,42,2.4,1086.0,13029.0,1,2,2,Recuperar barato: llamada o mensaje,96
+C0445,Tienda de barrio,Norte,R02,Dormidos,215,1.5,1066.0,12789.0,1,1,2,Recuperar barato: llamada o mensaje,97
+C1154,Tienda de barrio,Este,R13,Dormidos,19,2.5,1066.0,12789.0,2,2,2,Recuperar barato: llamada o mensaje,98
+C1410,Restaurante o pensión,Sur,R11,Dormidos,40,1.7,1061.0,12729.0,1,1,2,Recuperar barato: llamada o mensaje,99
+C1361,Minimercado,Sur,R10,Dormidos,338,0.6,1050.0,12606.0,1,1,2,Recuperar barato: llamada o mensaje,100
+C1392,Minimercado,Norte,R03,Dormidos,13,1.8,1046.0,12549.0,2,2,2,Recuperar barato: llamada o mensaje,101
+C1081,Kiosco,Norte,R01,Dormidos,20,1.8,1019.0,12222.0,2,1,2,Recuperar barato: llamada o mensaje,102
+C1459,Tienda de barrio,Norte,R03,Dormidos,179,1.5,1013.0,12154.0,1,1,2,Recuperar barato: llamada o mensaje,103
+C0407,Restaurante o pensión,Norte,R06,Dormidos,60,1.4,1006.0,12068.0,1,1,2,Recuperar barato: llamada o mensaje,104
+C1308,Tienda de barrio,Oeste,R20,Dormidos,50,1.7,986.0,11828.0,1,1,2,Recuperar barato: llamada o mensaje,105
+C0293,Tienda de barrio,Sur,R07,Dormidos,148,2.6,981.0,11768.0,1,2,2,Recuperar barato: llamada o mensaje,106
+C0446,Tienda de barrio,Este,R15,Dormidos,19,2.0,961.0,11528.0,2,2,2,Recuperar barato: llamada o mensaje,107
+C0716,Tienda de barrio,Norte,R02,Dormidos,127,2.3,956.0,11468.0,1,2,2,Recuperar barato: llamada o mensaje,108
+C0817,Tienda de barrio,Norte,R06,Dormidos,23,1.5,956.0,11468.0,2,1,2,Recuperar barato: llamada o mensaje,109
+C1446,Minimercado,Centro,R21,Dormidos,39,1.8,941.0,11294.0,1,2,2,Recuperar barato: llamada o mensaje,110
+C0740,Tienda de barrio,Este,R12,Dormidos,18,1.7,941.0,11288.0,2,1,2,Recuperar barato: llamada o mensaje,111
+C1531,Tienda de barrio,Norte,R06,Dormidos,158,1.6,926.0,11110.0,1,1,2,Recuperar barato: llamada o mensaje,112
+C1269,Restaurante o pensión,Este,R14,Dormidos,27,1.6,911.0,10927.0,2,1,2,Recuperar barato: llamada o mensaje,113
+C0390,Tienda de barrio,Centro,R21,Dormidos,127,2.2,906.0,10867.0,1,2,2,Recuperar barato: llamada o mensaje,114
+C0591,Tienda de barrio,Este,R12,Dormidos,15,1.7,901.0,10807.0,2,1,2,Recuperar barato: llamada o mensaje,115
+C1210,Tienda de barrio,Norte,R06,Dormidos,23,2.0,881.0,10567.0,2,2,2,Recuperar barato: llamada o mensaje,116
+C0535,Tienda de barrio,Este,R13,Dormidos,25,1.6,876.0,10507.0,2,1,2,Recuperar barato: llamada o mensaje,117
+C0327,Minimercado,Este,R16,Dormidos,261,0.6,875.0,10495.0,1,1,2,Recuperar barato: llamada o mensaje,118
+C0983,Minimercado,Este,R14,Dormidos,320,0.5,870.0,10438.0,1,1,2,Recuperar barato: llamada o mensaje,119
+C0345,Tienda de barrio,Sur,R08,Dormidos,76,2.4,861.0,10327.0,1,2,2,Recuperar barato: llamada o mensaje,120
+C0311,Tienda de barrio,Este,R16,Dormidos,142,1.6,846.0,10147.0,1,1,2,Recuperar barato: llamada o mensaje,121
+C1692,Tienda de barrio,Centro,R22,Dormidos,12,1.7,843.0,10115.0,2,1,2,Recuperar barato: llamada o mensaje,122
+C0506,Tienda de barrio,Oeste,R17,Dormidos,35,1.5,831.0,9967.0,2,1,2,Recuperar barato: llamada o mensaje,123
+C0133,Kiosco,Norte,R02,Dormidos,42,2.3,827.0,9927.0,1,2,2,Recuperar barato: llamada o mensaje,124
+C1661,Tienda de barrio,Oeste,R18,Dormidos,21,1.7,823.0,9877.0,2,1,2,Recuperar barato: llamada o mensaje,125
+C0184,Tienda de barrio,Este,R12,Dormidos,14,1.8,821.0,9847.0,2,2,2,Recuperar barato: llamada o mensaje,126
+C1036,Tienda de barrio,Norte,R02,Dormidos,44,2.0,821.0,9847.0,1,2,2,Recuperar barato: llamada o mensaje,127
+C1315,Tienda de barrio,Sur,R08,Dormidos,19,1.7,821.0,9847.0,2,1,2,Recuperar barato: llamada o mensaje,128
+C0387,Tienda de barrio,Centro,R22,Dormidos,15,2.1,811.0,9727.0,2,2,2,Recuperar barato: llamada o mensaje,129
+C0978,Tienda de barrio,Oeste,R20,Dormidos,13,1.8,811.0,9727.0,2,2,2,Recuperar barato: llamada o mensaje,130
+C1559,Tienda de barrio,Este,R15,Dormidos,103,2.4,785.0,9417.0,1,2,2,Recuperar barato: llamada o mensaje,131
+C0827,Tienda de barrio,Centro,R24,Dormidos,96,1.8,781.0,9366.0,1,2,2,Recuperar barato: llamada o mensaje,132
+C0598,Tienda de barrio,Sur,R08,Dormidos,51,1.8,776.0,9306.0,1,1,2,Recuperar barato: llamada o mensaje,133
+C1323,Tienda de barrio,Sur,R08,Dormidos,35,2.0,776.0,9306.0,2,2,2,Recuperar barato: llamada o mensaje,134
+C1616,Kiosco,Sur,R08,Dormidos,56,1.8,770.0,9238.0,1,2,2,Recuperar barato: llamada o mensaje,135
+C0312,Tienda de barrio,Sur,R11,Dormidos,19,2.6,766.0,9186.0,2,2,2,Recuperar barato: llamada o mensaje,136
+C1643,Restaurante o pensión,Centro,R24,Dormidos,44,1.7,765.0,9182.0,1,1,2,Recuperar barato: llamada o mensaje,137
+C1183,Tienda de barrio,Sur,R09,Dormidos,215,1.8,751.0,9006.0,1,1,2,Recuperar barato: llamada o mensaje,138
+C0831,Tienda de barrio,Este,R14,Dormidos,146,2.4,746.0,8946.0,1,2,2,Recuperar barato: llamada o mensaje,139
+C0411,Tienda de barrio,Este,R12,Dormidos,14,2.5,741.0,8886.0,2,2,2,Recuperar barato: llamada o mensaje,140
+C0934,Restaurante o pensión,Oeste,R20,Dormidos,26,1.5,741.0,8886.0,2,1,2,Recuperar barato: llamada o mensaje,141
+C1106,Restaurante o pensión,Norte,R03,Dormidos,23,2.2,741.0,8886.0,2,2,2,Recuperar barato: llamada o mensaje,142
+C1464,Restaurante o pensión,Centro,R21,Dormidos,334,0.6,739.0,8870.0,1,1,2,Recuperar barato: llamada o mensaje,143
+C1144,Tienda de barrio,Este,R15,Dormidos,42,2.5,730.0,8766.0,1,2,2,Recuperar barato: llamada o mensaje,144
+C1208,Tienda de barrio,Este,R13,Dormidos,127,1.8,730.0,8766.0,1,1,2,Recuperar barato: llamada o mensaje,145
+C1532,Tienda de barrio,Sur,R07,Dormidos,13,2.4,730.0,8766.0,2,2,2,Recuperar barato: llamada o mensaje,146
+C1280,Tienda de barrio,Este,R15,Dormidos,154,2.1,710.0,8526.0,1,2,2,Recuperar barato: llamada o mensaje,147
+C1408,Kiosco,Este,R13,Dormidos,23,2.5,708.0,8500.0,2,2,2,Recuperar barato: llamada o mensaje,148
+C1330,Tienda de barrio,Centro,R23,Dormidos,14,1.8,705.0,8466.0,2,2,2,Recuperar barato: llamada o mensaje,149
+C1580,Restaurante o pensión,Sur,R07,Dormidos,33,1.3,697.0,8362.0,2,1,2,Recuperar barato: llamada o mensaje,150
+C1455,Restaurante o pensión,Norte,R03,Dormidos,20,2.5,695.0,8346.0,2,2,2,Recuperar barato: llamada o mensaje,151
+C0221,Kiosco,Este,R16,Dormidos,14,2.5,693.0,8314.0,2,2,2,Recuperar barato: llamada o mensaje,152
+C1312,Tienda de barrio,Este,R14,Dormidos,224,1.1,685.0,8226.0,1,1,2,Recuperar barato: llamada o mensaje,153
+C1096,Tienda de barrio,Centro,R21,Dormidos,75,2.3,680.0,8166.0,1,2,2,Recuperar barato: llamada o mensaje,154
+C1583,Tienda de barrio,Este,R12,Dormidos,43,1.3,667.0,8004.0,1,1,2,Recuperar barato: llamada o mensaje,155
+C1163,Tienda de barrio,Este,R13,Dormidos,14,2.4,665.0,7985.0,2,2,2,Recuperar barato: llamada o mensaje,156
+C0637,Kiosco,Norte,R02,Dormidos,13,2.2,662.0,7941.0,2,2,2,Recuperar barato: llamada o mensaje,157
+C0789,Kiosco,Norte,R02,Dormidos,125,2.2,662.0,7941.0,1,2,2,Recuperar barato: llamada o mensaje,158
+C1266,Tienda de barrio,Norte,R01,Dormidos,47,2.3,660.0,7925.0,1,2,2,Recuperar barato: llamada o mensaje,159
+C0530,Tienda de barrio,Este,R12,Dormidos,18,1.7,655.0,7865.0,2,1,2,Recuperar barato: llamada o mensaje,160
+C0659,Kiosco,Norte,R06,Dormidos,37,1.8,651.0,7817.0,2,1,2,Recuperar barato: llamada o mensaje,161
+C0868,Restaurante o pensión,Sur,R11,Dormidos,37,0.9,650.0,7805.0,1,1,2,Recuperar barato: llamada o mensaje,162
+C0165,Tienda de barrio,Norte,R01,Dormidos,29,1.8,645.0,7745.0,2,2,2,Recuperar barato: llamada o mensaje,163
+C0256,Tienda de barrio,Este,R14,Dormidos,167,1.2,640.0,7685.0,1,1,2,Recuperar barato: llamada o mensaje,164
+C1284,Tienda de barrio,Centro,R24,Dormidos,68,1.6,640.0,7685.0,1,1,2,Recuperar barato: llamada o mensaje,165
+C0689,Kiosco,Norte,R02,Dormidos,41,1.8,636.0,7631.0,1,1,2,Recuperar barato: llamada o mensaje,166
+C0106,Restaurante o pensión,Oeste,R19,Dormidos,131,1.2,615.0,7385.0,1,1,2,Recuperar barato: llamada o mensaje,167
+C1438,Tienda de barrio,Sur,R09,Dormidos,256,0.8,615.0,7385.0,1,1,2,Recuperar barato: llamada o mensaje,168
+C0486,Tienda de barrio,Norte,R04,Dormidos,202,0.9,610.0,7325.0,1,1,2,Recuperar barato: llamada o mensaje,169
+C0852,Tienda de barrio,Norte,R05,Dormidos,123,1.3,610.0,7325.0,1,1,2,Recuperar barato: llamada o mensaje,170
+C1298,Tienda de barrio,Este,R16,Dormidos,75,1.3,610.0,7325.0,1,1,2,Recuperar barato: llamada o mensaje,171
+C1509,Tienda de barrio,Este,R12,Dormidos,16,2.0,607.0,7281.0,2,2,2,Recuperar barato: llamada o mensaje,172
+C0376,Restaurante o pensión,Sur,R08,Dormidos,21,1.7,595.0,7145.0,2,1,2,Recuperar barato: llamada o mensaje,173
+C1135,Kiosco,Centro,R23,Dormidos,42,1.7,589.0,7073.0,1,1,2,Recuperar barato: llamada o mensaje,174
+C0434,Tienda de barrio,Norte,R05,Dormidos,224,1.7,580.0,6965.0,1,1,2,Recuperar barato: llamada o mensaje,175
+C0905,Kiosco,Norte,R05,Dormidos,125,2.2,579.0,6949.0,1,2,2,Recuperar barato: llamada o mensaje,176
+C0538,Tienda de barrio,Centro,R23,Dormidos,246,0.8,575.0,6905.0,1,1,2,Recuperar barato: llamada o mensaje,177
+C0280,Kiosco,Sur,R08,Dormidos,30,1.6,574.0,6887.0,2,1,2,Recuperar barato: llamada o mensaje,178
+C1521,Restaurante o pensión,Sur,R09,Dormidos,105,0.7,571.0,6858.0,1,1,2,Recuperar barato: llamada o mensaje,179
+C0995,Tienda de barrio,Este,R16,Dormidos,23,1.9,570.0,6845.0,2,2,2,Recuperar barato: llamada o mensaje,180
+C1207,Tienda de barrio,Norte,R04,Dormidos,39,2.2,565.0,6785.0,1,2,2,Recuperar barato: llamada o mensaje,181
+C1304,Kiosco,Sur,R07,Dormidos,114,1.6,564.0,6763.0,1,1,2,Recuperar barato: llamada o mensaje,182
+C1072,Kiosco,Oeste,R19,Dormidos,32,1.4,558.0,6701.0,2,1,2,Recuperar barato: llamada o mensaje,183
+C1345,Tienda de barrio,Norte,R06,Dormidos,256,0.8,550.0,6605.0,1,1,2,Recuperar barato: llamada o mensaje,184
+C0848,Tienda de barrio,Sur,R10,Dormidos,158,0.9,540.0,6484.0,1,1,2,Recuperar barato: llamada o mensaje,185
+C1254,Kiosco,Este,R12,Dormidos,30,1.9,533.0,6390.0,2,2,1,Recuperar barato: llamada o mensaje,186
+C0549,Tienda de barrio,Este,R12,Dormidos,25,2.1,530.0,6364.0,2,2,1,Recuperar barato: llamada o mensaje,187
+C1467,Tienda de barrio,Centro,R24,Dormidos,231,0.8,530.0,6358.0,1,1,1,Recuperar barato: llamada o mensaje,188
+C0306,Tienda de barrio,Este,R13,Dormidos,219,0.7,525.0,6304.0,1,1,1,Recuperar barato: llamada o mensaje,189
+C0417,Tienda de barrio,Este,R12,Dormidos,37,2.3,525.0,6304.0,2,2,1,Recuperar barato: llamada o mensaje,190
+C1090,Restaurante o pensión,Oeste,R20,Dormidos,20,1.3,525.0,6304.0,2,1,1,Recuperar barato: llamada o mensaje,191
+C0713,Minimercado,Sur,R10,Dormidos,263,0.5,518.0,6217.0,1,1,1,Recuperar barato: llamada o mensaje,192
+C1530,Tienda de barrio,Centro,R23,Dormidos,121,1.2,518.0,6216.0,1,1,1,Recuperar barato: llamada o mensaje,193
+C0639,Tienda de barrio,Oeste,R18,Dormidos,169,1.0,515.0,6184.0,1,1,1,Recuperar barato: llamada o mensaje,194
+C1399,Restaurante o pensión,Este,R15,Dormidos,98,0.7,515.0,6184.0,1,1,1,Recuperar barato: llamada o mensaje,195
+C1024,Restaurante o pensión,Oeste,R17,Dormidos,156,1.7,510.0,6124.0,1,1,1,Recuperar barato: llamada o mensaje,196
+C0055,Tienda de barrio,Norte,R02,Dormidos,47,2.0,505.0,6064.0,1,2,1,Recuperar barato: llamada o mensaje,197
+C1070,Kiosco,Oeste,R20,Dormidos,37,2.0,502.0,6018.0,1,2,1,Recuperar barato: llamada o mensaje,198
+C0433,Tienda de barrio,Sur,R07,Dormidos,39,1.2,500.0,6004.0,1,1,1,Recuperar barato: llamada o mensaje,199
+C0842,Tienda de barrio,Oeste,R17,Dormidos,202,1.5,500.0,6004.0,1,1,1,Recuperar barato: llamada o mensaje,200
+C1418,Tienda de barrio,Centro,R22,Dormidos,88,1.7,485.0,5824.0,1,1,1,Recuperar barato: llamada o mensaje,201
+C0397,Tienda de barrio,Este,R15,Dormidos,14,1.9,480.0,5764.0,2,2,1,Recuperar barato: llamada o mensaje,202
+C0869,Tienda de barrio,Este,R12,Dormidos,92,1.8,470.0,5644.0,1,2,1,Recuperar barato: llamada o mensaje,203
+C1358,Kiosco,Este,R14,Dormidos,26,1.1,465.0,5584.0,2,1,1,Recuperar barato: llamada o mensaje,204
+C1520,Tienda de barrio,Centro,R21,Dormidos,201,1.2,463.0,5551.0,1,1,1,Recuperar barato: llamada o mensaje,205
+C1368,Kiosco,Oeste,R19,Dormidos,16,2.3,455.0,5460.0,2,2,1,Recuperar barato: llamada o mensaje,206
+C1031,Minimercado,Sur,R11,Dormidos,303,0.4,447.0,5362.0,1,1,1,Recuperar barato: llamada o mensaje,207
+C0073,Tienda de barrio,Centro,R22,Dormidos,19,2.3,445.0,5344.0,2,2,1,Recuperar barato: llamada o mensaje,208
+C0437,Tienda de barrio,Norte,R03,Dormidos,28,1.2,445.0,5344.0,2,1,1,Recuperar barato: llamada o mensaje,209
+C0149,Kiosco,Oeste,R19,Dormidos,25,1.2,439.0,5274.0,2,1,1,Recuperar barato: llamada o mensaje,210
+C0243,Minimercado,Oeste,R18,Dormidos,312,0.3,437.0,5248.0,1,1,1,Recuperar barato: llamada o mensaje,211
+C0143,Tienda de barrio,Este,R15,Dormidos,216,0.6,435.0,5224.0,1,1,1,Recuperar barato: llamada o mensaje,212
+C1236,Tienda de barrio,Norte,R03,Dormidos,23,2.4,435.0,5224.0,2,2,1,Recuperar barato: llamada o mensaje,213
+C0823,Kiosco,Este,R15,Dormidos,40,2.1,434.0,5212.0,1,2,1,Recuperar barato: llamada o mensaje,214
+C1196,Kiosco,Oeste,R20,Dormidos,46,1.8,434.0,5212.0,1,1,1,Recuperar barato: llamada o mensaje,215
+C0386,Tienda de barrio,Oeste,R18,Dormidos,23,1.4,430.0,5164.0,2,1,1,Recuperar barato: llamada o mensaje,216
+C0400,Tienda de barrio,Este,R15,Dormidos,184,1.1,430.0,5164.0,1,1,1,Recuperar barato: llamada o mensaje,217
+C0090,Kiosco,Sur,R10,Dormidos,19,1.3,424.0,5087.0,2,1,1,Recuperar barato: llamada o mensaje,218
+C1669,Restaurante o pensión,Centro,R21,Dormidos,35,1.6,414.0,4970.0,2,1,1,Recuperar barato: llamada o mensaje,219
+C0578,Kiosco,Sur,R09,Dormidos,82,1.2,414.0,4963.0,1,1,1,Recuperar barato: llamada o mensaje,220
+C0442,Tienda de barrio,Norte,R03,Dormidos,306,0.4,410.0,4923.0,1,1,1,Recuperar barato: llamada o mensaje,221
+C0455,Tienda de barrio,Oeste,R18,Dormidos,13,2.5,410.0,4923.0,2,2,1,Recuperar barato: llamada o mensaje,222
+C0888,Tienda de barrio,Este,R14,Dormidos,189,1.2,410.0,4923.0,1,1,1,Recuperar barato: llamada o mensaje,223
+C0900,Tienda de barrio,Este,R14,Dormidos,34,2.1,410.0,4923.0,2,2,1,Recuperar barato: llamada o mensaje,224
+C1630,Kiosco,Norte,R06,Dormidos,114,0.9,408.0,4893.0,1,1,1,Recuperar barato: llamada o mensaje,225
+C1596,Tienda de barrio,Centro,R22,Dormidos,144,0.8,406.0,4870.0,1,1,1,Recuperar barato: llamada o mensaje,226
+C0449,Tienda de barrio,Oeste,R18,Dormidos,16,2.6,405.0,4863.0,2,2,1,Recuperar barato: llamada o mensaje,227
+C0940,Tienda de barrio,Norte,R04,Dormidos,32,0.8,390.0,4683.0,2,1,1,Recuperar barato: llamada o mensaje,228
+C1374,Restaurante o pensión,Este,R13,Dormidos,36,1.6,385.0,4623.0,2,1,1,Recuperar barato: llamada o mensaje,229
+C0565,Minimercado,Este,R14,Dormidos,309,0.6,380.0,4563.0,1,1,1,Recuperar barato: llamada o mensaje,230
+C0420,Kiosco,Centro,R23,Dormidos,35,1.7,377.0,4529.0,2,1,1,Recuperar barato: llamada o mensaje,231
+C1673,Restaurante o pensión,Este,R12,Dormidos,42,1.2,376.0,4512.0,1,1,1,Recuperar barato: llamada o mensaje,232
+C1516,Kiosco,Sur,R09,Dormidos,32,1.9,373.0,4481.0,2,2,1,Recuperar barato: llamada o mensaje,233
+C0584,Kiosco,Este,R15,Dormidos,28,2.0,372.0,4467.0,2,2,1,Recuperar barato: llamada o mensaje,234
+C0497,Restaurante o pensión,Sur,R09,Dormidos,265,0.8,370.0,4443.0,1,1,1,Recuperar barato: llamada o mensaje,235
+C1608,Kiosco,Norte,R05,Dormidos,18,2.3,369.0,4433.0,2,2,1,Recuperar barato: llamada o mensaje,236
+C1288,Kiosco,Centro,R24,Dormidos,14,2.2,367.0,4405.0,2,2,1,Recuperar barato: llamada o mensaje,237
+C1670,Kiosco,Centro,R24,Dormidos,16,2.5,367.0,4403.0,2,2,1,Recuperar barato: llamada o mensaje,238
+C1068,Tienda de barrio,Oeste,R20,Dormidos,42,1.6,365.0,4383.0,1,1,1,Recuperar barato: llamada o mensaje,239
+C0517,Tienda de barrio,Centro,R21,Dormidos,189,0.4,360.0,4323.0,1,1,1,Recuperar barato: llamada o mensaje,240
+C0808,Restaurante o pensión,Sur,R07,Dormidos,244,0.4,360.0,4323.0,1,1,1,Recuperar barato: llamada o mensaje,241
+C1519,Restaurante o pensión,Centro,R23,Dormidos,273,0.3,360.0,4321.0,1,1,1,Recuperar barato: llamada o mensaje,242
+C1523,Tienda de barrio,Sur,R11,Dormidos,186,0.9,358.0,4291.0,1,1,1,Recuperar barato: llamada o mensaje,243
+C0525,Tienda de barrio,Sur,R08,Dormidos,18,2.0,345.0,4143.0,2,2,1,Recuperar barato: llamada o mensaje,244
+C1683,Kiosco,Norte,R06,Dormidos,37,1.6,345.0,4140.0,1,1,1,Recuperar barato: llamada o mensaje,245
+C0906,Kiosco,Oeste,R17,Dormidos,23,1.9,336.0,4033.0,2,2,1,Recuperar barato: llamada o mensaje,246
+C1599,Tienda de barrio,Norte,R04,Dormidos,30,1.2,331.0,3967.0,2,1,1,Recuperar barato: llamada o mensaje,247
+C0521,Tienda de barrio,Sur,R10,Dormidos,279,0.4,330.0,3963.0,1,1,1,Recuperar barato: llamada o mensaje,248
+C0127,Kiosco,Oeste,R17,Dormidos,21,1.8,326.0,3909.0,2,2,1,Recuperar barato: llamada o mensaje,249
+C1563,Tienda de barrio,Norte,R01,Dormidos,158,0.8,324.0,3892.0,1,1,1,Recuperar barato: llamada o mensaje,250
+C0232,Restaurante o pensión,Este,R15,Dormidos,270,0.7,320.0,3843.0,1,1,1,Recuperar barato: llamada o mensaje,251
+C1401,Restaurante o pensión,Este,R13,Dormidos,282,0.6,320.0,3843.0,1,1,1,Recuperar barato: llamada o mensaje,252
+C1355,Kiosco,Centro,R23,Dormidos,13,2.4,315.0,3785.0,2,2,1,Recuperar barato: llamada o mensaje,253
+C0660,Kiosco,Centro,R24,Dormidos,28,1.1,305.0,3661.0,2,1,1,Recuperar barato: llamada o mensaje,254
+C0673,Kiosco,Centro,R24,Dormidos,83,1.3,305.0,3661.0,1,1,1,Recuperar barato: llamada o mensaje,255
+C1483,Kiosco,Centro,R24,Dormidos,22,1.9,302.0,3623.0,2,2,1,Recuperar barato: llamada o mensaje,256
+C1416,Kiosco,Este,R14,Dormidos,93,1.5,300.0,3598.0,1,1,1,Recuperar barato: llamada o mensaje,257
+C1400,Kiosco,Este,R15,Dormidos,100,1.7,295.0,3536.0,1,1,1,Recuperar barato: llamada o mensaje,258
+C1557,Kiosco,Norte,R03,Dormidos,209,0.6,292.0,3510.0,1,1,1,Recuperar barato: llamada o mensaje,259
+C0238,Tienda de barrio,Este,R13,Dormidos,242,0.9,290.0,3482.0,1,1,1,Recuperar barato: llamada o mensaje,260
+C1379,Tienda de barrio,Norte,R03,Dormidos,277,0.5,290.0,3482.0,1,1,1,Recuperar barato: llamada o mensaje,261
+C0469,Kiosco,Norte,R05,Dormidos,217,0.7,290.0,3474.0,1,1,1,Recuperar barato: llamada o mensaje,262
+C0826,Tienda de barrio,Norte,R05,Dormidos,216,0.7,280.0,3362.0,1,1,1,Recuperar barato: llamada o mensaje,263
+C0889,Tienda de barrio,Centro,R24,Dormidos,270,0.3,280.0,3362.0,1,1,1,Recuperar barato: llamada o mensaje,264
+C1543,Kiosco,Oeste,R19,Dormidos,147,1.0,266.0,3196.0,1,1,1,Recuperar barato: llamada o mensaje,265
+C0202,Tienda de barrio,Oeste,R17,Dormidos,184,0.9,265.0,3182.0,1,1,1,Recuperar barato: llamada o mensaje,266
+C1402,Minimercado,Este,R15,Dormidos,254,0.3,261.0,3137.0,1,1,1,Recuperar barato: llamada o mensaje,267
+C0189,Tienda de barrio,Oeste,R18,Dormidos,217,0.9,260.0,3122.0,1,1,1,Recuperar barato: llamada o mensaje,268
+C1230,Tienda de barrio,Sur,R07,Dormidos,287,0.7,255.0,3062.0,1,1,1,Recuperar barato: llamada o mensaje,269
+C0790,Kiosco,Norte,R01,Dormidos,214,1.3,253.0,3040.0,1,1,1,Recuperar barato: llamada o mensaje,270
+C0137,Mayorista,Norte,R04,Dormidos,358,0.1,252.0,3018.0,1,1,1,Recuperar barato: llamada o mensaje,271
+C0705,Kiosco,Norte,R01,Dormidos,37,1.4,248.0,2978.0,1,1,1,Recuperar barato: llamada o mensaje,272
+C1299,Kiosco,Centro,R22,Dormidos,140,0.9,248.0,2978.0,1,1,1,Recuperar barato: llamada o mensaje,273
+C1405,Tienda de barrio,Este,R15,Dormidos,140,1.3,245.0,2942.0,1,1,1,Recuperar barato: llamada o mensaje,274
+C1087,Kiosco,Oeste,R19,Dormidos,207,1.1,243.0,2916.0,1,1,1,Recuperar barato: llamada o mensaje,275
+C0324,Kiosco,Sur,R09,Dormidos,39,1.1,238.0,2854.0,1,1,1,Recuperar barato: llamada o mensaje,276
+C0341,Kiosco,Este,R15,Dormidos,170,1.2,238.0,2854.0,1,1,1,Recuperar barato: llamada o mensaje,277
+C1190,Tienda de barrio,Norte,R03,Dormidos,197,0.9,230.0,2762.0,1,1,1,Recuperar barato: llamada o mensaje,278
+C1398,Tienda de barrio,Norte,R05,Dormidos,305,0.5,230.0,2762.0,1,1,1,Recuperar barato: llamada o mensaje,279
+C0564,Kiosco,Sur,R09,Dormidos,39,1.9,222.0,2668.0,1,2,1,Recuperar barato: llamada o mensaje,280
+C1500,Kiosco,Sur,R07,Dormidos,46,2.1,222.0,2664.0,1,2,1,Recuperar barato: llamada o mensaje,281
+C0447,Minimercado,Oeste,R17,Dormidos,293,0.3,219.0,2624.0,1,1,1,Recuperar barato: llamada o mensaje,282
+C0070,Kiosco,Este,R16,Dormidos,44,1.1,217.0,2606.0,1,1,1,Recuperar barato: llamada o mensaje,283
+C1443,Tienda de barrio,Centro,R23,Dormidos,216,0.8,215.0,2582.0,1,1,1,Recuperar barato: llamada o mensaje,284
+C1522,Tienda de barrio,Sur,R08,Dormidos,251,0.4,213.0,2561.0,1,1,1,Recuperar barato: llamada o mensaje,285
+C1409,Kiosco,Sur,R09,Dormidos,237,0.8,212.0,2544.0,1,1,1,Recuperar barato: llamada o mensaje,286
+C0590,Tienda de barrio,Centro,R21,Dormidos,308,0.3,205.0,2462.0,1,1,1,Recuperar barato: llamada o mensaje,287
+C1439,Tienda de barrio,Oeste,R19,Dormidos,196,0.8,205.0,2462.0,1,1,1,Recuperar barato: llamada o mensaje,288
+C0235,Kiosco,Oeste,R18,Dormidos,105,1.0,202.0,2420.0,1,1,1,Recuperar barato: llamada o mensaje,289
+C0772,Kiosco,Norte,R05,Dormidos,247,0.4,196.0,2358.0,1,1,1,Recuperar barato: llamada o mensaje,290
+C1041,Kiosco,Norte,R03,Dormidos,60,2.2,196.0,2358.0,1,2,1,Recuperar barato: llamada o mensaje,291
+C1578,Tienda de barrio,Oeste,R19,Dormidos,130,0.8,194.0,2331.0,1,1,1,Recuperar barato: llamada o mensaje,292
+C1533,Kiosco,Este,R16,Dormidos,48,1.8,194.0,2325.0,1,2,1,Recuperar barato: llamada o mensaje,293
+C0955,Tienda de barrio,Norte,R04,Dormidos,273,0.8,190.0,2282.0,1,1,1,Recuperar barato: llamada o mensaje,294
+C0081,Kiosco,Oeste,R20,Dormidos,18,1.8,186.0,2234.0,2,2,1,Recuperar barato: llamada o mensaje,295
+C1479,Tienda de barrio,Este,R13,Dormidos,198,1.7,181.0,2173.0,1,1,1,Recuperar barato: llamada o mensaje,296
+C1468,Tienda de barrio,Este,R12,Dormidos,161,1.4,181.0,2167.0,1,1,1,Recuperar barato: llamada o mensaje,297
+C0441,Tienda de barrio,Este,R12,Dormidos,284,0.3,180.0,2161.0,1,1,1,Recuperar barato: llamada o mensaje,298
+C1275,Minimercado,Este,R16,Dormidos,347,0.3,176.0,2110.0,1,1,1,Recuperar barato: llamada o mensaje,299
+C0004,Tienda de barrio,Oeste,R19,Dormidos,254,0.6,175.0,2101.0,1,1,1,Recuperar barato: llamada o mensaje,300
+C0561,Kiosco,Norte,R05,Dormidos,27,1.0,171.0,2047.0,2,1,1,Recuperar barato: llamada o mensaje,301
+C1606,Tienda de barrio,Sur,R08,Dormidos,119,1.0,166.0,1992.0,1,1,1,Recuperar barato: llamada o mensaje,302
+C1301,Restaurante o pensión,Oeste,R17,Dormidos,275,0.3,165.0,1981.0,1,1,1,Recuperar barato: llamada o mensaje,303
+C0125,Kiosco,Norte,R03,Dormidos,42,0.8,160.0,1923.0,1,1,1,Recuperar barato: llamada o mensaje,304
+C0674,Kiosco,Sur,R07,Dormidos,202,1.0,160.0,1923.0,1,1,1,Recuperar barato: llamada o mensaje,305
+C0217,Tienda de barrio,Este,R14,Dormidos,257,0.3,155.0,1861.0,1,1,1,Recuperar barato: llamada o mensaje,306
+C0669,Tienda de barrio,Centro,R23,Dormidos,244,0.6,155.0,1861.0,1,1,1,Recuperar barato: llamada o mensaje,307
+C0781,Tienda de barrio,Sur,R11,Dormidos,217,0.8,150.0,1801.0,1,1,1,Recuperar barato: llamada o mensaje,308
+C1371,Tienda de barrio,Este,R15,Dormidos,337,0.3,145.0,1741.0,1,1,1,Recuperar barato: llamada o mensaje,309
+C0583,Restaurante o pensión,Norte,R05,Dormidos,306,0.3,140.0,1681.0,1,1,1,Recuperar barato: llamada o mensaje,310
+C1684,Kiosco,Centro,R24,Dormidos,78,1.4,140.0,1677.0,1,1,1,Recuperar barato: llamada o mensaje,311
+C1086,Kiosco,Sur,R11,Dormidos,314,0.3,140.0,1675.0,1,1,1,Recuperar barato: llamada o mensaje,312
+C0712,Kiosco,Norte,R01,Dormidos,240,0.3,134.0,1613.0,1,1,1,Recuperar barato: llamada o mensaje,313
+C0185,Tienda de barrio,Este,R13,Dormidos,275,0.4,130.0,1561.0,1,1,1,Recuperar barato: llamada o mensaje,314
+C0271,Kiosco,Centro,R22,Dormidos,26,1.3,129.0,1551.0,2,1,1,Recuperar barato: llamada o mensaje,315
+C0929,Kiosco,Este,R15,Dormidos,23,1.3,124.0,1489.0,2,1,1,Recuperar barato: llamada o mensaje,316
+C1071,Kiosco,Oeste,R18,Dormidos,123,1.0,124.0,1489.0,1,1,1,Recuperar barato: llamada o mensaje,317
+C1463,Tienda de barrio,Norte,R02,Dormidos,245,0.6,122.0,1470.0,1,1,1,Recuperar barato: llamada o mensaje,318
+C0577,Tienda de barrio,Centro,R21,Dormidos,246,0.5,120.0,1441.0,1,1,1,Recuperar barato: llamada o mensaje,319
+C1220,Kiosco,Centro,R23,Dormidos,202,0.9,119.0,1427.0,1,1,1,Recuperar barato: llamada o mensaje,320
+C1225,Kiosco,Norte,R01,Dormidos,26,0.9,119.0,1427.0,2,1,1,Recuperar barato: llamada o mensaje,321
+C0103,Restaurante o pensión,Norte,R06,Dormidos,350,0.2,115.0,1381.0,1,1,1,Recuperar barato: llamada o mensaje,322
+C0581,Tienda de barrio,Norte,R03,Dormidos,221,0.9,115.0,1381.0,1,1,1,Recuperar barato: llamada o mensaje,323
+C1229,Kiosco,Sur,R09,Dormidos,21,1.8,114.0,1365.0,2,2,1,Recuperar barato: llamada o mensaje,324
+C1687,Kiosco,Centro,R23,Dormidos,67,0.5,113.0,1355.0,1,1,1,Recuperar barato: llamada o mensaje,325
+C0923,Kiosco,Norte,R01,Dormidos,239,0.6,109.0,1303.0,1,1,1,Recuperar barato: llamada o mensaje,326
+C1112,Kiosco,Este,R15,Dormidos,225,0.8,109.0,1303.0,1,1,1,Recuperar barato: llamada o mensaje,327
+C1662,Kiosco,Centro,R21,Dormidos,33,0.7,107.0,1289.0,2,1,1,Recuperar barato: llamada o mensaje,328
+C0251,Tienda de barrio,Sur,R08,Dormidos,301,0.6,105.0,1261.0,1,1,1,Recuperar barato: llamada o mensaje,329
+C1062,Tienda de barrio,Centro,R24,Dormidos,249,0.8,105.0,1261.0,1,1,1,Recuperar barato: llamada o mensaje,330
+C0208,Kiosco,Norte,R02,Dormidos,250,0.5,103.0,1241.0,1,1,1,Recuperar barato: llamada o mensaje,331
+C0871,Kiosco,Norte,R03,Dormidos,236,0.7,103.0,1241.0,1,1,1,Recuperar barato: llamada o mensaje,332
+C0423,Tienda de barrio,Sur,R11,Dormidos,303,0.3,100.0,1201.0,1,1,1,Recuperar barato: llamada o mensaje,333
+C0882,Tienda de barrio,Centro,R21,Dormidos,313,0.4,100.0,1201.0,1,1,1,Recuperar barato: llamada o mensaje,334
+C0278,Kiosco,Oeste,R17,Dormidos,240,0.7,98.0,1179.0,1,1,1,Recuperar barato: llamada o mensaje,335
+C0582,Kiosco,Norte,R05,Dormidos,196,0.7,98.0,1179.0,1,1,1,Recuperar barato: llamada o mensaje,336
+C0982,Tienda de barrio,Sur,R07,Dormidos,319,0.3,95.0,1141.0,1,1,1,Recuperar barato: llamada o mensaje,337
+C1197,Kiosco,Sur,R08,Dormidos,225,0.9,93.0,1117.0,1,1,1,Recuperar barato: llamada o mensaje,338
+C0685,Kiosco,Oeste,R18,Dormidos,240,1.0,88.0,1055.0,1,1,1,Recuperar barato: llamada o mensaje,339
+C1126,Minimercado,Norte,R03,Dormidos,341,0.1,86.0,1027.0,1,1,1,Recuperar barato: llamada o mensaje,340
+C0354,Tienda de barrio,Sur,R11,Dormidos,232,0.3,85.0,1021.0,1,1,1,Recuperar barato: llamada o mensaje,341
+C0833,Tienda de barrio,Centro,R23,Dormidos,335,0.2,85.0,1021.0,1,1,1,Recuperar barato: llamada o mensaje,342
+C0986,Kiosco,Centro,R22,Dormidos,306,0.5,83.0,993.0,1,1,1,Recuperar barato: llamada o mensaje,343
+C1515,Kiosco,Norte,R02,Dormidos,197,0.3,82.0,985.0,1,1,1,Recuperar barato: llamada o mensaje,344
+C0130,Restaurante o pensión,Este,R15,Dormidos,363,0.1,80.0,961.0,1,1,1,Recuperar barato: llamada o mensaje,345
+C1373,Tienda de barrio,Este,R12,Dormidos,324,0.3,80.0,961.0,1,1,1,Recuperar barato: llamada o mensaje,346
+C0210,Tienda de barrio,Sur,R10,Dormidos,302,0.6,75.0,901.0,1,1,1,Recuperar barato: llamada o mensaje,347
+C0762,Tienda de barrio,Norte,R01,Dormidos,314,0.3,75.0,901.0,1,1,1,Recuperar barato: llamada o mensaje,348
+C0692,Kiosco,Norte,R04,Dormidos,183,0.7,72.0,869.0,1,1,1,Recuperar barato: llamada o mensaje,349
+C1433,Kiosco,Centro,R22,Dormidos,285,0.4,72.0,869.0,1,1,1,Recuperar barato: llamada o mensaje,350
+C0263,Minimercado,Sur,R07,Dormidos,351,0.1,71.0,856.0,1,1,1,Recuperar barato: llamada o mensaje,351
+C1388,Kiosco,Sur,R09,Dormidos,267,0.5,67.0,807.0,1,1,1,Recuperar barato: llamada o mensaje,352
+C0404,Restaurante o pensión,Centro,R24,Dormidos,306,0.2,65.0,781.0,1,1,1,Recuperar barato: llamada o mensaje,353
+C0849,Kiosco,Este,R13,Dormidos,251,0.3,62.0,745.0,1,1,1,Recuperar barato: llamada o mensaje,354
+C0122,Tienda de barrio,Sur,R10,Dormidos,243,0.5,60.0,720.0,1,1,1,Recuperar barato: llamada o mensaje,355
+C1394,Tienda de barrio,Oeste,R17,Dormidos,355,0.2,60.0,720.0,1,1,1,Recuperar barato: llamada o mensaje,356
+C0821,Minimercado,Centro,R21,Dormidos,326,0.1,57.0,684.0,1,1,1,Recuperar barato: llamada o mensaje,357
+C1440,Kiosco,Norte,R06,Dormidos,264,0.5,57.0,682.0,1,1,1,Recuperar barato: llamada o mensaje,358
+C0325,Tienda de barrio,Norte,R05,Dormidos,343,0.2,55.0,660.0,1,1,1,Recuperar barato: llamada o mensaje,359
+C0931,Kiosco,Este,R16,Dormidos,278,0.3,52.0,620.0,1,1,1,Recuperar barato: llamada o mensaje,360
+C1424,Kiosco,Centro,R22,Dormidos,316,0.3,52.0,620.0,1,1,1,Recuperar barato: llamada o mensaje,361
+C0377,Tienda de barrio,Centro,R24,Dormidos,306,0.1,50.0,600.0,1,1,1,Recuperar barato: llamada o mensaje,362
+C0641,Tienda de barrio,Sur,R07,Dormidos,309,0.3,50.0,600.0,1,1,1,Recuperar barato: llamada o mensaje,363
+C0841,Tienda de barrio,Centro,R21,Dormidos,328,0.3,50.0,600.0,1,1,1,Recuperar barato: llamada o mensaje,364
+C0799,Kiosco,Oeste,R18,Dormidos,286,0.5,47.0,558.0,1,1,1,Recuperar barato: llamada o mensaje,365
+C0760,Tienda de barrio,Norte,R05,Dormidos,314,0.3,45.0,540.0,1,1,1,Recuperar barato: llamada o mensaje,366
+C0410,Kiosco,Sur,R07,Dormidos,305,0.6,41.0,496.0,1,1,1,Recuperar barato: llamada o mensaje,367
+C1378,Kiosco,Sur,R09,Dormidos,277,0.3,41.0,496.0,1,1,1,Recuperar barato: llamada o mensaje,368
+C0623,Tienda de barrio,Este,R14,Dormidos,305,0.2,35.0,420.0,1,1,1,Recuperar barato: llamada o mensaje,369
+C1496,Tienda de barrio,Sur,R07,Dormidos,321,0.1,33.0,394.0,1,1,1,Recuperar barato: llamada o mensaje,370
+C0207,Kiosco,Centro,R24,Dormidos,281,0.2,31.0,372.0,1,1,1,Recuperar barato: llamada o mensaje,371
+C0529,Kiosco,Este,R15,Dormidos,314,0.2,31.0,372.0,1,1,1,Recuperar barato: llamada o mensaje,372
+C0677,Restaurante o pensión,Norte,R03,Dormidos,228,0.1,30.0,360.0,1,1,1,Recuperar barato: llamada o mensaje,373
+C1137,Tienda de barrio,Norte,R05,Dormidos,333,0.1,30.0,360.0,1,1,1,Recuperar barato: llamada o mensaje,374
+C1277,Tienda de barrio,Centro,R24,Dormidos,342,0.3,30.0,360.0,1,1,1,Recuperar barato: llamada o mensaje,375
+C1302,Kiosco,Norte,R03,Dormidos,327,0.2,26.0,310.0,1,1,1,Recuperar barato: llamada o mensaje,376
+C1425,Kiosco,Centro,R21,Dormidos,345,0.1,26.0,310.0,1,1,1,Recuperar barato: llamada o mensaje,377
+C0471,Kiosco,Sur,R07,Dormidos,328,0.1,21.0,248.0,1,1,1,Recuperar barato: llamada o mensaje,378
+C0473,Kiosco,Oeste,R20,Dormidos,361,0.1,21.0,248.0,1,1,1,Recuperar barato: llamada o mensaje,379
+C1249,Kiosco,Norte,R01,Dormidos,270,0.3,21.0,248.0,1,1,1,Recuperar barato: llamada o mensaje,380
+C0008,Tienda de barrio,Sur,R11,Dormidos,338,0.1,20.0,240.0,1,1,1,Recuperar barato: llamada o mensaje,381
+C0303,Kiosco,Centro,R21,Dormidos,361,0.1,16.0,186.0,1,1,1,Recuperar barato: llamada o mensaje,382
+C1390,Kiosco,Este,R15,Dormidos,288,0.2,16.0,186.0,1,1,1,Recuperar barato: llamada o mensaje,383
+C1273,Tienda de barrio,Norte,R02,Dormidos,348,0.1,15.0,180.0,1,1,1,Recuperar barato: llamada o mensaje,384
+C1354,Tienda de barrio,Este,R16,Dormidos,354,0.1,15.0,180.0,1,1,1,Recuperar barato: llamada o mensaje,385
+C1164,Kiosco,Sur,R11,Dormidos,362,0.1,10.0,124.0,1,1,1,Recuperar barato: llamada o mensaje,386

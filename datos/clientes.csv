@@ -1,0 +1,1777 @@
+id_cliente,tipo,zona,ruta,fecha_alta
+C0001,Kiosco,Sur,R09,2024-04-21
+C0002,Tienda de barrio,Este,R12,2020-11-24
+C0003,Kiosco,Este,R15,2016-05-30
+C0004,Tienda de barrio,Oeste,R19,2021-12-13
+C0005,Tienda de barrio,Este,R12,2022-02-08
+C0006,Tienda de barrio,Sur,R11,2023-07-21
+C0007,Kiosco,Este,R15,2019-02-19
+C0008,Tienda de barrio,Sur,R11,2024-05-06
+C0009,Tienda de barrio,Norte,R04,2019-11-18
+C0010,Tienda de barrio,Oeste,R18,2020-02-06
+C0011,Minimercado,Centro,R21,2024-09-26
+C0012,Tienda de barrio,Este,R13,2024-08-05
+C0013,Minimercado,Este,R13,2018-09-18
+C0014,Tienda de barrio,Centro,R24,2022-01-19
+C0015,Tienda de barrio,Sur,R09,2022-10-28
+C0016,Tienda de barrio,Norte,R01,2021-10-12
+C0017,Kiosco,Oeste,R19,2022-11-22
+C0018,Kiosco,Centro,R23,2023-12-30
+C0019,Restaurante o pensión,Sur,R09,2022-03-10
+C0020,Tienda de barrio,Este,R16,2019-04-26
+C0021,Tienda de barrio,Centro,R23,2023-05-14
+C0022,Tienda de barrio,Este,R13,2019-10-19
+C0023,Kiosco,Norte,R05,2021-09-25
+C0024,Minimercado,Centro,R24,2022-07-23
+C0025,Kiosco,Este,R13,2018-05-03
+C0026,Tienda de barrio,Sur,R10,2022-01-08
+C0027,Tienda de barrio,Oeste,R17,2023-11-01
+C0028,Minimercado,Oeste,R17,2024-05-31
+C0029,Tienda de barrio,Norte,R01,2021-03-06
+C0030,Tienda de barrio,Norte,R02,2024-04-26
+C0031,Tienda de barrio,Centro,R21,2023-09-15
+C0032,Minimercado,Centro,R21,2020-08-12
+C0033,Minimercado,Oeste,R17,2022-08-14
+C0034,Tienda de barrio,Norte,R02,2023-12-23
+C0035,Minimercado,Norte,R01,2019-12-02
+C0036,Tienda de barrio,Norte,R05,2024-07-16
+C0037,Tienda de barrio,Oeste,R17,2024-06-07
+C0038,Tienda de barrio,Norte,R01,2021-07-13
+C0039,Tienda de barrio,Sur,R10,2020-10-23
+C0040,Restaurante o pensión,Sur,R08,2023-11-30
+C0041,Minimercado,Oeste,R18,2023-05-30
+C0042,Tienda de barrio,Sur,R09,2020-10-16
+C0043,Tienda de barrio,Este,R13,2023-08-31
+C0044,Minimercado,Centro,R24,2021-01-02
+C0045,Mayorista,Centro,R21,2023-03-26
+C0046,Kiosco,Este,R13,2023-08-15
+C0047,Restaurante o pensión,Este,R13,2024-05-19
+C0048,Tienda de barrio,Centro,R24,2024-08-29
+C0049,Tienda de barrio,Oeste,R17,2023-12-18
+C0050,Kiosco,Oeste,R17,2019-01-31
+C0051,Tienda de barrio,Norte,R04,2021-02-02
+C0052,Minimercado,Oeste,R18,2022-10-14
+C0053,Tienda de barrio,Sur,R07,2022-01-29
+C0054,Tienda de barrio,Sur,R08,2024-08-03
+C0055,Tienda de barrio,Norte,R02,2019-05-12
+C0056,Tienda de barrio,Sur,R10,2023-05-13
+C0057,Tienda de barrio,Norte,R05,2024-01-29
+C0058,Minimercado,Centro,R22,2024-06-20
+C0059,Mayorista,Centro,R23,2021-09-18
+C0060,Minimercado,Centro,R23,2016-10-23
+C0061,Minimercado,Oeste,R19,2023-07-27
+C0062,Minimercado,Norte,R04,2024-09-15
+C0063,Minimercado,Norte,R06,2022-10-25
+C0064,Restaurante o pensión,Norte,R05,2022-11-09
+C0065,Tienda de barrio,Centro,R23,2023-06-16
+C0066,Tienda de barrio,Centro,R21,2021-08-21
+C0067,Tienda de barrio,Norte,R04,2023-01-25
+C0068,Kiosco,Norte,R02,2022-06-28
+C0069,Tienda de barrio,Norte,R02,2021-07-26
+C0070,Kiosco,Este,R16,2022-09-17
+C0071,Tienda de barrio,Sur,R09,2024-06-17
+C0072,Tienda de barrio,Este,R16,2011-09-12
+C0073,Tienda de barrio,Centro,R22,2023-10-07
+C0074,Tienda de barrio,Oeste,R19,2024-09-17
+C0076,Tienda de barrio,Norte,R02,2024-06-16
+C0077,Tienda de barrio,Sur,R11,2022-05-06
+C0078,Tienda de barrio,Oeste,R17,2023-02-11
+C0079,Mayorista,Sur,R07,2020-12-20
+C0080,Restaurante o pensión,Norte,R03,2024-02-10
+C0081,Kiosco,Oeste,R20,2015-12-06
+C0082,Minimercado,Centro,R23,2022-10-29
+C0083,Tienda de barrio,Oeste,R17,2013-09-20
+C0084,Tienda de barrio,Centro,R22,2022-06-16
+C0085,Kiosco,Oeste,R20,2023-11-23
+C0086,Tienda de barrio,Norte,R02,2022-08-09
+C0087,Restaurante o pensión,Norte,R03,2023-10-17
+C0088,Restaurante o pensión,Oeste,R20,2023-02-25
+C0089,Tienda de barrio,Sur,R09,2024-06-21
+C0090,Kiosco,Sur,R10,2024-04-02
+C0091,Kiosco,Sur,R08,2016-11-06
+C0092,Restaurante o pensión,Este,R15,2015-05-25
+C0093,Mayorista,Sur,R08,2015-02-28
+C0094,Kiosco,Sur,R07,2024-07-09
+C0095,Restaurante o pensión,Norte,R03,2021-02-01
+C0096,Tienda de barrio,Oeste,R19,2023-01-09
+C0097,Tienda de barrio,Centro,R24,2024-08-13
+C0098,Kiosco,Centro,R21,2022-04-23
+C0099,Minimercado,Oeste,R20,2021-08-05
+C0100,Minimercado,Sur,R11,2019-03-04
+C0101,Tienda de barrio,Sur,R07,2021-06-13
+C0102,Tienda de barrio,Este,R13,2021-06-04
+C0103,Restaurante o pensión,Norte,R06,2024-04-02
+C0104,Tienda de barrio,Sur,R07,2022-10-26
+C0105,Kiosco,Norte,R05,2024-02-28
+C0106,Restaurante o pensión,Oeste,R19,2018-02-18
+C0107,Tienda de barrio,Este,R15,2017-06-09
+C0108,Minimercado,Oeste,R20,2020-05-13
+C0109,Minimercado,Sur,R10,2024-03-25
+C0110,Tienda de barrio,Oeste,R18,2023-02-02
+C0111,Restaurante o pensión,Este,R13,2016-12-05
+C0112,Tienda de barrio,Oeste,R18,2021-06-30
+C0113,Restaurante o pensión,Oeste,R18,2019-10-28
+C0114,Kiosco,Sur,R10,2018-05-03
+C0115,Restaurante o pensión,Oeste,R17,2019-01-11
+C0116,Tienda de barrio,Este,R13,2021-10-31
+C0117,Kiosco,Oeste,R18,2018-09-24
+C0118,Kiosco,Sur,R10,2024-04-02
+C0119,Restaurante o pensión,Norte,R01,2022-11-13
+C0120,Minimercado,Sur,R11,2020-08-18
+C0121,Minimercado,Sur,R07,2012-11-04
+C0122,Tienda de barrio,Sur,R10,2023-06-25
+C0123,Tienda de barrio,Centro,R24,2022-04-24
+C0124,Minimercado,Centro,R24,2011-07-28
+C0125,Kiosco,Norte,R03,2023-06-19
+C0126,Minimercado,Centro,R23,2021-11-21
+C0127,Kiosco,Oeste,R17,2017-11-26
+C0128,Mayorista,Norte,R01,2020-03-09
+C0129,Tienda de barrio,Este,R15,2020-06-16
+C0130,Restaurante o pensión,Este,R15,2024-05-09
+C0131,Tienda de barrio,Centro,R23,2023-02-16
+C0132,Restaurante o pensión,Norte,R03,2021-07-16
+C0133,Kiosco,Norte,R02,2023-07-10
+C0134,Minimercado,Norte,R06,2021-12-25
+C0135,Minimercado,Centro,R24,2022-12-05
+C0136,Restaurante o pensión,Este,R14,2023-02-23
+C0137,Mayorista,Norte,R04,2020-12-24
+C0138,Tienda de barrio,Norte,R01,2023-03-17
+C0139,Minimercado,Norte,R03,2024-05-28
+C0140,Minimercado,Oeste,R17,2018-03-02
+C0141,Restaurante o pensión,Norte,R05,2021-10-11
+C0142,Restaurante o pensión,Centro,R24,2020-06-29
+C0143,Tienda de barrio,Este,R15,2023-04-28
+C0144,Restaurante o pensión,Oeste,R19,2023-10-27
+C0145,Tienda de barrio,Sur,R10,2022-02-21
+C0146,Kiosco,Norte,R02,2020-07-10
+C0147,Minimercado,Norte,R04,2023-01-13
+C0148,Kiosco,Centro,R22,2024-01-04
+C0149,Kiosco,Oeste,R19,2023-10-01
+C0150,Kiosco,Centro,R22,2015-07-20
+C0151,Minimercado,Centro,R22,2023-08-14
+C0152,Kiosco,Norte,R04,2021-09-24
+C0153,Minimercado,Este,R13,2024-09-07
+C0154,Minimercado,Norte,R06,2023-07-15
+C0155,Minimercado,Este,R14,2024-03-21
+C0156,Minimercado,Este,R14,2021-11-22
+C0157,Minimercado,Norte,R02,2022-03-20
+C0158,Mayorista,Este,R16,2023-01-31
+C0159,Tienda de barrio,Este,R16,2023-02-02
+C0160,Restaurante o pensión,Oeste,R19,2024-06-11
+C0161,Restaurante o pensión,Centro,R24,2016-10-01
+C0162,Kiosco,Centro,R22,2024-02-06
+C0163,Restaurante o pensión,Sur,R10,2023-03-23
+C0164,Tienda de barrio,Norte,R05,2019-12-01
+C0165,Tienda de barrio,Norte,R01,2024-09-21
+C0166,Tienda de barrio,Norte,R06,2023-09-23
+C0167,Tienda de barrio,Este,R16,2023-01-25
+C0168,Tienda de barrio,Oeste,R18,2012-09-12
+C0169,Kiosco,Sur,R11,2019-01-04
+C0170,Restaurante o pensión,Norte,R04,2020-10-06
+C0171,Tienda de barrio,Centro,R24,2017-10-14
+C0172,Tienda de barrio,Sur,R08,2021-02-06
+C0173,Mayorista,Norte,R06,2022-08-15
+C0174,Tienda de barrio,Este,R16,2020-12-01
+C0175,Restaurante o pensión,Sur,R07,2022-01-14
+C0176,Mayorista,Norte,R03,2024-06-30
+C0177,Tienda de barrio,Norte,R04,2017-10-17
+C0178,Tienda de barrio,Sur,R10,2023-04-10
+C0179,Tienda de barrio,Este,R12,2018-03-04
+C0180,Mayorista,Este,R14,2024-09-12
+C0181,Minimercado,Centro,R22,2024-04-11
+C0182,Tienda de barrio,Centro,R21,2020-08-11
+C0183,Restaurante o pensión,Sur,R08,2019-06-03
+C0184,Tienda de barrio,Este,R12,2020-08-06
+C0185,Tienda de barrio,Este,R13,2022-07-28
+C0186,Restaurante o pensión,Este,R16,2023-06-11
+C0187,Tienda de barrio,Este,R14,2022-09-30
+C0188,Tienda de barrio,Norte,R02,2014-09-23
+C0189,Tienda de barrio,Oeste,R18,2024-01-19
+C0190,Tienda de barrio,Norte,R05,2024-02-20
+C0191,Tienda de barrio,Norte,R02,2021-06-05
+C0192,Tienda de barrio,Oeste,R19,2023-11-18
+C0193,Kiosco,Norte,R01,2024-05-30
+C0194,Tienda de barrio,Oeste,R19,2022-05-06
+C0195,Restaurante o pensión,Oeste,R20,2022-11-16
+C0196,Tienda de barrio,Este,R12,2023-10-09
+C0197,Restaurante o pensión,Este,R13,2024-07-10
+C0198,Minimercado,Norte,R05,2020-06-29
+C0199,Minimercado,Este,R15,2022-01-16
+C0200,Tienda de barrio,Centro,R24,2023-01-03
+C0201,Minimercado,Sur,R10,2024-08-18
+C0202,Tienda de barrio,Oeste,R17,2019-12-20
+C0203,Tienda de barrio,Oeste,R20,2020-08-20
+C0204,Tienda de barrio,Norte,R06,2024-06-19
+C0205,Tienda de barrio,Centro,R22,2016-05-22
+C0206,Restaurante o pensión,Centro,R23,2014-08-14
+C0207,Kiosco,Centro,R24,2020-12-27
+C0208,Kiosco,Norte,R02,2021-07-09
+C0209,Tienda de barrio,Sur,R09,2023-03-28
+C0210,Tienda de barrio,Sur,R10,2009-04-29
+C0211,Tienda de barrio,Este,R15,2019-07-19
+C0212,Minimercado,Centro,R24,2024-09-24
+C0213,Kiosco,Centro,R23,2016-03-27
+C0214,Restaurante o pensión,Norte,R02,2023-03-18
+C0215,Tienda de barrio,Norte,R06,2023-03-07
+C0216,Tienda de barrio,Este,R13,2014-08-18
+C0217,Tienda de barrio,Este,R14,2022-09-29
+C0218,Minimercado,Norte,R06,2021-01-24
+C0219,Restaurante o pensión,Centro,R21,2014-09-29
+C0220,Tienda de barrio,Este,R12,2019-06-08
+C0221,Kiosco,Este,R16,2022-03-06
+C0222,Tienda de barrio,Sur,R09,2021-09-28
+C0223,Tienda de barrio,Norte,R04,2023-06-27
+C0224,Tienda de barrio,Oeste,R20,2024-05-18
+C0225,Tienda de barrio,Norte,R02,2024-05-23
+C0226,Minimercado,Este,R16,2023-05-13
+C0227,Tienda de barrio,Norte,R02,2019-06-30
+C0228,Kiosco,Sur,R09,2019-10-05
+C0229,Restaurante o pensión,Este,R14,2022-09-28
+C0230,Tienda de barrio,Centro,R23,2015-08-08
+C0231,Mayorista,Norte,R05,2023-01-20
+C0232,Restaurante o pensión,Este,R15,2023-06-28
+C0233,Tienda de barrio,Centro,R22,2014-06-08
+C0234,Kiosco,Oeste,R18,2021-09-03
+C0235,Kiosco,Oeste,R18,2022-07-25
+C0236,Tienda de barrio,Norte,R06,2024-08-23
+C0237,Minimercado,Oeste,R19,2020-10-14
+C0238,Tienda de barrio,Este,R13,2023-03-12
+C0239,Minimercado,Norte,R02,2023-06-18
+C0240,Kiosco,Sur,R09,2022-05-13
+C0241,Tienda de barrio,Oeste,R20,2020-04-01
+C0242,Tienda de barrio,Norte,R03,2024-06-09
+C0243,Minimercado,Oeste,R18,2024-04-19
+C0244,Tienda de barrio,Sur,R07,2021-10-19
+C0245,Restaurante o pensión,Norte,R04,2022-02-07
+C0246,Restaurante o pensión,Este,R16,2022-04-06
+C0247,Restaurante o pensión,Centro,R23,2021-05-25
+C0248,Tienda de barrio,Oeste,R17,2022-11-05
+C0249,Tienda de barrio,Norte,R04,2020-11-16
+C0250,Tienda de barrio,Centro,R21,2023-05-09
+C0251,Tienda de barrio,Sur,R08,2024-06-19
+C0252,Restaurante o pensión,Oeste,R17,2022-07-24
+C0253,Tienda de barrio,Centro,R23,2020-01-11
+C0254,Tienda de barrio,Norte,R03,2024-05-24
+C0255,Mayorista,Oeste,R18,2022-10-15
+C0256,Tienda de barrio,Este,R14,2020-12-13
+C0257,Restaurante o pensión,Sur,R11,2022-12-09
+C0258,Tienda de barrio,Sur,R11,2018-03-03
+C0259,Mayorista,Sur,R09,2024-03-28
+C0260,Kiosco,Sur,R07,2023-08-26
+C0261,Tienda de barrio,Norte,R05,2010-10-28
+C0262,Tienda de barrio,Sur,R11,2022-04-06
+C0263,Minimercado,Sur,R07,2023-09-28
+C0264,Tienda de barrio,Este,R12,2023-03-31
+C0265,Kiosco,Este,R14,2024-03-06
+C0266,Tienda de barrio,Este,R12,2017-01-14
+C0267,Restaurante o pensión,Norte,R05,2021-10-23
+C0268,Tienda de barrio,Sur,R11,2020-07-25
+C0269,Minimercado,Oeste,R19,2017-08-01
+C0270,Restaurante o pensión,Oeste,R19,2022-12-07
+C0271,Kiosco,Centro,R22,2023-11-29
+C0272,Tienda de barrio,Sur,R07,2024-04-18
+C0273,Kiosco,Sur,R10,2022-12-07
+C0274,Tienda de barrio,Oeste,R20,2021-04-27
+C0275,Tienda de barrio,Norte,R05,2024-09-20
+C0276,Tienda de barrio,Norte,R06,2020-02-02
+C0277,Tienda de barrio,Norte,R06,2023-10-25
+C0278,Kiosco,Oeste,R17,2024-07-07
+C0279,Tienda de barrio,Oeste,R19,2024-09-22
+C0280,Kiosco,Sur,R08,2023-07-17
+C0281,Tienda de barrio,Este,R16,2022-11-07
+C0282,Tienda de barrio,Norte,R05,2016-04-08
+C0283,Tienda de barrio,Centro,R24,2024-08-28
+C0284,Tienda de barrio,Centro,R23,2022-03-23
+C0285,Mayorista,Oeste,R20,2018-07-27
+C0286,Kiosco,Oeste,R20,2023-04-19
+C0287,Mayorista,Norte,R04,2023-01-29
+C0288,Tienda de barrio,Este,R15,2013-12-16
+C0289,Minimercado,Oeste,R17,2023-02-06
+C0290,Kiosco,Este,R13,2023-10-16
+C0291,Kiosco,Este,R13,2023-04-23
+C0292,Mayorista,Sur,R11,2023-02-17
+C0293,Tienda de barrio,Sur,R07,2022-09-28
+C0294,Kiosco,Este,R14,2021-12-05
+C0295,Tienda de barrio,Sur,R11,2023-01-01
+C0296,Tienda de barrio,Este,R15,2022-12-28
+C0297,Tienda de barrio,Oeste,R17,2019-03-17
+C0298,Minimercado,Centro,R24,2022-02-08
+C0299,Tienda de barrio,Centro,R24,2023-07-03
+C0300,Tienda de barrio,Norte,R05,2021-12-22
+C0301,Tienda de barrio,Sur,R09,2021-12-04
+C0302,Restaurante o pensión,Centro,R22,2021-03-29
+C0303,Kiosco,Centro,R21,2024-06-13
+C0304,Restaurante o pensión,Centro,R24,2024-02-20
+C0305,Kiosco,Este,R12,2024-08-30
+C0306,Tienda de barrio,Este,R13,2023-12-20
+C0307,Tienda de barrio,Oeste,R17,2016-12-31
+C0308,Minimercado,Sur,R11,2018-02-09
+C0309,Minimercado,Norte,R05,2018-04-16
+C0310,Mayorista,Centro,R22,2023-11-21
+C0311,Tienda de barrio,Este,R16,2022-07-11
+C0312,Tienda de barrio,Sur,R11,2024-06-01
+C0313,Restaurante o pensión,Norte,R06,2024-05-14
+C0314,Tienda de barrio,Este,R12,2023-01-23
+C0316,Kiosco,Sur,R07,2020-06-02
+C0317,Tienda de barrio,Este,R13,2020-02-24
+C0318,Kiosco,Sur,R07,2018-11-09
+C0319,Mayorista,Este,R13,2024-08-16
+C0320,Tienda de barrio,Centro,R23,2017-02-10
+C0321,Minimercado,Centro,R22,2017-01-18
+C0322,Tienda de barrio,Sur,R08,2021-07-25
+C0323,Kiosco,Centro,R24,2017-02-10
+C0324,Kiosco,Sur,R09,2020-01-19
+C0325,Tienda de barrio,Norte,R05,2022-04-05
+C0326,Tienda de barrio,Este,R15,2023-07-28
+C0327,Minimercado,Este,R16,2024-09-08
+C0328,Tienda de barrio,Este,R16,2023-12-20
+C0329,Tienda de barrio,Sur,R07,2023-01-10
+C0330,Restaurante o pensión,Sur,R07,2022-03-27
+C0331,Mayorista,Sur,R07,2022-12-11
+C0332,Tienda de barrio,Oeste,R19,2024-09-01
+C0333,Tienda de barrio,Sur,R07,2022-10-01
+C0334,Tienda de barrio,Este,R15,2022-06-08
+C0335,Minimercado,Oeste,R17,2024-07-18
+C0336,Minimercado,Sur,R10,2021-11-08
+C0337,Tienda de barrio,Este,R14,2019-04-14
+C0338,Tienda de barrio,Este,R15,2022-06-13
+C0339,Tienda de barrio,Oeste,R18,2021-03-22
+C0340,Restaurante o pensión,Centro,R22,2023-09-21
+C0341,Kiosco,Este,R15,2022-04-07
+C0342,Tienda de barrio,Este,R15,2024-08-13
+C0343,Tienda de barrio,Norte,R05,2019-08-04
+C0344,Tienda de barrio,Este,R12,2022-08-03
+C0345,Tienda de barrio,Sur,R08,2024-08-01
+C0346,Kiosco,Centro,R21,2021-12-01
+C0347,Tienda de barrio,Norte,R01,2020-03-30
+C0348,Tienda de barrio,Oeste,R19,2024-04-18
+C0349,Kiosco,Norte,R05,2024-09-24
+C0350,Restaurante o pensión,Oeste,R17,2012-09-06
+C0351,Mayorista,Norte,R03,2023-11-21
+C0352,Tienda de barrio,Norte,R06,2016-10-20
+C0353,Kiosco,Oeste,R19,2024-09-12
+C0354,Tienda de barrio,Sur,R11,2021-04-27
+C0355,Mayorista,Centro,R22,2024-02-19
+C0356,Restaurante o pensión,Centro,R23,2019-01-13
+C0357,Tienda de barrio,Este,R14,2022-09-10
+C0358,Restaurante o pensión,Norte,R04,2019-04-19
+C0359,Tienda de barrio,Centro,R21,2024-09-18
+C0360,Kiosco,Centro,R21,2024-06-23
+C0361,Minimercado,Sur,R11,2022-02-05
+C0362,Tienda de barrio,Norte,R06,2023-04-19
+C0363,Restaurante o pensión,Norte,R04,2019-06-01
+C0364,Tienda de barrio,Centro,R21,2023-03-28
+C0365,Mayorista,Sur,R09,2023-09-13
+C0366,Tienda de barrio,Oeste,R18,2019-07-30
+C0367,Tienda de barrio,Este,R12,2023-03-25
+C0368,Tienda de barrio,Norte,R01,2022-07-11
+C0369,Tienda de barrio,Norte,R03,2024-04-01
+C0370,Minimercado,Norte,R04,2021-05-21
+C0371,Minimercado,Este,R15,2022-12-26
+C0372,Kiosco,Este,R13,2023-09-01
+C0373,Restaurante o pensión,Oeste,R19,2024-09-11
+C0374,Minimercado,Norte,R06,2010-03-31
+C0375,Restaurante o pensión,Centro,R22,2024-03-24
+C0376,Restaurante o pensión,Sur,R08,2021-12-23
+C0377,Tienda de barrio,Centro,R24,2022-04-25
+C0378,Restaurante o pensión,Norte,R05,2020-11-21
+C0379,Tienda de barrio,Norte,R02,2021-06-04
+C0380,Restaurante o pensión,Sur,R08,2019-12-20
+C0381,Kiosco,Este,R15,2022-02-14
+C0382,Mayorista,Norte,R02,2024-06-16
+C0383,Tienda de barrio,Este,R12,2023-02-12
+C0384,Tienda de barrio,Este,R14,2024-07-26
+C0385,Tienda de barrio,Sur,R08,2024-03-22
+C0386,Tienda de barrio,Oeste,R18,2021-10-30
+C0387,Tienda de barrio,Centro,R22,2024-07-17
+C0388,Minimercado,Sur,R07,2024-07-25
+C0389,Tienda de barrio,Sur,R07,2022-04-08
+C0390,Tienda de barrio,Centro,R21,2022-07-24
+C0391,Tienda de barrio,Este,R16,2021-05-02
+C0392,Tienda de barrio,Este,R14,2022-11-27
+C0393,Minimercado,Norte,R06,2024-07-24
+C0394,Restaurante o pensión,Oeste,R19,2023-12-17
+C0395,Tienda de barrio,Este,R14,2020-05-10
+C0396,Restaurante o pensión,Sur,R08,2023-08-01
+C0397,Tienda de barrio,Este,R15,2024-09-23
+C0398,Restaurante o pensión,Centro,R23,2022-09-27
+C0399,Minimercado,Este,R15,2024-08-30
+C0400,Tienda de barrio,Este,R15,2023-12-06
+C0401,Tienda de barrio,Oeste,R19,2024-07-14
+C0402,Restaurante o pensión,Norte,R03,2024-03-13
+C0403,Tienda de barrio,Centro,R24,2023-07-09
+C0404,Restaurante o pensión,Centro,R24,2017-03-27
+C0405,Minimercado,Norte,R02,2023-10-18
+C0406,Tienda de barrio,Oeste,R20,2003-01-01
+C0407,Restaurante o pensión,Norte,R06,2022-09-27
+C0408,Kiosco,Oeste,R18,2017-01-30
+C0409,Tienda de barrio,Norte,R06,2020-11-04
+C0410,Kiosco,Sur,R07,2022-10-23
+C0411,Tienda de barrio,Este,R12,2023-03-13
+C0412,Tienda de barrio,Oeste,R19,2024-06-18
+C0413,Tienda de barrio,Norte,R05,2024-05-30
+C0414,Kiosco,Oeste,R19,2019-04-01
+C0415,Tienda de barrio,Centro,R24,2020-04-05
+C0416,Minimercado,Este,R15,2022-07-14
+C0417,Tienda de barrio,Este,R12,2021-09-21
+C0418,Minimercado,Este,R12,2022-01-03
+C0419,Kiosco,Este,R15,2023-05-21
+C0420,Kiosco,Centro,R23,2024-05-21
+C0421,Restaurante o pensión,Sur,R11,2022-10-18
+C0422,Minimercado,Oeste,R20,2021-09-17
+C0423,Tienda de barrio,Sur,R11,2021-12-03
+C0424,Restaurante o pensión,Centro,R21,2019-07-28
+C0425,Tienda de barrio,Sur,R11,2020-10-20
+C0426,Mayorista,Norte,R05,2015-04-10
+C0427,Tienda de barrio,Norte,R02,2021-08-01
+C0428,Kiosco,Centro,R21,2019-06-05
+C0429,Tienda de barrio,Este,R14,2024-03-21
+C0430,Restaurante o pensión,Este,R16,2021-09-01
+C0431,Tienda de barrio,Sur,R09,2021-04-23
+C0432,Minimercado,Oeste,R20,2023-12-16
+C0433,Tienda de barrio,Sur,R07,2024-04-29
+C0434,Tienda de barrio,Norte,R05,2024-02-23
+C0435,Minimercado,Este,R14,2023-01-04
+C0436,Tienda de barrio,Este,R13,2016-05-30
+C0437,Tienda de barrio,Norte,R03,2023-09-04
+C0438,Tienda de barrio,Este,R15,2023-10-29
+C0439,Tienda de barrio,Norte,R04,2022-04-29
+C0440,Minimercado,Centro,R21,2021-11-29
+C0441,Tienda de barrio,Este,R12,2023-03-06
+C0442,Tienda de barrio,Norte,R03,2021-10-15
+C0443,Mayorista,Sur,R07,2024-04-27
+C0444,Tienda de barrio,Sur,R11,2023-11-30
+C0445,Tienda de barrio,Norte,R02,2017-12-16
+C0446,Tienda de barrio,Este,R15,2023-09-01
+C0447,Minimercado,Oeste,R17,2020-06-23
+C0448,Tienda de barrio,Norte,R03,2020-12-08
+C0449,Tienda de barrio,Oeste,R18,2023-10-11
+C0450,Tienda de barrio,Norte,R04,2016-01-23
+C0451,Kiosco,Centro,R23,2017-06-21
+C0452,Minimercado,Oeste,R20,2022-12-22
+C0453,Tienda de barrio,Norte,R01,2023-04-19
+C0454,Kiosco,Oeste,R18,2015-08-23
+C0455,Tienda de barrio,Oeste,R18,2023-06-12
+C0456,Kiosco,Este,R12,2022-07-09
+C0457,Tienda de barrio,Norte,R02,2024-06-30
+C0458,Kiosco,Este,R16,2024-07-04
+C0459,Mayorista,Norte,R03,2024-04-26
+C0460,Tienda de barrio,Sur,R10,2023-04-10
+C0461,Tienda de barrio,Sur,R07,2023-04-23
+C0462,Minimercado,Norte,R06,2021-11-13
+C0463,Tienda de barrio,Norte,R04,2021-12-01
+C0464,Tienda de barrio,Sur,R08,2024-07-09
+C0465,Tienda de barrio,Oeste,R17,2020-09-27
+C0466,Tienda de barrio,Norte,R03,2022-01-10
+C0467,Mayorista,Oeste,R19,2014-09-26
+C0468,Tienda de barrio,Este,R12,2018-05-10
+C0469,Kiosco,Norte,R05,2017-12-02
+C0470,Kiosco,Norte,R01,2022-04-08
+C0471,Kiosco,Sur,R07,2020-05-17
+C0472,Kiosco,Sur,R10,2015-04-01
+C0473,Kiosco,Oeste,R20,2022-05-19
+C0474,Tienda de barrio,Sur,R08,2024-06-02
+C0475,Mayorista,Centro,R24,2023-08-17
+C0476,Tienda de barrio,Sur,R08,2023-10-25
+C0477,Mayorista,Centro,R23,2015-03-20
+C0478,Tienda de barrio,Oeste,R19,2021-08-04
+C0479,Kiosco,Sur,R07,2018-02-16
+C0480,Kiosco,Este,R12,2024-07-22
+C0481,Tienda de barrio,Este,R16,2018-03-31
+C0482,Restaurante o pensión,Este,R13,2023-06-18
+C0483,Tienda de barrio,Oeste,R18,2024-09-22
+C0484,Minimercado,Este,R15,2022-10-12
+C0485,Tienda de barrio,Centro,R21,2024-03-08
+C0486,Tienda de barrio,Norte,R04,2024-03-27
+C0487,Restaurante o pensión,Oeste,R20,2024-01-05
+C0488,Kiosco,Este,R16,2023-12-21
+C0489,Tienda de barrio,Este,R12,2024-03-07
+C0490,Restaurante o pensión,Sur,R07,2021-02-10
+C0491,Restaurante o pensión,Sur,R08,2024-04-16
+C0492,Mayorista,Norte,R06,2018-08-05
+C0493,Minimercado,Este,R13,2023-04-23
+C0494,Restaurante o pensión,Sur,R11,2022-12-10
+C0495,Tienda de barrio,Oeste,R20,2023-12-07
+C0496,Tienda de barrio,Sur,R08,2024-01-26
+C0497,Restaurante o pensión,Sur,R09,2023-07-07
+C0498,Tienda de barrio,Oeste,R18,2024-05-13
+C0499,Tienda de barrio,Sur,R08,2011-11-04
+C0500,Restaurante o pensión,Centro,R21,2023-09-18
+C0501,Tienda de barrio,Sur,R09,2023-04-24
+C0502,Minimercado,Oeste,R20,2020-09-04
+C0503,Mayorista,Norte,R04,2022-07-15
+C0504,Tienda de barrio,Este,R15,2022-08-04
+C0505,Tienda de barrio,Este,R16,2022-02-03
+C0506,Tienda de barrio,Oeste,R17,2023-03-11
+C0507,Tienda de barrio,Norte,R04,2023-06-03
+C0508,Kiosco,Norte,R04,2020-10-18
+C0509,Tienda de barrio,Oeste,R20,2020-10-09
+C0510,Kiosco,Norte,R01,2021-05-04
+C0511,Tienda de barrio,Este,R12,2020-12-16
+C0512,Tienda de barrio,Norte,R05,2018-01-24
+C0513,Tienda de barrio,Norte,R01,2022-01-13
+C0514,Minimercado,Centro,R21,2024-07-27
+C0515,Restaurante o pensión,Este,R14,2024-01-04
+C0516,Minimercado,Norte,R02,2023-11-22
+C0517,Tienda de barrio,Centro,R21,2019-03-20
+C0518,Tienda de barrio,Centro,R22,2023-10-26
+C0519,Restaurante o pensión,Centro,R24,2019-08-06
+C0520,Restaurante o pensión,Sur,R10,2023-07-31
+C0521,Tienda de barrio,Sur,R10,2020-10-19
+C0522,Tienda de barrio,Norte,R06,2020-12-16
+C0523,Minimercado,Centro,R24,2019-09-16
+C0524,Kiosco,Centro,R24,2022-04-01
+C0525,Tienda de barrio,Sur,R08,2017-10-28
+C0526,Restaurante o pensión,Norte,R03,2019-11-08
+C0527,Tienda de barrio,Este,R15,2024-08-11
+C0528,Restaurante o pensión,Este,R15,2024-07-13
+C0529,Kiosco,Este,R15,2023-05-23
+C0530,Tienda de barrio,Este,R12,2023-06-25
+C0531,Kiosco,Centro,R22,2017-02-07
+C0532,Tienda de barrio,Centro,R23,2021-10-26
+C0533,Tienda de barrio,Centro,R23,2021-07-07
+C0534,Tienda de barrio,Centro,R22,2022-11-17
+C0535,Tienda de barrio,Este,R13,2023-09-19
+C0536,Tienda de barrio,Oeste,R17,2020-12-29
+C0537,Restaurante o pensión,Norte,R02,2023-08-22
+C0538,Tienda de barrio,Centro,R23,2023-05-23
+C0539,Minimercado,Oeste,R20,2024-09-22
+C0540,Tienda de barrio,Oeste,R19,2017-09-10
+C0541,Tienda de barrio,Norte,R06,2019-10-18
+C0542,Tienda de barrio,Norte,R01,2018-07-07
+C0543,Minimercado,Centro,R23,2023-01-31
+C0544,Mayorista,Norte,R06,2022-08-21
+C0545,Tienda de barrio,Centro,R21,2020-09-24
+C0546,Tienda de barrio,Centro,R24,2024-01-16
+C0547,Tienda de barrio,Este,R12,2019-02-18
+C0548,Kiosco,Este,R16,2015-05-20
+C0549,Tienda de barrio,Este,R12,2023-01-04
+C0550,Restaurante o pensión,Sur,R09,2018-06-05
+C0551,Tienda de barrio,Este,R12,2024-06-07
+C0552,Minimercado,Sur,R09,2021-03-12
+C0553,Restaurante o pensión,Norte,R02,2018-06-25
+C0554,Mayorista,Sur,R08,2024-09-09
+C0555,Tienda de barrio,Norte,R02,2022-03-26
+C0556,Tienda de barrio,Oeste,R18,2021-10-26
+C0557,Minimercado,Este,R13,2021-07-01
+C0558,Tienda de barrio,Sur,R10,2019-01-26
+C0559,Tienda de barrio,Norte,R06,2020-04-17
+C0560,Kiosco,Oeste,R17,2021-09-13
+C0561,Kiosco,Norte,R05,2024-04-03
+C0562,Kiosco,Oeste,R19,2023-05-31
+C0563,Tienda de barrio,Norte,R01,2019-08-22
+C0564,Kiosco,Sur,R09,2019-11-23
+C0565,Minimercado,Este,R14,2015-11-17
+C0566,Tienda de barrio,Centro,R22,2023-12-11
+C0567,Kiosco,Norte,R01,2022-08-02
+C0568,Kiosco,Norte,R06,2020-11-25
+C0569,Tienda de barrio,Sur,R10,2020-05-11
+C0570,Tienda de barrio,Norte,R04,2022-12-03
+C0571,Tienda de barrio,Este,R12,2023-12-20
+C0572,Minimercado,Oeste,R19,2019-11-20
+C0573,Minimercado,Norte,R03,2022-09-15
+C0574,Restaurante o pensión,Sur,R10,2017-12-18
+C0575,Tienda de barrio,Norte,R01,2021-09-13
+C0576,Minimercado,Norte,R02,2024-07-13
+C0577,Tienda de barrio,Centro,R21,2024-05-09
+C0578,Kiosco,Sur,R09,2022-04-09
+C0579,Tienda de barrio,Oeste,R19,2020-09-22
+C0580,Kiosco,Este,R13,2024-08-03
+C0581,Tienda de barrio,Norte,R03,2024-05-11
+C0582,Kiosco,Norte,R05,2024-06-23
+C0583,Restaurante o pensión,Norte,R05,2023-07-04
+C0584,Kiosco,Este,R15,2023-12-13
+C0585,Mayorista,Este,R12,2023-05-11
+C0586,Tienda de barrio,Centro,R22,2022-12-20
+C0587,Kiosco,Norte,R01,2024-08-08
+C0588,Restaurante o pensión,Sur,R08,2023-12-27
+C0589,Restaurante o pensión,Sur,R10,2023-09-20
+C0590,Tienda de barrio,Centro,R21,2024-06-21
+C0591,Tienda de barrio,Este,R12,2018-03-23
+C0592,Tienda de barrio,Sur,R07,2024-03-18
+C0593,Kiosco,Este,R14,2022-06-08
+C0594,Restaurante o pensión,Sur,R10,2021-04-01
+C0595,Minimercado,Centro,R23,2021-04-30
+C0596,Kiosco,Centro,R21,2024-04-14
+C0597,Kiosco,Norte,R02,2017-02-26
+C0598,Tienda de barrio,Sur,R08,2020-01-15
+C0599,Tienda de barrio,Norte,R04,2023-01-18
+C0600,Tienda de barrio,Norte,R01,2021-03-18
+C0601,Restaurante o pensión,Norte,R02,2020-03-31
+C0602,Tienda de barrio,Sur,R09,2023-09-21
+C0603,Tienda de barrio,Centro,R24,2022-01-01
+C0604,Tienda de barrio,Oeste,R20,2024-01-03
+C0605,Tienda de barrio,Oeste,R18,2023-09-15
+C0606,Tienda de barrio,Este,R13,2023-10-16
+C0607,Tienda de barrio,Este,R12,2017-12-17
+C0608,Tienda de barrio,Centro,R24,2020-11-21
+C0609,Tienda de barrio,Norte,R04,2021-05-18
+C0610,Tienda de barrio,Sur,R10,2024-08-01
+C0611,Tienda de barrio,Norte,R02,2022-08-16
+C0612,Tienda de barrio,Centro,R24,2020-09-20
+C0613,Minimercado,Sur,R09,2023-04-02
+C0614,Tienda de barrio,Centro,R24,2021-09-18
+C0615,Tienda de barrio,Oeste,R18,2023-04-21
+C0616,Restaurante o pensión,Norte,R06,2024-07-11
+C0617,Tienda de barrio,Oeste,R17,2022-03-19
+C0618,Tienda de barrio,Oeste,R20,2020-07-15
+C0619,Minimercado,Sur,R09,2022-02-24
+C0620,Minimercado,Oeste,R17,2022-10-21
+C0621,Kiosco,Sur,R11,2018-07-31
+C0622,Minimercado,Este,R12,2019-06-08
+C0623,Tienda de barrio,Este,R14,2023-08-27
+C0624,Minimercado,Sur,R11,2022-10-07
+C0625,Tienda de barrio,Oeste,R17,2022-01-05
+C0626,Minimercado,Sur,R11,2024-01-13
+C0627,Restaurante o pensión,Norte,R03,2021-10-16
+C0628,Tienda de barrio,Norte,R01,2024-09-14
+C0629,Mayorista,Oeste,R18,2021-06-25
+C0630,Tienda de barrio,Centro,R24,2018-01-19
+C0631,Minimercado,Centro,R24,2023-10-21
+C0632,Tienda de barrio,Norte,R03,2015-11-19
+C0633,Kiosco,Este,R12,2022-08-01
+C0634,Minimercado,Este,R15,2023-05-22
+C0635,Tienda de barrio,Centro,R21,2019-12-07
+C0636,Mayorista,Norte,R03,2019-04-27
+C0637,Kiosco,Norte,R02,2024-05-28
+C0638,Minimercado,Oeste,R20,2024-06-05
+C0639,Tienda de barrio,Oeste,R18,2021-07-13
+C0640,Tienda de barrio,Centro,R24,2023-12-28
+C0641,Tienda de barrio,Sur,R07,2021-06-13
+C0642,Restaurante o pensión,Sur,R07,2024-05-13
+C0643,Tienda de barrio,Este,R16,2013-11-17
+C0644,Mayorista,Este,R14,2019-06-07
+C0645,Tienda de barrio,Norte,R06,2022-04-01
+C0646,Tienda de barrio,Este,R13,2024-09-20
+C0647,Tienda de barrio,Oeste,R17,2024-07-07
+C0648,Tienda de barrio,Sur,R11,2023-03-30
+C0649,Tienda de barrio,Sur,R08,2015-12-30
+C0650,Kiosco,Oeste,R19,2022-07-06
+C0651,Tienda de barrio,Este,R15,2023-02-12
+C0652,Tienda de barrio,Este,R12,2024-05-02
+C0653,Minimercado,Centro,R21,2024-09-28
+C0654,Minimercado,Norte,R03,2020-08-20
+C0655,Tienda de barrio,Sur,R11,2021-09-20
+C0656,Tienda de barrio,Este,R13,2024-06-05
+C0657,Mayorista,Norte,R04,2023-11-08
+C0658,Minimercado,Centro,R24,2020-12-11
+C0659,Kiosco,Norte,R06,2022-07-20
+C0660,Kiosco,Centro,R24,2020-12-24
+C0661,Kiosco,Centro,R22,2021-06-27
+C0662,Tienda de barrio,Este,R16,2022-08-16
+C0663,Restaurante o pensión,Sur,R08,2024-04-08
+C0664,Minimercado,Este,R15,2023-09-25
+C0665,Kiosco,Norte,R02,2021-08-07
+C0666,Kiosco,Norte,R06,2023-08-25
+C0667,Tienda de barrio,Oeste,R19,2023-03-25
+C0668,Restaurante o pensión,Este,R12,2020-06-21
+C0669,Tienda de barrio,Centro,R23,2024-06-22
+C0670,Restaurante o pensión,Oeste,R20,2022-09-17
+C0671,Tienda de barrio,Este,R16,2023-09-06
+C0672,Tienda de barrio,Centro,R23,2022-11-12
+C0673,Kiosco,Centro,R24,2022-07-24
+C0674,Kiosco,Sur,R07,2024-07-09
+C0675,Minimercado,Centro,R21,2023-02-08
+C0676,Tienda de barrio,Este,R15,2023-10-05
+C0677,Restaurante o pensión,Norte,R03,2023-11-12
+C0678,Tienda de barrio,Sur,R08,2021-02-16
+C0679,Tienda de barrio,Este,R15,2024-06-28
+C0680,Minimercado,Este,R15,2021-12-24
+C0681,Tienda de barrio,Este,R13,2023-10-05
+C0682,Tienda de barrio,Sur,R10,2024-07-21
+C0683,Tienda de barrio,Sur,R10,2018-11-02
+C0684,Mayorista,Sur,R08,2021-08-11
+C0685,Kiosco,Oeste,R18,2021-03-03
+C0686,Tienda de barrio,Centro,R24,2024-06-12
+C0687,Restaurante o pensión,Norte,R03,2020-11-28
+C0688,Tienda de barrio,Este,R14,2020-08-03
+C0689,Kiosco,Norte,R02,2023-10-06
+C0690,Minimercado,Sur,R11,2023-06-23
+C0691,Minimercado,Este,R14,2024-07-17
+C0692,Kiosco,Norte,R04,2024-04-05
+C0693,Tienda de barrio,Sur,R08,2021-07-10
+C0694,Restaurante o pensión,Norte,R04,2024-02-25
+C0695,Minimercado,Sur,R08,2021-07-14
+C0696,Kiosco,Oeste,R20,2021-12-08
+C0697,Tienda de barrio,Centro,R24,2024-05-16
+C0698,Mayorista,Norte,R01,2022-02-27
+C0699,Kiosco,Este,R14,2023-01-08
+C0700,Restaurante o pensión,Norte,R01,2024-02-12
+C0701,Tienda de barrio,Oeste,R18,2018-07-01
+C0702,Mayorista,Sur,R08,2024-01-10
+C0703,Kiosco,Este,R15,2020-04-05
+C0704,Kiosco,Sur,R09,2024-05-02
+C0705,Kiosco,Norte,R01,2018-10-27
+C0706,Tienda de barrio,Este,R12,2022-07-12
+C0707,Kiosco,Norte,R02,2021-07-24
+C0708,Tienda de barrio,Este,R16,2023-02-09
+C0709,Tienda de barrio,Centro,R21,2022-12-04
+C0710,Kiosco,Sur,R09,2024-09-09
+C0711,Mayorista,Este,R15,2024-04-14
+C0712,Kiosco,Norte,R01,2016-05-12
+C0713,Minimercado,Sur,R10,2021-03-06
+C0714,Minimercado,Norte,R04,2023-09-15
+C0715,Mayorista,Este,R13,2019-02-23
+C0716,Tienda de barrio,Norte,R02,2024-03-06
+C0717,Tienda de barrio,Sur,R10,2023-07-22
+C0718,Tienda de barrio,Norte,R01,2020-12-08
+C0719,Minimercado,Norte,R04,2018-01-13
+C0720,Tienda de barrio,Centro,R22,2021-02-21
+C0721,Kiosco,Centro,R21,2022-09-27
+C0722,Minimercado,Norte,R06,2012-06-10
+C0723,Tienda de barrio,Este,R16,2022-05-15
+C0724,Tienda de barrio,Centro,R23,2024-02-13
+C0725,Tienda de barrio,Norte,R06,2023-07-27
+C0726,Restaurante o pensión,Centro,R24,2014-11-04
+C0727,Restaurante o pensión,Este,R16,2022-10-04
+C0728,Minimercado,Sur,R09,2020-09-27
+C0729,Minimercado,Norte,R04,2021-07-09
+C0730,Tienda de barrio,Centro,R21,2023-08-22
+C0731,Tienda de barrio,Este,R12,2023-11-09
+C0732,Tienda de barrio,Este,R16,2020-07-08
+C0733,Tienda de barrio,Norte,R05,2022-12-24
+C0734,Restaurante o pensión,Oeste,R18,2023-04-30
+C0735,Tienda de barrio,Oeste,R19,2024-02-10
+C0736,Tienda de barrio,Oeste,R19,2024-03-14
+C0737,Kiosco,Este,R13,2023-09-17
+C0738,Tienda de barrio,Norte,R01,2021-03-04
+C0739,Kiosco,Centro,R24,2021-02-16
+C0740,Tienda de barrio,Este,R12,2023-08-07
+C0741,Restaurante o pensión,Norte,R06,2020-06-03
+C0742,Tienda de barrio,Oeste,R17,2022-01-01
+C0743,Tienda de barrio,Norte,R05,2024-05-31
+C0744,Tienda de barrio,Sur,R07,2012-08-15
+C0745,Kiosco,Sur,R08,2013-07-05
+C0746,Restaurante o pensión,Norte,R02,2018-06-26
+C0747,Tienda de barrio,Norte,R03,2023-08-13
+C0748,Minimercado,Centro,R23,2021-05-23
+C0749,Tienda de barrio,Este,R15,2022-07-14
+C0750,Tienda de barrio,Este,R12,2020-06-16
+C0751,Tienda de barrio,Sur,R11,2021-12-09
+C0752,Tienda de barrio,Norte,R01,2019-11-03
+C0753,Tienda de barrio,Sur,R09,2023-10-20
+C0754,Minimercado,Oeste,R17,2017-11-11
+C0755,Tienda de barrio,Centro,R21,2011-11-13
+C0756,Tienda de barrio,Este,R14,2022-10-28
+C0757,Kiosco,Oeste,R20,2024-01-28
+C0758,Restaurante o pensión,Oeste,R20,2023-05-24
+C0759,Tienda de barrio,Sur,R10,2019-05-23
+C0760,Tienda de barrio,Norte,R05,2016-03-04
+C0761,Minimercado,Este,R12,2015-11-15
+C0762,Tienda de barrio,Norte,R01,2023-11-18
+C0763,Tienda de barrio,Sur,R08,2023-02-19
+C0764,Minimercado,Oeste,R19,2023-02-11
+C0765,Tienda de barrio,Norte,R04,2018-05-01
+C0766,Tienda de barrio,Oeste,R18,2023-03-02
+C0767,Kiosco,Norte,R01,2024-05-15
+C0768,Restaurante o pensión,Este,R13,2023-12-02
+C0770,Minimercado,Oeste,R20,2023-07-08
+C0771,Minimercado,Este,R16,2024-03-25
+C0772,Kiosco,Norte,R05,2024-07-01
+C0773,Tienda de barrio,Norte,R04,2023-11-09
+C0774,Tienda de barrio,Centro,R24,2024-03-07
+C0775,Tienda de barrio,Norte,R04,2023-05-07
+C0776,Minimercado,Oeste,R20,2019-07-07
+C0777,Restaurante o pensión,Sur,R08,2022-02-05
+C0778,Kiosco,Oeste,R17,2022-08-09
+C0779,Tienda de barrio,Oeste,R20,2019-01-12
+C0780,Minimercado,Oeste,R18,2021-11-14
+C0781,Tienda de barrio,Sur,R11,2018-12-20
+C0782,Kiosco,Sur,R09,2016-08-28
+C0783,Minimercado,Norte,R04,2017-03-17
+C0784,Tienda de barrio,Centro,R21,2024-07-19
+C0785,Restaurante o pensión,Oeste,R17,2022-01-15
+C0786,Tienda de barrio,Centro,R24,2020-11-05
+C0787,Minimercado,Norte,R04,2021-05-29
+C0788,Minimercado,Este,R14,2023-02-07
+C0789,Kiosco,Norte,R02,2023-09-12
+C0790,Kiosco,Norte,R01,2022-03-15
+C0791,Tienda de barrio,Este,R13,2024-08-13
+C0792,Tienda de barrio,Oeste,R19,2020-11-16
+C0793,Minimercado,Centro,R22,2021-10-10
+C0794,Tienda de barrio,Oeste,R19,2016-04-25
+C0795,Restaurante o pensión,Centro,R23,2023-10-24
+C0796,Kiosco,Sur,R11,2018-05-08
+C0797,Restaurante o pensión,Norte,R01,2022-06-08
+C0798,Tienda de barrio,Oeste,R19,2020-12-07
+C0799,Kiosco,Oeste,R18,2022-05-31
+C0800,Tienda de barrio,Oeste,R20,2024-07-07
+C0801,Restaurante o pensión,Centro,R24,2024-05-24
+C0802,Kiosco,Sur,R09,2024-08-06
+C0803,Tienda de barrio,Sur,R08,2023-05-13
+C0804,Restaurante o pensión,Sur,R08,2022-01-24
+C0805,Mayorista,Este,R16,2024-04-26
+C0806,Tienda de barrio,Oeste,R17,2017-12-29
+C0807,Tienda de barrio,Norte,R02,2019-11-17
+C0808,Restaurante o pensión,Sur,R07,2023-12-17
+C0809,Tienda de barrio,Norte,R06,2024-08-25
+C0810,Mayorista,Norte,R06,2023-07-13
+C0811,Tienda de barrio,Sur,R09,2021-05-12
+C0812,Tienda de barrio,Oeste,R17,2024-08-16
+C0813,Restaurante o pensión,Centro,R23,2022-11-12
+C0814,Tienda de barrio,Sur,R11,2017-06-02
+C0815,Minimercado,Sur,R07,2024-04-10
+C0816,Kiosco,Centro,R21,2021-08-07
+C0817,Tienda de barrio,Norte,R06,2023-05-16
+C0818,Restaurante o pensión,Este,R14,2015-06-14
+C0819,Kiosco,Este,R13,2021-07-08
+C0820,Kiosco,Oeste,R19,2022-06-23
+C0821,Minimercado,Centro,R21,2017-02-05
+C0822,Tienda de barrio,Sur,R10,2023-06-14
+C0823,Kiosco,Este,R15,2020-08-07
+C0824,Tienda de barrio,Oeste,R20,2024-02-20
+C0825,Restaurante o pensión,Norte,R05,2024-07-10
+C0826,Tienda de barrio,Norte,R05,2021-12-15
+C0827,Tienda de barrio,Centro,R24,2024-08-05
+C0828,Minimercado,Oeste,R17,2023-09-22
+C0829,Restaurante o pensión,Centro,R21,2015-06-28
+C0830,Tienda de barrio,Centro,R24,2023-11-12
+C0831,Tienda de barrio,Este,R14,2024-05-07
+C0832,Tienda de barrio,Este,R15,2023-08-09
+C0833,Tienda de barrio,Centro,R23,2017-10-05
+C0834,Restaurante o pensión,Sur,R07,2024-06-03
+C0835,Minimercado,Oeste,R19,2020-11-01
+C0836,Tienda de barrio,Oeste,R18,2022-03-24
+C0837,Minimercado,Sur,R10,2019-02-04
+C0838,Kiosco,Oeste,R20,2023-12-30
+C0839,Mayorista,Norte,R04,2023-05-29
+C0840,Kiosco,Norte,R01,2021-12-05
+C0841,Tienda de barrio,Centro,R21,2021-12-27
+C0842,Tienda de barrio,Oeste,R17,2011-05-19
+C0843,Tienda de barrio,Centro,R24,2020-07-04
+C0844,Tienda de barrio,Sur,R08,2022-10-15
+C0845,Tienda de barrio,Oeste,R17,2024-06-09
+C0846,Minimercado,Este,R12,2024-07-13
+C0847,Tienda de barrio,Oeste,R20,2022-11-05
+C0848,Tienda de barrio,Sur,R10,2021-08-09
+C0849,Kiosco,Este,R13,2022-05-12
+C0850,Restaurante o pensión,Centro,R24,2023-03-04
+C0851,Tienda de barrio,Oeste,R19,2021-09-20
+C0852,Tienda de barrio,Norte,R05,2024-02-23
+C0853,Tienda de barrio,Sur,R11,2021-05-21
+C0854,Minimercado,Norte,R02,2022-04-01
+C0855,Minimercado,Este,R15,2021-01-29
+C0856,Mayorista,Este,R16,2023-10-14
+C0857,Kiosco,Sur,R10,2019-01-28
+C0858,Tienda de barrio,Este,R14,2015-01-13
+C0859,Mayorista,Sur,R11,2023-06-10
+C0860,Tienda de barrio,Norte,R01,2023-02-24
+C0861,Tienda de barrio,Centro,R24,2021-08-25
+C0862,Minimercado,Centro,R22,2015-10-18
+C0863,Mayorista,Este,R15,2022-05-25
+C0864,Kiosco,Norte,R03,2018-08-18
+C0865,Minimercado,Sur,R10,2019-02-07
+C0866,Tienda de barrio,Oeste,R18,2017-05-02
+C0867,Restaurante o pensión,Este,R15,2024-07-12
+C0868,Restaurante o pensión,Sur,R11,2021-02-05
+C0869,Tienda de barrio,Este,R12,2012-08-09
+C0870,Mayorista,Oeste,R17,2021-11-24
+C0871,Kiosco,Norte,R03,2023-08-17
+C0872,Mayorista,Norte,R05,2018-07-08
+C0873,Minimercado,Oeste,R19,2023-09-03
+C0874,Tienda de barrio,Este,R14,2020-04-20
+C0875,Tienda de barrio,Centro,R22,2020-02-09
+C0876,Tienda de barrio,Oeste,R18,2018-07-31
+C0877,Restaurante o pensión,Norte,R06,2023-09-02
+C0878,Minimercado,Oeste,R19,2024-01-14
+C0879,Tienda de barrio,Centro,R24,2020-03-05
+C0880,Mayorista,Sur,R08,2022-09-07
+C0881,Tienda de barrio,Centro,R21,2018-09-22
+C0882,Tienda de barrio,Centro,R21,2024-01-23
+C0883,Kiosco,Norte,R06,2023-12-17
+C0884,Minimercado,Centro,R23,2024-03-31
+C0885,Tienda de barrio,Centro,R22,2024-08-17
+C0886,Minimercado,Sur,R11,2022-04-17
+C0887,Tienda de barrio,Centro,R22,2019-10-03
+C0888,Tienda de barrio,Este,R14,2022-08-10
+C0889,Tienda de barrio,Centro,R24,2016-04-20
+C0890,Restaurante o pensión,Este,R12,2022-10-24
+C0891,Tienda de barrio,Norte,R04,2024-06-11
+C0892,Minimercado,Oeste,R20,2023-10-15
+C0893,Tienda de barrio,Sur,R09,2019-12-13
+C0894,Tienda de barrio,Norte,R03,2023-04-22
+C0895,Tienda de barrio,Este,R12,2022-04-25
+C0896,Kiosco,Oeste,R20,2023-06-22
+C0897,Restaurante o pensión,Sur,R09,2018-07-11
+C0898,Tienda de barrio,Norte,R06,2023-06-03
+C0899,Restaurante o pensión,Norte,R02,2020-07-19
+C0900,Tienda de barrio,Este,R14,2024-08-30
+C0901,Tienda de barrio,Este,R13,2022-06-01
+C0902,Tienda de barrio,Oeste,R20,2018-06-26
+C0903,Tienda de barrio,Este,R13,2023-04-10
+C0904,Tienda de barrio,Este,R15,2024-09-13
+C0905,Kiosco,Norte,R05,2020-01-16
+C0906,Kiosco,Oeste,R17,2024-07-23
+C0907,Minimercado,Oeste,R20,2023-05-04
+C0908,Tienda de barrio,Oeste,R20,2021-07-27
+C0909,Minimercado,Sur,R07,2023-09-08
+C0910,Tienda de barrio,Centro,R23,2024-03-25
+C0911,Tienda de barrio,Oeste,R18,2021-05-21
+C0912,Tienda de barrio,Sur,R11,2024-05-07
+C0913,Tienda de barrio,Este,R16,2023-12-06
+C0914,Kiosco,Centro,R24,2023-05-07
+C0915,Tienda de barrio,Norte,R03,2021-04-15
+C0916,Restaurante o pensión,Este,R12,2019-09-16
+C0917,Mayorista,Centro,R24,2024-09-11
+C0918,Restaurante o pensión,Sur,R08,2020-10-26
+C0919,Tienda de barrio,Este,R13,2010-07-12
+C0920,Tienda de barrio,Norte,R01,2015-09-06
+C0921,Tienda de barrio,Norte,R01,2021-09-04
+C0922,Restaurante o pensión,Oeste,R19,2023-11-30
+C0923,Kiosco,Norte,R01,2022-03-03
+C0924,Tienda de barrio,Este,R16,2019-11-11
+C0925,Minimercado,Norte,R01,2020-02-09
+C0926,Tienda de barrio,Este,R15,2024-04-07
+C0927,Mayorista,Centro,R21,2022-11-29
+C0928,Restaurante o pensión,Centro,R24,2024-08-15
+C0929,Kiosco,Este,R15,2024-04-24
+C0930,Minimercado,Este,R14,2021-12-26
+C0931,Kiosco,Este,R16,2021-04-11
+C0932,Tienda de barrio,Oeste,R20,2022-02-07
+C0933,Restaurante o pensión,Oeste,R19,2022-12-22
+C0934,Restaurante o pensión,Oeste,R20,2019-08-23
+C0935,Restaurante o pensión,Este,R16,2023-02-23
+C0936,Minimercado,Sur,R11,2024-05-20
+C0937,Mayorista,Este,R15,2023-02-25
+C0938,Mayorista,Oeste,R17,2024-08-20
+C0939,Minimercado,Este,R14,2024-07-29
+C0940,Tienda de barrio,Norte,R04,2024-02-13
+C0941,Minimercado,Norte,R02,2024-09-11
+C0942,Mayorista,Oeste,R20,2019-07-04
+C0943,Mayorista,Norte,R01,2018-11-25
+C0944,Minimercado,Este,R13,2022-10-24
+C0945,Minimercado,Sur,R11,2018-04-23
+C0946,Restaurante o pensión,Sur,R07,2021-01-08
+C0947,Restaurante o pensión,Sur,R10,2021-12-08
+C0948,Mayorista,Sur,R08,2021-04-21
+C0949,Minimercado,Este,R14,2022-10-28
+C0950,Tienda de barrio,Norte,R06,2014-11-05
+C0951,Minimercado,Este,R12,2024-06-11
+C0952,Kiosco,Norte,R02,2023-08-03
+C0953,Minimercado,Centro,R23,2024-03-11
+C0954,Minimercado,Oeste,R18,2015-02-12
+C0955,Tienda de barrio,Norte,R04,2021-07-25
+C0956,Kiosco,Centro,R23,2024-06-20
+C0957,Restaurante o pensión,Norte,R03,2024-08-10
+C0958,Tienda de barrio,Oeste,R18,2023-03-30
+C0959,Tienda de barrio,Norte,R04,2022-07-14
+C0960,Tienda de barrio,Norte,R03,2023-12-11
+C0961,Tienda de barrio,Oeste,R18,2022-06-05
+C0962,Minimercado,Sur,R07,2022-03-12
+C0963,Mayorista,Oeste,R18,2021-11-12
+C0964,Tienda de barrio,Centro,R21,2022-09-21
+C0965,Restaurante o pensión,Norte,R01,2022-06-28
+C0966,Mayorista,Sur,R08,2024-05-26
+C0967,Restaurante o pensión,Norte,R02,2024-09-08
+C0968,Tienda de barrio,Norte,R03,2023-08-17
+C0969,Tienda de barrio,Sur,R10,2023-04-26
+C0970,Restaurante o pensión,Centro,R23,2021-09-12
+C0971,Restaurante o pensión,Norte,R02,2020-08-07
+C0972,Restaurante o pensión,Oeste,R19,2014-05-03
+C0973,Tienda de barrio,Oeste,R17,2023-05-16
+C0974,Tienda de barrio,Sur,R09,2024-06-25
+C0975,Tienda de barrio,Este,R16,2024-07-29
+C0976,Minimercado,Norte,R02,2023-12-26
+C0977,Minimercado,Este,R13,2021-06-22
+C0978,Tienda de barrio,Oeste,R20,2012-10-25
+C0979,Minimercado,Oeste,R20,2024-06-18
+C0980,Tienda de barrio,Este,R15,2024-09-03
+C0981,Tienda de barrio,Sur,R10,2020-08-09
+C0982,Tienda de barrio,Sur,R07,2021-03-11
+C0983,Minimercado,Este,R14,2021-08-02
+C0984,Minimercado,Este,R15,2022-08-19
+C0985,Tienda de barrio,Oeste,R20,2023-01-19
+C0986,Kiosco,Centro,R22,2021-05-25
+C0987,Tienda de barrio,Sur,R10,2023-05-30
+C0988,Mayorista,Norte,R03,2023-02-03
+C0989,Mayorista,Oeste,R18,2024-03-05
+C0990,Minimercado,Centro,R22,2018-11-26
+C0991,Restaurante o pensión,Centro,R23,2020-04-22
+C0992,Tienda de barrio,Centro,R23,2021-07-29
+C0993,Kiosco,Centro,R21,2023-09-28
+C0994,Minimercado,Oeste,R18,2015-08-18
+C0995,Tienda de barrio,Este,R16,2022-11-06
+C0996,Restaurante o pensión,Norte,R04,2024-07-15
+C0997,Tienda de barrio,Centro,R22,2022-11-13
+C0998,Tienda de barrio,Sur,R09,2023-05-21
+C0999,Tienda de barrio,Centro,R22,2020-09-12
+C1000,Tienda de barrio,Este,R16,2023-09-14
+C1001,Kiosco,Oeste,R19,2021-04-14
+C1002,Tienda de barrio,Sur,R11,2020-12-21
+C1003,Mayorista,Centro,R22,2023-03-02
+C1004,Tienda de barrio,Norte,R04,2024-03-14
+C1005,Mayorista,Norte,R06,2023-11-18
+C1006,Tienda de barrio,Centro,R23,2024-01-11
+C1007,Tienda de barrio,Centro,R23,2019-07-25
+C1008,Tienda de barrio,Sur,R11,2016-10-24
+C1009,Kiosco,Este,R15,2024-04-08
+C1010,Minimercado,Centro,R22,2021-11-24
+C1011,Restaurante o pensión,Norte,R04,2020-09-14
+C1012,Mayorista,Oeste,R20,2011-11-17
+C1013,Tienda de barrio,Este,R12,2016-03-25
+C1014,Kiosco,Sur,R10,2024-01-31
+C1015,Tienda de barrio,Norte,R03,2024-06-13
+C1016,Restaurante o pensión,Norte,R02,2023-05-22
+C1017,Tienda de barrio,Norte,R01,2023-11-09
+C1018,Tienda de barrio,Norte,R03,2022-09-29
+C1019,Kiosco,Norte,R04,2023-05-02
+C1020,Tienda de barrio,Este,R14,2020-11-21
+C1021,Tienda de barrio,Norte,R02,2022-11-20
+C1022,Tienda de barrio,Este,R12,2019-10-10
+C1023,Tienda de barrio,Centro,R22,2022-08-30
+C1024,Restaurante o pensión,Oeste,R17,2023-04-21
+C1025,Tienda de barrio,Centro,R24,2022-01-03
+C1026,Tienda de barrio,Sur,R09,2021-12-25
+C1027,Mayorista,Norte,R02,2017-09-27
+C1028,Tienda de barrio,Norte,R03,2023-12-08
+C1029,Minimercado,Sur,R11,2018-11-30
+C1030,Kiosco,Oeste,R19,2021-03-02
+C1031,Minimercado,Sur,R11,2022-06-21
+C1032,Kiosco,Centro,R24,2023-05-29
+C1033,Minimercado,Sur,R09,2021-09-29
+C1034,Tienda de barrio,Sur,R07,2024-01-23
+C1035,Tienda de barrio,Norte,R02,2023-04-26
+C1036,Tienda de barrio,Norte,R02,2020-12-07
+C1037,Restaurante o pensión,Centro,R21,2017-01-20
+C1038,Kiosco,Norte,R05,2023-03-09
+C1039,Tienda de barrio,Centro,R22,2018-07-02
+C1040,Tienda de barrio,Norte,R02,2023-01-04
+C1041,Kiosco,Norte,R03,2024-05-13
+C1042,Minimercado,Norte,R02,2024-05-23
+C1043,Tienda de barrio,Centro,R21,2024-01-24
+C1044,Kiosco,Centro,R24,2022-08-01
+C1045,Mayorista,Norte,R05,2023-09-20
+C1046,Restaurante o pensión,Centro,R21,2024-07-12
+C1047,Restaurante o pensión,Norte,R03,2020-07-16
+C1048,Tienda de barrio,Este,R15,2018-05-07
+C1049,Tienda de barrio,Sur,R07,2016-04-06
+C1050,Minimercado,Centro,R24,2020-07-23
+C1051,Minimercado,Este,R14,2012-05-13
+C1052,Tienda de barrio,Centro,R23,2024-03-09
+C1053,Tienda de barrio,Centro,R24,2023-09-06
+C1054,Tienda de barrio,Norte,R05,2014-06-27
+C1055,Tienda de barrio,Oeste,R20,2021-10-12
+C1056,Minimercado,Norte,R01,2024-06-09
+C1057,Tienda de barrio,Este,R14,2023-07-19
+C1058,Minimercado,Este,R12,2023-01-25
+C1059,Kiosco,Norte,R02,2012-06-07
+C1060,Tienda de barrio,Este,R14,2024-05-23
+C1061,Minimercado,Norte,R05,2022-02-06
+C1062,Tienda de barrio,Centro,R24,2022-01-23
+C1063,Tienda de barrio,Centro,R24,2023-06-09
+C1064,Minimercado,Centro,R24,2021-05-20
+C1065,Kiosco,Oeste,R18,2018-08-06
+C1066,Tienda de barrio,Norte,R03,2021-12-02
+C1067,Tienda de barrio,Norte,R01,2021-09-03
+C1068,Tienda de barrio,Oeste,R20,2022-02-23
+C1069,Kiosco,Centro,R22,2018-11-16
+C1070,Kiosco,Oeste,R20,2016-05-01
+C1071,Kiosco,Oeste,R18,2019-04-15
+C1072,Kiosco,Oeste,R19,2020-09-12
+C1073,Tienda de barrio,Centro,R24,2022-10-14
+C1074,Tienda de barrio,Norte,R01,2023-05-18
+C1075,Kiosco,Norte,R02,2015-10-31
+C1076,Minimercado,Oeste,R18,2019-02-28
+C1077,Tienda de barrio,Centro,R23,2021-11-20
+C1078,Tienda de barrio,Norte,R06,2019-04-19
+C1079,Tienda de barrio,Norte,R03,2023-05-19
+C1080,Restaurante o pensión,Sur,R11,2011-01-12
+C1081,Kiosco,Norte,R01,2024-08-12
+C1082,Tienda de barrio,Centro,R24,2015-04-01
+C1083,Tienda de barrio,Sur,R11,2021-06-29
+C1084,Restaurante o pensión,Norte,R03,2023-09-07
+C1085,Minimercado,Oeste,R18,2020-02-03
+C1086,Kiosco,Sur,R11,2022-12-12
+C1087,Kiosco,Oeste,R19,2022-02-06
+C1088,Tienda de barrio,Este,R15,2015-03-22
+C1089,Restaurante o pensión,Norte,R03,2014-01-23
+C1090,Restaurante o pensión,Oeste,R20,2022-09-21
+C1091,Tienda de barrio,Este,R13,2021-05-09
+C1092,Minimercado,Norte,R05,2012-10-18
+C1093,Restaurante o pensión,Este,R13,2022-02-20
+C1094,Restaurante o pensión,Oeste,R19,2023-02-19
+C1095,Tienda de barrio,Centro,R21,2021-11-08
+C1096,Tienda de barrio,Centro,R21,2023-10-27
+C1097,Tienda de barrio,Centro,R21,2024-06-07
+C1098,Tienda de barrio,Oeste,R17,2024-06-02
+C1099,Tienda de barrio,Norte,R01,2016-05-20
+C1100,Mayorista,Sur,R11,2024-08-08
+C1101,Restaurante o pensión,Norte,R01,2021-03-23
+C1102,Restaurante o pensión,Sur,R11,2024-09-30
+C1103,Minimercado,Centro,R22,2022-03-10
+C1104,Tienda de barrio,Norte,R06,2023-07-02
+C1105,Kiosco,Centro,R23,2015-03-03
+C1106,Restaurante o pensión,Norte,R03,2021-07-10
+C1107,Restaurante o pensión,Sur,R07,2024-07-04
+C1108,Tienda de barrio,Oeste,R20,2023-03-24
+C1109,Tienda de barrio,Sur,R09,2021-07-17
+C1110,Minimercado,Sur,R10,2021-02-03
+C1111,Kiosco,Oeste,R20,2020-04-08
+C1112,Kiosco,Este,R15,2022-09-03
+C1113,Tienda de barrio,Oeste,R19,2024-05-24
+C1114,Restaurante o pensión,Este,R15,2024-03-15
+C1115,Minimercado,Norte,R03,2024-02-15
+C1116,Tienda de barrio,Este,R13,2016-06-10
+C1117,Tienda de barrio,Centro,R21,2024-01-26
+C1118,Minimercado,Norte,R04,2024-04-05
+C1119,Tienda de barrio,Sur,R07,2022-06-28
+C1120,Minimercado,Sur,R11,2024-04-18
+C1121,Tienda de barrio,Norte,R01,2018-01-05
+C1122,Minimercado,Oeste,R17,2023-11-16
+C1123,Restaurante o pensión,Oeste,R19,2022-11-29
+C1124,Kiosco,Norte,R03,2020-12-11
+C1125,Tienda de barrio,Sur,R08,2019-07-08
+C1126,Minimercado,Norte,R03,2022-10-20
+C1127,Restaurante o pensión,Este,R16,2024-02-05
+C1128,Tienda de barrio,Norte,R02,2018-06-18
+C1129,Tienda de barrio,Norte,R03,2017-01-22
+C1130,Restaurante o pensión,Norte,R05,2021-08-12
+C1131,Restaurante o pensión,Sur,R08,2023-04-05
+C1132,Tienda de barrio,Sur,R07,2020-01-31
+C1133,Tienda de barrio,Este,R12,2024-03-07
+C1134,Restaurante o pensión,Oeste,R20,2023-10-10
+C1135,Kiosco,Centro,R23,2023-08-05
+C1136,Minimercado,Norte,R04,2024-07-22
+C1137,Tienda de barrio,Norte,R05,2024-04-24
+C1138,Minimercado,Oeste,R17,2023-11-12
+C1139,Tienda de barrio,Sur,R10,2022-09-18
+C1140,Tienda de barrio,Centro,R23,2024-05-14
+C1141,Tienda de barrio,Sur,R07,2022-08-08
+C1142,Minimercado,Este,R12,2023-11-04
+C1143,Tienda de barrio,Centro,R21,2024-05-19
+C1144,Tienda de barrio,Este,R15,2022-06-26
+C1145,Minimercado,Centro,R24,2023-10-31
+C1146,Tienda de barrio,Este,R12,2010-02-10
+C1147,Minimercado,Oeste,R20,2023-09-16
+C1148,Tienda de barrio,Oeste,R18,2012-08-26
+C1149,Kiosco,Sur,R07,2023-09-02
+C1150,Minimercado,Sur,R11,2024-01-04
+C1151,Restaurante o pensión,Sur,R09,2024-10-02
+C1152,Kiosco,Norte,R02,2024-10-27
+C1153,Tienda de barrio,Norte,R05,2024-10-02
+C1154,Tienda de barrio,Este,R13,2024-10-05
+C1155,Restaurante o pensión,Oeste,R17,2024-10-19
+C1156,Mayorista,Oeste,R17,2024-10-18
+C1157,Tienda de barrio,Sur,R09,2024-10-11
+C1158,Mayorista,Centro,R24,2024-10-07
+C1159,Tienda de barrio,Norte,R06,2024-10-13
+C1160,Tienda de barrio,Centro,R23,2024-10-01
+C1161,Kiosco,Norte,R06,2024-10-26
+C1162,Kiosco,Oeste,R18,2024-10-13
+C1163,Tienda de barrio,Este,R13,2024-10-27
+C1164,Kiosco,Sur,R11,2024-10-26
+C1165,Kiosco,Norte,R04,2024-10-20
+C1166,Kiosco,Centro,R23,2024-10-29
+C1167,Tienda de barrio,Centro,R21,2024-10-21
+C1168,Minimercado,Sur,R09,2024-10-23
+C1169,Minimercado,Norte,R03,2024-10-06
+C1170,Tienda de barrio,Sur,R11,2024-10-27
+C1171,Tienda de barrio,Norte,R02,2024-10-18
+C1172,Tienda de barrio,Sur,R07,2024-10-10
+C1173,Restaurante o pensión,Centro,R23,2024-10-12
+C1174,Tienda de barrio,Sur,R08,2024-10-28
+C1175,Tienda de barrio,Este,R13,2024-10-31
+C1176,Tienda de barrio,Centro,R21,2024-10-11
+C1177,Restaurante o pensión,Este,R12,2024-10-17
+C1178,Restaurante o pensión,Centro,R23,2024-10-27
+C1179,Tienda de barrio,Sur,R09,2024-10-18
+C1180,Tienda de barrio,Norte,R05,2024-10-03
+C1181,Tienda de barrio,Centro,R23,2024-10-01
+C1182,Tienda de barrio,Este,R15,2024-10-10
+C1183,Tienda de barrio,Sur,R09,2024-10-29
+C1184,Minimercado,Este,R12,2024-10-29
+C1185,Restaurante o pensión,Este,R16,2024-11-09
+C1186,Kiosco,Este,R15,2024-11-19
+C1187,Restaurante o pensión,Norte,R06,2024-11-05
+C1188,Minimercado,Oeste,R19,2024-11-22
+C1189,Tienda de barrio,Sur,R10,2024-11-27
+C1190,Tienda de barrio,Norte,R03,2024-11-13
+C1191,Tienda de barrio,Este,R15,2024-11-23
+C1192,Tienda de barrio,Norte,R04,2024-11-19
+C1193,Tienda de barrio,Oeste,R18,2024-11-01
+C1194,Minimercado,Norte,R06,2024-11-10
+C1195,Minimercado,Norte,R05,2024-11-14
+C1196,Kiosco,Oeste,R20,2024-11-08
+C1197,Kiosco,Sur,R08,2024-11-25
+C1198,Tienda de barrio,Sur,R09,2024-11-02
+C1199,Tienda de barrio,Norte,R02,2024-11-06
+C1200,Tienda de barrio,Oeste,R20,2024-11-11
+C1201,Tienda de barrio,Este,R13,2024-11-12
+C1202,Kiosco,Norte,R06,2024-11-04
+C1203,Tienda de barrio,Oeste,R17,2024-11-24
+C1204,Minimercado,Sur,R08,2024-11-25
+C1205,Minimercado,Este,R14,2024-11-14
+C1206,Minimercado,Oeste,R19,2024-12-31
+C1207,Tienda de barrio,Norte,R04,2024-12-26
+C1208,Tienda de barrio,Este,R13,2024-12-11
+C1209,Tienda de barrio,Norte,R01,2024-12-31
+C1210,Tienda de barrio,Norte,R06,2024-12-19
+C1211,Minimercado,Norte,R04,2024-12-18
+C1212,Tienda de barrio,Este,R13,2024-12-17
+C1213,Kiosco,Norte,R04,2024-12-30
+C1214,Mayorista,Este,R13,2024-12-25
+C1215,Kiosco,Oeste,R19,2024-12-11
+C1216,Tienda de barrio,Este,R15,2024-12-13
+C1217,Tienda de barrio,Este,R16,2024-12-24
+C1218,Kiosco,Este,R16,2024-12-21
+C1219,Mayorista,Centro,R24,2024-12-15
+C1220,Kiosco,Centro,R23,2024-12-22
+C1221,Minimercado,Sur,R09,2024-12-18
+C1222,Minimercado,Centro,R21,2024-12-03
+C1223,Kiosco,Norte,R03,2024-12-15
+C1224,Tienda de barrio,Centro,R23,2024-12-11
+C1225,Kiosco,Norte,R01,2024-12-07
+C1226,Tienda de barrio,Norte,R03,2024-12-06
+C1227,Tienda de barrio,Este,R13,2024-12-05
+C1228,Minimercado,Centro,R24,2024-12-31
+C1229,Kiosco,Sur,R09,2024-12-28
+C1230,Tienda de barrio,Sur,R07,2024-12-01
+C1231,Mayorista,Norte,R06,2024-12-07
+C1232,Tienda de barrio,Oeste,R17,2025-01-15
+C1233,Kiosco,Este,R13,2025-01-17
+C1234,Minimercado,Este,R16,2025-01-12
+C1235,Minimercado,Norte,R04,2025-01-15
+C1236,Tienda de barrio,Norte,R03,2025-01-25
+C1237,Tienda de barrio,Oeste,R18,2025-01-14
+C1238,Kiosco,Norte,R01,2025-01-19
+C1239,Kiosco,Norte,R02,2025-01-26
+C1240,Tienda de barrio,Sur,R08,2025-01-11
+C1241,Minimercado,Sur,R11,2025-01-28
+C1242,Restaurante o pensión,Norte,R06,2025-01-02
+C1243,Kiosco,Oeste,R19,2025-01-01
+C1244,Tienda de barrio,Este,R13,2025-01-05
+C1245,Minimercado,Oeste,R17,2025-01-20
+C1246,Minimercado,Sur,R08,2025-01-31
+C1247,Tienda de barrio,Este,R15,2025-01-23
+C1248,Tienda de barrio,Sur,R11,2025-02-18
+C1249,Kiosco,Norte,R01,2025-02-10
+C1250,Tienda de barrio,Norte,R02,2025-02-07
+C1251,Tienda de barrio,Norte,R05,2025-02-18
+C1252,Kiosco,Este,R14,2025-02-24
+C1253,Tienda de barrio,Norte,R04,2025-02-28
+C1254,Kiosco,Este,R12,2025-02-16
+C1255,Kiosco,Oeste,R17,2025-02-15
+C1256,Minimercado,Norte,R04,2025-02-28
+C1257,Tienda de barrio,Centro,R24,2025-02-21
+C1258,Restaurante o pensión,Norte,R06,2025-02-19
+C1259,Tienda de barrio,Sur,R08,2025-02-03
+C1260,Restaurante o pensión,Norte,R04,2025-02-27
+C1261,Kiosco,Este,R14,2025-02-14
+C1262,Restaurante o pensión,Sur,R09,2025-02-15
+C1263,Minimercado,Este,R13,2025-02-10
+C1264,Kiosco,Centro,R23,2025-02-20
+C1265,Kiosco,Norte,R04,2025-02-03
+C1266,Tienda de barrio,Norte,R01,2025-02-26
+C1267,Restaurante o pensión,Norte,R05,2025-02-17
+C1268,Tienda de barrio,Centro,R24,2025-02-01
+C1269,Restaurante o pensión,Este,R14,2025-02-10
+C1270,Minimercado,Sur,R11,2025-03-02
+C1271,Tienda de barrio,Centro,R23,2025-03-18
+C1272,Minimercado,Este,R13,2025-03-20
+C1273,Tienda de barrio,Norte,R02,2025-03-21
+C1274,Minimercado,Norte,R05,2025-03-13
+C1275,Minimercado,Este,R16,2025-03-25
+C1276,Tienda de barrio,Norte,R04,2025-03-12
+C1277,Tienda de barrio,Centro,R24,2025-03-08
+C1278,Mayorista,Oeste,R17,2025-03-02
+C1279,Kiosco,Centro,R21,2025-03-07
+C1280,Tienda de barrio,Este,R15,2025-03-01
+C1281,Restaurante o pensión,Norte,R03,2025-03-05
+C1282,Tienda de barrio,Sur,R08,2025-03-21
+C1283,Minimercado,Este,R13,2025-03-11
+C1284,Tienda de barrio,Centro,R24,2025-03-13
+C1285,Restaurante o pensión,Oeste,R17,2025-03-13
+C1286,Minimercado,Sur,R11,2025-03-17
+C1287,Restaurante o pensión,Sur,R07,2025-03-19
+C1288,Kiosco,Centro,R24,2025-03-03
+C1289,Tienda de barrio,Norte,R06,2025-03-15
+C1290,Kiosco,Norte,R06,2025-03-08
+C1291,Minimercado,Sur,R08,2025-03-22
+C1292,Tienda de barrio,Centro,R21,2025-03-28
+C1293,Restaurante o pensión,Norte,R06,2025-03-04
+C1294,Kiosco,Norte,R04,2025-03-09
+C1295,Tienda de barrio,Sur,R11,2025-04-26
+C1296,Tienda de barrio,Este,R14,2025-04-23
+C1297,Restaurante o pensión,Este,R16,2025-04-22
+C1298,Tienda de barrio,Este,R16,2025-04-14
+C1299,Kiosco,Centro,R22,2025-04-04
+C1300,Kiosco,Oeste,R20,2025-04-28
+C1301,Restaurante o pensión,Oeste,R17,2025-04-30
+C1302,Kiosco,Norte,R03,2025-04-30
+C1303,Tienda de barrio,Centro,R21,2025-04-11
+C1304,Kiosco,Sur,R07,2025-04-04
+C1305,Tienda de barrio,Centro,R23,2025-04-13
+C1306,Minimercado,Oeste,R18,2025-04-02
+C1307,Minimercado,Sur,R11,2025-04-17
+C1308,Tienda de barrio,Oeste,R20,2025-04-14
+C1309,Kiosco,Norte,R05,2025-04-01
+C1310,Minimercado,Centro,R21,2025-04-28
+C1311,Tienda de barrio,Norte,R05,2025-04-19
+C1312,Tienda de barrio,Este,R14,2025-04-02
+C1313,Kiosco,Norte,R04,2025-04-14
+C1314,Minimercado,Este,R13,2025-04-14
+C1315,Tienda de barrio,Sur,R08,2025-04-20
+C1316,Tienda de barrio,Norte,R05,2025-04-25
+C1317,Kiosco,Sur,R10,2025-04-28
+C1318,Tienda de barrio,Este,R14,2025-04-16
+C1319,Minimercado,Sur,R10,2025-04-24
+C1320,Restaurante o pensión,Norte,R02,2025-04-05
+C1321,Tienda de barrio,Norte,R06,2025-04-18
+C1322,Mayorista,Sur,R07,2025-04-08
+C1323,Tienda de barrio,Sur,R08,2025-04-17
+C1324,Tienda de barrio,Sur,R11,2025-05-17
+C1325,Tienda de barrio,Norte,R06,2025-05-24
+C1326,Tienda de barrio,Este,R13,2025-05-10
+C1327,Tienda de barrio,Este,R14,2025-05-16
+C1328,Minimercado,Norte,R01,2025-05-14
+C1329,Tienda de barrio,Este,R13,2025-05-06
+C1330,Tienda de barrio,Centro,R23,2025-05-04
+C1331,Tienda de barrio,Centro,R23,2025-05-28
+C1332,Kiosco,Oeste,R18,2025-05-26
+C1333,Minimercado,Oeste,R17,2025-05-31
+C1334,Tienda de barrio,Oeste,R19,2025-05-04
+C1335,Tienda de barrio,Norte,R04,2025-05-05
+C1336,Minimercado,Norte,R02,2025-05-15
+C1337,Tienda de barrio,Norte,R05,2025-05-16
+C1338,Kiosco,Oeste,R19,2025-05-05
+C1339,Minimercado,Sur,R09,2025-05-08
+C1340,Tienda de barrio,Este,R15,2025-05-31
+C1341,Tienda de barrio,Norte,R02,2025-05-29
+C1342,Kiosco,Norte,R01,2025-05-25
+C1343,Tienda de barrio,Sur,R11,2025-05-13
+C1344,Tienda de barrio,Centro,R21,2025-05-25
+C1345,Tienda de barrio,Norte,R06,2025-05-14
+C1346,Kiosco,Este,R13,2025-05-01
+C1347,Kiosco,Este,R15,2025-05-14
+C1348,Restaurante o pensión,Este,R16,2025-05-23
+C1349,Tienda de barrio,Oeste,R20,2025-05-20
+C1350,Minimercado,Este,R14,2025-05-02
+C1351,Tienda de barrio,Norte,R05,2025-05-29
+C1352,Restaurante o pensión,Centro,R24,2025-05-11
+C1353,Kiosco,Centro,R22,2025-06-18
+C1354,Tienda de barrio,Este,R16,2025-06-12
+C1355,Kiosco,Centro,R23,2025-06-03
+C1356,Tienda de barrio,Este,R16,2025-06-16
+C1357,Tienda de barrio,Oeste,R20,2025-06-13
+C1358,Kiosco,Este,R14,2025-06-12
+C1359,Tienda de barrio,Norte,R01,2025-06-25
+C1360,Tienda de barrio,Norte,R02,2025-06-05
+C1361,Minimercado,Sur,R10,2025-06-29
+C1362,Mayorista,Centro,R23,2025-06-07
+C1363,Tienda de barrio,Norte,R03,2025-06-05
+C1364,Tienda de barrio,Oeste,R20,2025-06-15
+C1365,Tienda de barrio,Este,R13,2025-06-24
+C1366,Tienda de barrio,Centro,R24,2025-06-11
+C1367,Minimercado,Centro,R23,2025-06-11
+C1368,Kiosco,Oeste,R19,2025-06-15
+C1369,Restaurante o pensión,Norte,R02,2025-06-26
+C1370,Restaurante o pensión,Este,R13,2025-06-04
+C1371,Tienda de barrio,Este,R15,2025-06-21
+C1372,Minimercado,Norte,R04,2025-06-08
+C1373,Tienda de barrio,Este,R12,2025-06-29
+C1374,Restaurante o pensión,Este,R13,2025-06-04
+C1375,Restaurante o pensión,Norte,R03,2025-06-22
+C1376,Restaurante o pensión,Norte,R06,2025-06-22
+C1377,Mayorista,Centro,R24,2025-06-26
+C1378,Kiosco,Sur,R09,2025-06-19
+C1379,Tienda de barrio,Norte,R03,2025-06-14
+C1380,Restaurante o pensión,Centro,R24,2025-06-18
+C1381,Tienda de barrio,Este,R13,2025-06-14
+C1382,Tienda de barrio,Este,R15,2025-06-04
+C1383,Tienda de barrio,Norte,R06,2025-06-11
+C1384,Tienda de barrio,Centro,R24,2025-06-14
+C1385,Mayorista,Centro,R22,2025-06-16
+C1386,Tienda de barrio,Este,R14,2025-06-25
+C1387,Kiosco,Sur,R09,2025-06-20
+C1388,Kiosco,Sur,R09,2025-07-07
+C1389,Mayorista,Oeste,R19,2025-07-29
+C1390,Kiosco,Este,R15,2025-07-14
+C1391,Restaurante o pensión,Oeste,R19,2025-07-05
+C1392,Minimercado,Norte,R03,2025-07-18
+C1393,Kiosco,Centro,R24,2025-07-30
+C1394,Tienda de barrio,Oeste,R17,2025-07-07
+C1395,Tienda de barrio,Centro,R22,2025-07-19
+C1396,Minimercado,Este,R12,2025-07-07
+C1397,Minimercado,Norte,R05,2025-07-24
+C1398,Tienda de barrio,Norte,R05,2025-07-08
+C1399,Restaurante o pensión,Este,R15,2025-07-06
+C1400,Kiosco,Este,R15,2025-07-06
+C1401,Restaurante o pensión,Este,R13,2025-07-05
+C1402,Minimercado,Este,R15,2025-07-22
+C1403,Mayorista,Este,R14,2025-07-06
+C1404,Tienda de barrio,Norte,R03,2025-07-08
+C1405,Tienda de barrio,Este,R15,2025-07-28
+C1406,Kiosco,Norte,R03,2025-07-07
+C1407,Tienda de barrio,Sur,R09,2025-07-19
+C1408,Kiosco,Este,R13,2025-07-05
+C1409,Kiosco,Sur,R09,2025-07-24
+C1410,Restaurante o pensión,Sur,R11,2025-07-10
+C1411,Tienda de barrio,Oeste,R19,2025-07-29
+C1412,Minimercado,Centro,R24,2025-07-06
+C1413,Restaurante o pensión,Sur,R11,2025-07-25
+C1414,Tienda de barrio,Este,R15,2025-07-10
+C1415,Tienda de barrio,Norte,R01,2025-08-28
+C1416,Kiosco,Este,R14,2025-08-02
+C1417,Tienda de barrio,Oeste,R19,2025-08-10
+C1418,Tienda de barrio,Centro,R22,2025-08-20
+C1419,Minimercado,Centro,R22,2025-08-29
+C1420,Minimercado,Este,R15,2025-08-14
+C1421,Tienda de barrio,Sur,R09,2025-08-10
+C1422,Minimercado,Este,R16,2025-08-27
+C1423,Tienda de barrio,Norte,R02,2025-08-02
+C1424,Kiosco,Centro,R22,2025-08-16
+C1425,Kiosco,Centro,R21,2025-08-13
+C1426,Kiosco,Sur,R08,2025-08-04
+C1427,Kiosco,Oeste,R18,2025-08-01
+C1428,Tienda de barrio,Este,R12,2025-08-22
+C1429,Kiosco,Centro,R23,2025-08-01
+C1430,Tienda de barrio,Este,R15,2025-08-18
+C1431,Minimercado,Sur,R11,2025-08-29
+C1432,Tienda de barrio,Oeste,R17,2025-08-14
+C1433,Kiosco,Centro,R22,2025-08-27
+C1434,Tienda de barrio,Sur,R10,2025-08-12
+C1435,Tienda de barrio,Este,R13,2025-08-23
+C1436,Kiosco,Oeste,R18,2025-08-13
+C1437,Minimercado,Centro,R24,2025-09-26
+C1438,Tienda de barrio,Sur,R09,2025-09-20
+C1439,Tienda de barrio,Oeste,R19,2025-09-03
+C1440,Kiosco,Norte,R06,2025-09-02
+C1441,Restaurante o pensión,Este,R14,2025-09-06
+C1442,Minimercado,Oeste,R18,2025-09-30
+C1443,Tienda de barrio,Centro,R23,2025-09-02
+C1444,Kiosco,Este,R14,2025-09-14
+C1445,Tienda de barrio,Centro,R21,2025-09-29
+C1446,Minimercado,Centro,R21,2025-09-03
+C1447,Tienda de barrio,Oeste,R18,2025-09-10
+C1448,Tienda de barrio,Centro,R24,2025-09-16
+C1449,Kiosco,Este,R16,2025-09-05
+C1450,Minimercado,Norte,R04,2025-09-26
+C1451,Kiosco,Sur,R10,2025-09-03
+C1452,Tienda de barrio,Sur,R11,2025-09-23
+C1453,Kiosco,Este,R14,2025-09-24
+C1454,Tienda de barrio,Este,R12,2025-09-11
+C1455,Restaurante o pensión,Norte,R03,2025-09-12
+C1456,Minimercado,Oeste,R17,2025-09-01
+C1457,Minimercado,Norte,R06,2025-10-31
+C1458,Mayorista,Norte,R02,2025-10-10
+C1459,Tienda de barrio,Norte,R03,2025-10-18
+C1460,Minimercado,Este,R14,2025-10-08
+C1461,Minimercado,Sur,R10,2025-10-22
+C1462,Kiosco,Este,R13,2025-10-05
+C1463,Tienda de barrio,Norte,R02,2025-10-23
+C1464,Restaurante o pensión,Centro,R21,2025-10-30
+C1465,Tienda de barrio,Sur,R07,2025-10-29
+C1466,Kiosco,Norte,R01,2025-10-30
+C1467,Tienda de barrio,Centro,R24,2025-10-11
+C1468,Tienda de barrio,Este,R12,2025-10-02
+C1469,Kiosco,Oeste,R20,2025-10-03
+C1470,Tienda de barrio,Oeste,R17,2025-10-05
+C1471,Restaurante o pensión,Oeste,R20,2025-10-25
+C1472,Kiosco,Este,R12,2025-10-15
+C1473,Kiosco,Sur,R07,2025-10-27
+C1474,Tienda de barrio,Sur,R10,2025-10-11
+C1475,Minimercado,Sur,R07,2025-10-02
+C1476,Tienda de barrio,Este,R14,2025-10-21
+C1477,Tienda de barrio,Este,R15,2025-10-02
+C1478,Tienda de barrio,Centro,R23,2025-10-13
+C1479,Tienda de barrio,Este,R13,2025-10-13
+C1480,Tienda de barrio,Sur,R08,2025-10-17
+C1481,Minimercado,Norte,R03,2025-10-22
+C1482,Minimercado,Sur,R09,2025-11-10
+C1483,Kiosco,Centro,R24,2025-11-10
+C1484,Tienda de barrio,Norte,R05,2025-11-02
+C1485,Minimercado,Norte,R04,2025-11-07
+C1486,Tienda de barrio,Oeste,R19,2025-11-02
+C1487,Minimercado,Este,R14,2025-11-10
+C1488,Tienda de barrio,Este,R13,2025-11-15
+C1489,Restaurante o pensión,Oeste,R18,2025-11-16
+C1490,Kiosco,Este,R13,2025-11-13
+C1491,Tienda de barrio,Norte,R05,2025-11-30
+C1492,Minimercado,Sur,R10,2025-11-27
+C1493,Minimercado,Este,R14,2025-11-11
+C1494,Minimercado,Centro,R24,2025-11-24
+C1495,Minimercado,Este,R15,2025-11-05
+C1496,Tienda de barrio,Sur,R07,2025-11-01
+C1497,Restaurante o pensión,Oeste,R17,2025-11-11
+C1498,Minimercado,Sur,R11,2025-11-19
+C1499,Tienda de barrio,Centro,R22,2025-11-23
+C1500,Kiosco,Sur,R07,2025-11-29
+C1501,Tienda de barrio,Este,R13,2025-11-29
+C1502,Tienda de barrio,Oeste,R19,2025-11-14
+C1503,Tienda de barrio,Oeste,R17,2025-11-06
+C1504,Tienda de barrio,Norte,R01,2025-11-10
+C1505,Tienda de barrio,Sur,R07,2025-11-03
+C1506,Kiosco,Sur,R08,2025-11-23
+C1507,Tienda de barrio,Sur,R11,2025-11-21
+C1508,Tienda de barrio,Norte,R05,2025-11-28
+C1509,Tienda de barrio,Este,R12,2025-11-28
+C1510,Tienda de barrio,Centro,R23,2025-11-17
+C1511,Tienda de barrio,Centro,R23,2025-11-29
+C1512,Restaurante o pensión,Sur,R07,2025-11-30
+C1513,Minimercado,Sur,R11,2025-11-23
+C1514,Restaurante o pensión,Sur,R09,2025-12-22
+C1515,Kiosco,Norte,R02,2025-12-29
+C1516,Kiosco,Sur,R09,2025-12-22
+C1517,Kiosco,Sur,R09,2025-12-15
+C1518,Minimercado,Sur,R11,2025-12-17
+C1519,Restaurante o pensión,Centro,R23,2025-12-21
+C1520,Tienda de barrio,Centro,R21,2025-12-01
+C1521,Restaurante o pensión,Sur,R09,2025-12-11
+C1522,Tienda de barrio,Sur,R08,2025-12-14
+C1523,Tienda de barrio,Sur,R11,2025-12-19
+C1524,Minimercado,Norte,R06,2025-12-17
+C1525,Tienda de barrio,Sur,R08,2025-12-05
+C1526,Tienda de barrio,Este,R14,2025-12-09
+C1527,Minimercado,Sur,R08,2025-12-28
+C1528,Tienda de barrio,Oeste,R17,2025-12-03
+C1529,Tienda de barrio,Este,R15,2025-12-03
+C1530,Tienda de barrio,Centro,R23,2025-12-30
+C1531,Tienda de barrio,Norte,R06,2025-12-17
+C1532,Tienda de barrio,Sur,R07,2025-12-05
+C1533,Kiosco,Este,R16,2025-12-03
+C1534,Tienda de barrio,Centro,R23,2025-12-18
+C1535,Tienda de barrio,Centro,R24,2025-12-09
+C1536,Minimercado,Oeste,R17,2025-12-04
+C1537,Tienda de barrio,Sur,R11,2025-12-27
+C1538,Mayorista,Este,R14,2025-12-18
+C1539,Tienda de barrio,Norte,R02,2025-12-10
+C1540,Restaurante o pensión,Norte,R04,2025-12-03
+C1541,Restaurante o pensión,Norte,R01,2026-01-12
+C1542,Tienda de barrio,Norte,R01,2026-01-07
+C1543,Kiosco,Oeste,R19,2026-01-26
+C1544,Kiosco,Norte,R02,2026-01-10
+C1545,Tienda de barrio,Este,R12,2026-01-04
+C1546,Tienda de barrio,Sur,R08,2026-01-24
+C1547,Minimercado,Sur,R11,2026-01-13
+C1548,Restaurante o pensión,Norte,R06,2026-01-20
+C1549,Minimercado,Norte,R06,2026-01-31
+C1550,Minimercado,Este,R15,2026-01-17
+C1551,Tienda de barrio,Centro,R23,2026-01-06
+C1552,Restaurante o pensión,Centro,R22,2026-01-02
+C1553,Minimercado,Sur,R07,2026-01-16
+C1554,Minimercado,Este,R14,2026-01-19
+C1555,Restaurante o pensión,Este,R14,2026-01-06
+C1556,Mayorista,Oeste,R20,2026-01-27
+C1557,Kiosco,Norte,R03,2026-01-03
+C1558,Tienda de barrio,Sur,R11,2026-01-30
+C1559,Tienda de barrio,Este,R15,2026-01-25
+C1560,Tienda de barrio,Este,R15,2026-01-24
+C1561,Tienda de barrio,Centro,R24,2026-01-14
+C1562,Minimercado,Sur,R07,2026-01-04
+C1563,Tienda de barrio,Norte,R01,2026-01-15
+C1564,Minimercado,Centro,R23,2026-01-05
+C1565,Restaurante o pensión,Norte,R05,2026-01-02
+C1566,Minimercado,Centro,R23,2026-01-08
+C1567,Kiosco,Centro,R22,2026-01-03
+C1568,Restaurante o pensión,Oeste,R19,2026-01-16
+C1569,Tienda de barrio,Norte,R02,2026-02-21
+C1570,Mayorista,Este,R12,2026-02-07
+C1571,Tienda de barrio,Este,R13,2026-02-12
+C1572,Minimercado,Este,R16,2026-02-22
+C1573,Tienda de barrio,Centro,R21,2026-02-09
+C1574,Tienda de barrio,Norte,R02,2026-02-27
+C1575,Kiosco,Norte,R01,2026-02-28
+C1576,Tienda de barrio,Oeste,R18,2026-02-12
+C1577,Tienda de barrio,Centro,R21,2026-02-18
+C1578,Tienda de barrio,Oeste,R19,2026-02-08
+C1579,Tienda de barrio,Norte,R02,2026-02-02
+C1580,Restaurante o pensión,Sur,R07,2026-02-15
+C1581,Tienda de barrio,Este,R12,2026-02-16
+C1582,Tienda de barrio,Sur,R08,2026-02-14
+C1583,Tienda de barrio,Este,R12,2026-02-13
+C1584,Restaurante o pensión,Centro,R22,2026-02-15
+C1585,Mayorista,Sur,R11,2026-02-10
+C1586,Tienda de barrio,Oeste,R17,2026-02-18
+C1587,Kiosco,Este,R13,2026-02-24
+C1588,Mayorista,Sur,R11,2026-02-05
+C1589,Mayorista,Centro,R24,2026-02-28
+C1590,Tienda de barrio,Centro,R24,2026-02-06
+C1591,Kiosco,Sur,R10,2026-02-09
+C1592,Tienda de barrio,Norte,R06,2026-02-18
+C1593,Restaurante o pensión,Oeste,R18,2026-02-04
+C1594,Minimercado,Este,R13,2026-02-09
+C1595,Minimercado,Centro,R22,2026-02-13
+C1596,Tienda de barrio,Centro,R22,2026-02-09
+C1597,Mayorista,Centro,R24,2026-02-18
+C1598,Mayorista,Este,R15,2026-02-10
+C1599,Tienda de barrio,Norte,R04,2026-02-22
+C1600,Tienda de barrio,Este,R16,2026-02-23
+C1601,Tienda de barrio,Norte,R01,2026-02-10
+C1602,Tienda de barrio,Centro,R23,2026-03-21
+C1603,Tienda de barrio,Centro,R24,2026-03-19
+C1604,Minimercado,Sur,R07,2026-03-24
+C1605,Minimercado,Norte,R05,2026-03-19
+C1606,Tienda de barrio,Sur,R08,2026-03-28
+C1607,Minimercado,Este,R12,2026-03-12
+C1608,Kiosco,Norte,R05,2026-03-26
+C1609,Tienda de barrio,Oeste,R19,2026-03-21
+C1610,Tienda de barrio,Norte,R03,2026-03-11
+C1611,Tienda de barrio,Este,R16,2026-03-23
+C1612,Mayorista,Norte,R06,2026-03-31
+C1613,Minimercado,Norte,R04,2026-03-19
+C1614,Tienda de barrio,Norte,R06,2026-03-23
+C1615,Tienda de barrio,Sur,R08,2026-03-16
+C1616,Kiosco,Sur,R08,2026-03-14
+C1617,Minimercado,Oeste,R19,2026-03-16
+C1618,Restaurante o pensión,Sur,R08,2026-03-26
+C1619,Tienda de barrio,Este,R13,2026-03-08
+C1620,Kiosco,Este,R13,2026-03-25
+C1621,Tienda de barrio,Oeste,R18,2026-03-13
+C1622,Minimercado,Centro,R22,2026-03-12
+C1623,Minimercado,Centro,R21,2026-03-30
+C1624,Tienda de barrio,Norte,R05,2026-03-25
+C1625,Kiosco,Oeste,R20,2026-03-19
+C1626,Tienda de barrio,Centro,R22,2026-03-06
+C1627,Tienda de barrio,Este,R16,2026-03-31
+C1628,Minimercado,Norte,R03,2026-03-28
+C1629,Restaurante o pensión,Norte,R03,2026-04-20
+C1630,Kiosco,Norte,R06,2026-04-22
+C1631,Tienda de barrio,Sur,R09,2026-04-28
+C1632,Tienda de barrio,Este,R16,2026-04-24
+C1633,Tienda de barrio,Este,R15,2026-04-16
+C1634,Minimercado,Centro,R22,2026-04-05
+C1635,Tienda de barrio,Este,R13,2026-04-22
+C1636,Restaurante o pensión,Centro,R21,2026-04-25
+C1637,Kiosco,Norte,R05,2026-04-27
+C1638,Minimercado,Este,R16,2026-04-28
+C1639,Tienda de barrio,Centro,R21,2026-04-20
+C1640,Tienda de barrio,Sur,R08,2026-04-08
+C1641,Minimercado,Este,R12,2026-04-02
+C1642,Mayorista,Oeste,R19,2026-04-18
+C1643,Restaurante o pensión,Centro,R24,2026-04-05
+C1644,Tienda de barrio,Oeste,R17,2026-04-15
+C1645,Tienda de barrio,Este,R12,2026-04-01
+C1646,Tienda de barrio,Centro,R23,2026-05-03
+C1647,Tienda de barrio,Sur,R09,2026-05-05
+C1648,Restaurante o pensión,Oeste,R18,2026-05-04
+C1649,Mayorista,Oeste,R19,2026-05-21
+C1650,Minimercado,Centro,R24,2026-05-17
+C1651,Tienda de barrio,Oeste,R20,2026-05-14
+C1652,Tienda de barrio,Este,R13,2026-05-05
+C1653,Tienda de barrio,Este,R15,2026-05-07
+C1654,Tienda de barrio,Norte,R02,2026-05-17
+C1655,Tienda de barrio,Sur,R07,2026-05-21
+C1656,Tienda de barrio,Centro,R22,2026-05-06
+C1657,Tienda de barrio,Norte,R05,2026-05-02
+C1658,Restaurante o pensión,Este,R15,2026-05-06
+C1659,Tienda de barrio,Este,R13,2026-05-11
+C1660,Mayorista,Oeste,R17,2026-05-29
+C1661,Tienda de barrio,Oeste,R18,2026-05-12
+C1662,Kiosco,Centro,R21,2026-05-31
+C1663,Restaurante o pensión,Este,R14,2026-05-07
+C1664,Kiosco,Sur,R11,2026-06-22
+C1665,Restaurante o pensión,Oeste,R19,2026-06-27
+C1666,Tienda de barrio,Este,R15,2026-06-06
+C1667,Tienda de barrio,Este,R16,2026-06-12
+C1668,Tienda de barrio,Oeste,R19,2026-06-03
+C1669,Restaurante o pensión,Centro,R21,2026-06-26
+C1670,Kiosco,Centro,R24,2026-06-15
+C1671,Minimercado,Oeste,R18,2026-06-18
+C1672,Kiosco,Sur,R10,2026-06-22
+C1673,Restaurante o pensión,Este,R12,2026-06-21
+C1674,Minimercado,Oeste,R18,2026-06-29
+C1675,Kiosco,Centro,R21,2026-06-24
+C1676,Mayorista,Centro,R23,2026-06-18
+C1677,Tienda de barrio,Centro,R21,2026-06-01
+C1678,Tienda de barrio,Sur,R07,2026-06-11
+C1679,Tienda de barrio,Norte,R01,2026-06-11
+C1680,Minimercado,Sur,R11,2026-06-18
+C1681,Kiosco,Centro,R24,2026-06-21
+C1682,Tienda de barrio,Norte,R05,2026-06-04
+C1683,Kiosco,Norte,R06,2026-06-30
+C1684,Kiosco,Centro,R24,2026-06-15
+C1685,Kiosco,Sur,R07,2026-06-02
+C1686,Tienda de barrio,Centro,R22,2026-06-13
+C1687,Kiosco,Centro,R23,2026-06-06
+C1688,Restaurante o pensión,Sur,R09,2026-07-13
+C1689,Kiosco,Sur,R09,2026-07-12
+C1690,Tienda de barrio,Norte,R06,2026-07-17
+C1691,Restaurante o pensión,Norte,R02,2026-07-30
+C1692,Tienda de barrio,Centro,R22,2026-07-02
+C1693,Tienda de barrio,Oeste,R19,2026-07-12
+C1694,Minimercado,Sur,R09,2026-07-15
+C1695,Restaurante o pensión,Este,R12,2026-07-21
+C1696,Minimercado,Norte,R04,2026-07-01
+C1697,Tienda de barrio,Sur,R10,2026-07-17
+C1698,Restaurante o pensión,Norte,R06,2026-07-29
+C1699,Restaurante o pensión,Este,R12,2026-07-17
+C1701,Minimercado,Norte,R03,2026-07-13
+C1702,Kiosco,Este,R15,2026-07-21
+C1703,Tienda de barrio,Sur,R07,2026-07-24
+C1704,Kiosco,Centro,R21,2026-07-09
+C1705,Tienda de barrio,Centro,R22,2026-07-21
+C1706,Restaurante o pensión,Este,R13,2026-07-14
+C1707,Tienda de barrio,Norte,R06,2026-07-09
+C1708,Tienda de barrio,Este,R12,2026-07-21
+C1709,Mayorista,Norte,R03,2026-07-22
+C1710,Minimercado,Centro,R22,2026-07-05
+C1711,Kiosco,Sur,R10,2026-07-06
+C1712,Kiosco,Este,R12,2026-07-19
+C1713,Restaurante o pensión,Norte,R01,2026-07-25
+C1714,Tienda de barrio,Sur,R09,2026-07-15
+C1715,Tienda de barrio,Norte,R04,2026-07-18
+C1716,Kiosco,Este,R13,2026-07-01
+C1717,Kiosco,Centro,R23,2026-07-23
+C1718,Restaurante o pensión,Este,R16,2026-07-17
+C1719,Kiosco,Sur,R11,2026-07-31
+C1720,Tienda de barrio,Oeste,R19,2026-07-26
+C1721,Restaurante o pensión,Oeste,R19,2026-08-16
+C1722,Tienda de barrio,Sur,R07,2026-08-27
+C1723,Restaurante o pensión,Oeste,R18,2026-08-17
+C1724,Restaurante o pensión,Oeste,R18,2026-08-27
+C1725,Kiosco,Norte,R06,2026-08-25
+C1726,Kiosco,Este,R12,2026-08-14
+C1727,Kiosco,Centro,R22,2026-08-24
+C1728,Minimercado,Centro,R22,2026-08-03
+C1729,Tienda de barrio,Oeste,R19,2026-08-31
+C1730,Minimercado,Norte,R03,2026-08-09
+C1731,Tienda de barrio,Centro,R24,2026-08-28
+C1732,Kiosco,Norte,R06,2026-08-05
+C1733,Restaurante o pensión,Este,R13,2026-08-08
+C1734,Tienda de barrio,Este,R13,2026-08-17
+C1735,Tienda de barrio,Centro,R22,2026-08-20
+C1736,Tienda de barrio,Sur,R09,2026-08-01
+C1737,Tienda de barrio,Oeste,R18,2026-08-22
+C1738,Minimercado,Este,R12,2026-08-21
+C1739,Tienda de barrio,Centro,R22,2026-08-19
+C1740,Kiosco,Norte,R02,2026-08-21
+C1741,Tienda de barrio,Sur,R10,2026-08-25
+C1742,Tienda de barrio,Norte,R06,2026-08-08
+C1743,Tienda de barrio,Este,R16,2026-08-02
+C1744,Minimercado,Este,R14,2026-08-27
+C1745,Restaurante o pensión,Norte,R02,2026-08-30
+C1746,Tienda de barrio,Oeste,R20,2026-08-07
+C1747,Tienda de barrio,Centro,R22,2026-08-01
+C1748,Tienda de barrio,Sur,R09,2026-08-05
+C1749,Tienda de barrio,Este,R12,2026-08-25
+C1750,Kiosco,Norte,R01,2026-08-12
+C1751,Minimercado,Oeste,R19,2026-09-23
+C1752,Tienda de barrio,Centro,R21,2026-09-29
+C1753,Kiosco,Centro,R24,2026-09-03
+C1754,Minimercado,Norte,R05,2026-09-28
+C1755,Mayorista,Este,R14,2026-09-24
+C1756,Mayorista,Norte,R02,2026-09-08
+C1758,Minimercado,Sur,R08,2026-09-02
+C1759,Tienda de barrio,Centro,R23,2026-09-29
+C1760,Tienda de barrio,Norte,R06,2026-09-01
+C1761,Minimercado,Este,R13,2026-09-28
+C1762,Kiosco,Este,R15,2026-09-30
+C1763,Kiosco,Oeste,R18,2026-09-27
+C1764,Restaurante o pensión,Sur,R08,2026-09-16
+C1765,Mayorista,Norte,R06,2026-09-25
+C1766,Minimercado,Sur,R07,2026-09-26
+C1767,Minimercado,Norte,R06,2026-09-25
+C1768,Minimercado,Este,R12,2026-09-13
+C1769,Tienda de barrio,Norte,R03,2026-09-04
+C1770,Tienda de barrio,Este,R13,2026-09-24
+C1771,Restaurante o pensión,Este,R15,2026-09-21
+C1772,Minimercado,Este,R12,2026-09-11
+C1773,Restaurante o pensión,Oeste,R19,2026-09-25
+C1774,Minimercado,Este,R12,2026-09-03
+C1775,Tienda de barrio,Este,R16,2026-09-30
+C1776,Minimercado,Este,R16,2026-09-19
+C1777,Kiosco,Centro,R24,2026-09-10
+C1778,Tienda de barrio,Este,R16,2026-09-18
+C1779,Tienda de barrio,Norte,R06,2026-09-25
+C1780,Tienda de barrio,Este,R16,2026-09-12
+C1781,Minimercado,Oeste,R20,2026-09-09
